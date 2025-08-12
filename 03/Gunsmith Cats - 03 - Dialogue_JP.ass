@@ -1,0 +1,346 @@
+﻿[Script Info]
+Title: Default file
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 1920
+PlayResY: 1080
+ScaledBorderAndShadow: yes
+Audio File: 
+Video File: 
+Video Aspect Ratio: 0
+Video Zoom: 6
+Video Position: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Dialogue1,Tahoma,64,&H0090FEFD,&H000000FF,&H1F000000,&HC7000000,0,0,0,0,100,100,0,0,1,2.8,3.4,2,120,120,30,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:14.55,0:00:17.60,Dialogue1,Unknown,0000,0000,0000,,{\c&HDA92FC&}A typical commute became\Na scene out of a nightmare today...
+Dialogue: 0,0:00:17.60,0:00:20.92,Dialogue1,Unknown,0000,0000,0000,,{\c&HDA92FC&}...when a burning car plunged off a bridge\Nafter a high-speed chase and gun battle.
+Dialogue: 0,0:00:21.10,0:00:23.31,Dialogue1,Unknown,0000,0000,0000,,{\c&HDA92FC&}Daniel Morgan is on the scene.
+Dialogue: 0,0:00:23.52,0:00:27.48,Dialogue1,Unknown,0000,0000,0000,,{\c&HDCFEFD&}As you can see,\Nafter it plunged off the drawbridge...
+Dialogue: 0,0:00:27.48,0:00:30.03,Dialogue1,Unknown,0000,0000,0000,,{\c&HDCFEFD&}...into the canal, the vehicle\Nreleased a huge plume of smoke.
+Dialogue: 0,0:00:30.03,0:00:32.61,Dialogue1,Unknown,0000,0000,0000,,{\c&HDCFEFD&}Although rescue crews were able\Nto retrieve the car with a crane...
+Dialogue: 0,0:00:32.61,0:00:34.78,Dialogue1,Unknown,0000,0000,0000,,{\c&HDCFEFD&}...no bodies have been recovered so far.
+Dialogue: 0,0:00:34.78,0:00:38.62,Dialogue1,Unknown,0000,0000,0000,,{\c&HDCFEFD&}George Black, director of the ATF\Ndivision in charge of the investigation...
+Dialogue: 0,0:00:38.62,0:00:41.35,Dialogue1,Unknown,0000,0000,0000,,{\c&HDCFEFD&}...told us that the bodies may have\Nbeen swept downstream by the river.
+Dialogue: 0,0:00:41.37,0:00:48.92,Dialogue1,Unknown,0000,0000,0000,,{\c&HB6B891&}With the help of some civilians, we were\Nable to break up a gun-smuggling ring.
+Dialogue: 0,0:00:48.92,0:00:51.55,Dialogue1,Unknown,0000,0000,0000,,{\c&HB6B891&}However, I would like to\Npoint out that this incident...
+Dialogue: 0,0:00:51.55,0:00:56.30,Dialogue1,Unknown,0000,0000,0000,,{\c&HB6B891&}...demonstrates why "vigilantes vs.\Ncriminals" only works in the movies.
+Dialogue: 0,0:00:56.97,0:00:59.89,Dialogue1,Unknown,0000,0000,0000,,{\c&HDA92FC&}We have not yet learned the names\Nof the civilians who were involved.
+Dialogue: 0,0:01:00.10,0:01:03.94,Dialogue1,Unknown,0000,0000,0000,,{\c&HDCFEFD&}Indeed, who would guess that the "civilians"\Nwere getting lectured by the police?
+Dialogue: 0,0:01:06.06,0:01:09.23,Dialogue1,Unknown,0000,0000,0000,,{\c&HDCFEFD&}The moment I get back from my\Nfirst vacation in forever, this happens.
+Dialogue: 0,0:01:09.23,0:01:11.61,Dialogue1,Unknown,0000,0000,0000,,{\c&HDCFEFD&}You've put me in a tough spot, Rally.
+Dialogue: 0,0:01:11.82,0:01:14.78,Dialogue1,Unknown,0000,0000,0000,,{\c&HB6B891&}Don't you think you've\Ngone a bit too far this time?
+Dialogue: 0,0:01:14.99,0:01:19.03,Dialogue1,Unknown,0000,0000,0000,,Aw... Kate, you're blowing\Nthis way out of proportion.
+Dialogue: 0,0:01:19.24,0:01:22.12,Dialogue1,Unknown,0000,0000,0000,,{\c&HDCFEFD&}She's not exaggerating.\NJust take a look outside.
+Dialogue: 0,0:01:22.58,0:01:27.50,Dialogue1,Unknown,0000,0000,0000,,{\c&HDCFEFD&}We've had to send out\Nextra patrols on a weekend.
+Dialogue: 0,0:01:27.92,0:01:30.09,Dialogue1,Unknown,0000,0000,0000,,{\c&HB8FE91&}It wasn't really our fault.
+Dialogue: 0,0:01:30.30,0:01:34.97,Dialogue1,Unknown,0000,0000,0000,,That's right, Roy. We're not the ones\Nwho caused this; we're the victims.
+Dialogue: 0,0:01:35.17,0:01:38.18,Dialogue1,Unknown,0000,0000,0000,,{\c&HDCFEFD&}So why did you ditch the ATF\Nagents assigned to protect you?
+Dialogue: 0,0:01:38.39,0:01:40.26,Dialogue1,Unknown,0000,0000,0000,,{\c&HDCFEFD&}That ATF agent, Collins...
+Dialogue: 0,0:01:40.26,0:01:44.48,Dialogue1,Unknown,0000,0000,0000,,{\c&HDCFEFD&}...told me that you refused to cooperate and\Nmade it impossible for them to protect you.
+Dialogue: 0,0:01:44.68,0:01:45.68,Dialogue1,Unknown,0000,0000,0000,,That asshole...
+Dialogue: 0,0:01:45.85,0:01:47.69,Dialogue1,Unknown,0000,0000,0000,,{\c&HDCFEFD&}Give me the file.
+Dialogue: 0,0:01:46.64,0:01:47.69,Dialogue1,Unknown,0000,0000,0000,,{\c&HDCFEFD&}Here...
+Dialogue: 0,0:01:47.90,0:01:49.94,Dialogue1,Unknown,0000,0000,0000,,{\c&HDCFEFD&}We received this\Ninformation from the ATF.
+Dialogue: 0,0:01:50.15,0:01:53.15,Dialogue1,Unknown,0000,0000,0000,,{\c&HDCFEFD&}She appears to have entered the US\Nfrom Canada about three days ago.
+Dialogue: 0,0:01:54.19,0:01:56.86,Dialogue1,Unknown,0000,0000,0000,,That's her, all right!\NRoy, who is she?
+Dialogue: 0,0:01:57.07,0:02:01.24,Dialogue1,Unknown,0000,0000,0000,,{\c&HDCFEFD&}Natasha Radinov, ex-GRU.
+Dialogue: 0,0:02:01.45,0:02:04.50,Dialogue1,Unknown,0000,0000,0000,,{\c&HDCFEFD&}Currently a freelance "businesswoman."
+Dialogue: 0,0:02:04.50,0:02:06.33,Dialogue1,Unknown,0000,0000,0000,,{\c&HDCFEFD&}She's also known by\Nthe code name "Bloody Pierce."
+Dialogue: 0,0:02:06.33,0:02:09.79,Dialogue1,Unknown,0000,0000,0000,,{\c&HDCFEFD&}It seems she was doing freelance hits even\Nback when she was in the special forces.
+Dialogue: 0,0:02:09.79,0:02:12.47,Dialogue1,Unknown,0000,0000,0000,,{\c&HDCFEFD&}She's a killing machine, trained\Nin every conceivable lethal skill.
+Dialogue: 0,0:02:13.34,0:02:16.05,Dialogue1,Unknown,0000,0000,0000,,{\c&HDCFEFD&}She's basically the Terminator.
+Dialogue: 0,0:02:16.05,0:02:19.39,Dialogue1,Unknown,0000,0000,0000,,{\c&HDCFEFD&}And now she's after you, Rally.
+Dialogue: 0,0:02:19.93,0:02:21.64,Dialogue1,Unknown,0000,0000,0000,,You think she's still alive...?
+Dialogue: 0,0:02:21.85,0:02:24.39,Dialogue1,Unknown,0000,0000,0000,,{\c&HDCFEFD&}Why don't you let us\Nworry about Radinov?
+Dialogue: 0,0:02:24.39,0:02:27.85,Dialogue1,Unknown,0000,0000,0000,,{\c&HDCFEFD&}Your job is to take this\Nbag and go home quietly.
+Dialogue: 0,0:02:28.06,0:02:30.10,Dialogue1,Unknown,0000,0000,0000,,{\c&HB8FE91&}Wha...?\NHuh? What's that?
+Dialogue: 0,0:02:30.31,0:02:32.57,Dialogue1,Unknown,0000,0000,0000,,{\c&HDCFEFD&}It's from me and my wife...
+Dialogue: 0,0:02:32.57,0:02:34.69,Dialogue1,Unknown,0000,0000,0000,,{\c&HDCFEFD&}I'll walk you, our heroes,\Nout the back door.
+Dialogue: 0,0:02:37.11,0:02:39.28,Dialogue1,Unknown,0000,0000,0000,,{\c&HB6B891&}Rally, please don't go overboard again.
+Dialogue: 0,0:02:39.49,0:02:40.74,Dialogue1,Unknown,0000,0000,0000,,Yeah, I know.
+Dialogue: 0,0:02:40.95,0:02:42.08,Dialogue1,Unknown,0000,0000,0000,,{\c&HDCFEFD&}See you.
+Dialogue: 0,0:02:43.37,0:02:45.75,Dialogue1,Unknown,0000,0000,0000,,{\c&HFDDC91&}So much for our chance\Nto make some money.
+Dialogue: 0,0:02:45.95,0:02:49.67,Dialogue1,Unknown,0000,0000,0000,,{\c&HB8FE91&}We just went through hell for nothing.
+Dialogue: 0,0:02:58.55,0:03:01.89,Dialogue1,Unknown,0000,0000,0000,,OK. This is her way of\Nsending us a challenge.
+Dialogue: 0,0:04:40.53,0:04:43.11,Dialogue1,Unknown,0000,0000,0000,,Hello, Gunsmith Cats.
+Dialogue: 0,0:04:43.32,0:04:44.99,Dialogue1,Unknown,0000,0000,0000,,What do you mean? Yes... yes...
+Dialogue: 0,0:04:44.99,0:04:46.45,Dialogue1,Unknown,0000,0000,0000,,What on Earth is this?
+Dialogue: 0,0:04:46.66,0:04:48.87,Dialogue1,Unknown,0000,0000,0000,,{\c&HB8FE91&}Does he think we're\Na bunch of Japanese tourists?
+Dialogue: 0,0:04:49.08,0:04:52.00,Dialogue1,Unknown,0000,0000,0000,,{\c&HFDDC91&}Calm down. He meant well... Huh?
+Dialogue: 0,0:04:53.16,0:04:55.08,Dialogue1,Unknown,0000,0000,0000,,{\c&HFDDC91&}Hey, who was that?
+Dialogue: 0,0:04:55.08,0:04:57.08,Dialogue1,Unknown,0000,0000,0000,,Hey, who was that?\NState senator Heinz's secretary.
+Dialogue: 0,0:04:57.21,0:05:00.67,Dialogue1,Unknown,0000,0000,0000,,It seems he wants to give us an award\Nduring his campaign rally tomorrow.
+Dialogue: 0,0:05:01.34,0:05:05.30,Dialogue1,Unknown,0000,0000,0000,,{\c&HFDDC91&}Huh...? Senator Heinz? You mean\Nthe guy who's been running for mayor?
+Dialogue: 0,0:05:05.51,0:05:09.39,Dialogue1,Unknown,0000,0000,0000,,{\c&HB8FE91&}I bet he'll throw a huge\Nparty in our honor.
+Dialogue: 0,0:05:09.39,0:05:11.97,Dialogue1,Unknown,0000,0000,0000,,{\c&HB8FE91&}Wow, whatever shall I do if\Nsome big talent scout spots me?!
+Dialogue: 0,0:05:12.18,0:05:13.68,Dialogue1,Unknown,0000,0000,0000,,{\c&HFDDC91&}Get real... Oh...
+Dialogue: 0,0:05:13.89,0:05:15.77,Dialogue1,Unknown,0000,0000,0000,,{\c&HFDDC91&}Now, what were you saying?
+Dialogue: 0,0:05:15.98,0:05:18.44,Dialogue1,Unknown,0000,0000,0000,,He was very pushy.
+Dialogue: 0,0:05:18.44,0:05:22.86,Dialogue1,Unknown,0000,0000,0000,,They want to promote his gun control program\Nnow that the smuggling case is closed.
+Dialogue: 0,0:05:23.28,0:05:27.62,Dialogue1,Unknown,0000,0000,0000,,{\c&HFDDC91&}The smuggling case is closed?\NDon't they know Radinov is still alive?
+Dialogue: 0,0:05:27.82,0:05:30.62,Dialogue1,Unknown,0000,0000,0000,,We still haven't figured out\Nwho's pulling the ATF's strings.
+Dialogue: 0,0:05:30.62,0:05:32.94,Dialogue1,Unknown,0000,0000,0000,,This might be our chance to\Nspeak to the senator directly.
+Dialogue: 0,0:05:33.20,0:05:36.08,Dialogue1,Unknown,0000,0000,0000,,{\c&HFDDC91&}Sorry, but I'm going to have to decline.
+Dialogue: 0,0:05:36.08,0:05:38.54,Dialogue1,Unknown,0000,0000,0000,,{\c&HFDDC91&}It'd be bad for business if\Neveryone knew what I looked like.
+Dialogue: 0,0:05:38.75,0:05:40.63,Dialogue1,Unknown,0000,0000,0000,,{\c&HB8FE91&}What? But that's such a waste...
+Dialogue: 0,0:05:40.84,0:05:43.26,Dialogue1,Unknown,0000,0000,0000,,{\c&HFDDC91&}I'll leave all the talent scouts to you,\NMinnie.
+Dialogue: 0,0:05:43.46,0:05:48.55,Dialogue1,Unknown,0000,0000,0000,,{\c&HFDDC91&}But Rally, don't let your guard down for\Nan instant. She could attack at any time.
+Dialogue: 0,0:05:48.97,0:05:54.52,Dialogue1,Unknown,0000,0000,0000,,Hah! When she does, I'll ask her\Nto pay for the repairs on my Cobra.
+Dialogue: 0,0:06:31.51,0:06:35.39,Dialogue1,Unknown,0000,0000,0000,,{\c&HB8FE91&}No... this isn't good enough either...
+Dialogue: 0,0:06:35.60,0:06:38.19,Dialogue1,Unknown,0000,0000,0000,,{\c&HB8FE91&}Hey, Rally, which one do\Nyou think looks better on me?
+Dialogue: 0,0:06:38.60,0:06:41.52,Dialogue1,Unknown,0000,0000,0000,,Ah... Either one, I suppose.
+Dialogue: 0,0:06:41.94,0:06:44.48,Dialogue1,Unknown,0000,0000,0000,,{\c&HB8FE91&}Hey, can you at least look?!
+Dialogue: 0,0:06:45.11,0:06:47.70,Dialogue1,Unknown,0000,0000,0000,,It really doesn't matter what you wear.
+Dialogue: 0,0:06:47.70,0:06:51.12,Dialogue1,Unknown,0000,0000,0000,,Instead,\Nyou should worry about your own safety.
+Dialogue: 0,0:06:51.32,0:06:56.16,Dialogue1,Unknown,0000,0000,0000,,{\c&HB8FE91&}Don't you worry about me. By the way,\NRally... try those heels.
+Dialogue: 0,0:06:56.70,0:06:57.41,Dialogue1,Unknown,0000,0000,0000,,Huh...?
+Dialogue: 0,0:06:57.41,0:07:00.87,Dialogue1,Unknown,0000,0000,0000,,{\c&HB8FE91&}I bought them for you.
+Dialogue: 0,0:06:57.41,0:06:59.04,Dialogue1,Unknown,0000,0000,0000,,{\c&HB8FE91&}Huh...?
+Dialogue: 0,0:06:59.29,0:07:00.88,Dialogue1,Unknown,0000,0000,0000,,{\c&HB8FE91&}Those are for me?
+Dialogue: 0,0:07:02.84,0:07:04.05,Dialogue1,Unknown,0000,0000,0000,,Uh... Eyah!
+Dialogue: 0,0:07:04.25,0:07:05.84,Dialogue1,Unknown,0000,0000,0000,,{\c&HB8FE91&}See? They look great on you.
+Dialogue: 0,0:07:06.05,0:07:09.80,Dialogue1,Unknown,0000,0000,0000,,That's not the point... Whoa...
+Dialogue: 0,0:07:10.68,0:07:13.26,Dialogue1,Unknown,0000,0000,0000,,There's no way I can\Nrun in shoes like these!
+Dialogue: 0,0:07:13.80,0:07:16.10,Dialogue1,Unknown,0000,0000,0000,,{\c&HB8FE91&}Maybe not,\Nbut they'll make the guys run to {\i1}you.{\i0}
+Dialogue: 0,0:07:16.31,0:07:18.23,Dialogue1,Unknown,0000,0000,0000,,Oh sure, right.
+Dialogue: 0,0:07:19.14,0:07:21.90,Dialogue1,Unknown,0000,0000,0000,,{\c&HB8FE91&}See? They're here!
+Dialogue: 0,0:07:21.90,0:07:23.31,Dialogue1,Unknown,0000,0000,0000,,{\c&HB8FE91&}Don't be silly!
+Dialogue: 0,0:07:23.52,0:07:27.11,Dialogue1,Unknown,0000,0000,0000,,{\c&HB8FE91&}Rally, you can take them off now.
+Dialogue: 0,0:07:27.32,0:07:28.90,Dialogue1,Unknown,0000,0000,0000,,Oh, yeah...
+Dialogue: 0,0:07:28.90,0:07:30.32,Dialogue1,Unknown,0000,0000,0000,,Who's there?
+Dialogue: 0,0:07:31.95,0:07:33.41,Dialogue1,Unknown,0000,0000,0000,,Who're you?!
+Dialogue: 0,0:07:33.62,0:07:36.45,Dialogue1,Unknown,0000,0000,0000,,{\c&HB5DBFC&}Rally, it's me, Bill!\NI've gotta talk to you.
+Dialogue: 0,0:07:37.16,0:07:38.83,Dialogue1,Unknown,0000,0000,0000,,Not you again...
+Dialogue: 0,0:07:39.04,0:07:41.08,Dialogue1,Unknown,0000,0000,0000,,{\c&HB8FE91&}See, they attracted a man!
+Dialogue: 0,0:07:41.29,0:07:41.79,Dialogue1,Unknown,0000,0000,0000,,May!
+Dialogue: 0,0:07:42.00,0:07:43.83,Dialogue1,Unknown,0000,0000,0000,,{\c&HB8FE91&}Hee... just kidding!
+Dialogue: 0,0:07:44.04,0:07:45.04,Dialogue1,Unknown,0000,0000,0000,,Sheesh!
+Dialogue: 0,0:07:45.17,0:07:46.96,Dialogue1,Unknown,0000,0000,0000,,{\c&HB5DBFC&}Come on, Rally, open up!
+Dialogue: 0,0:07:47.17,0:07:49.84,Dialogue1,Unknown,0000,0000,0000,,Hey, we have nothing to say to you!
+Dialogue: 0,0:07:50.05,0:07:56.14,Dialogue1,Unknown,0000,0000,0000,,{\c&HB5DBFC&}As things stand, the investigation will\Nbe shut down. Please! I need your help.
+Dialogue: 0,0:07:56.35,0:07:59.73,Dialogue1,Unknown,0000,0000,0000,,Sorry, we found a better\Nway to solve our problem.
+Dialogue: 0,0:07:59.73,0:08:02.48,Dialogue1,Unknown,0000,0000,0000,,We're going to cut a deal\Nwith a certain VIP tomorrow.
+Dialogue: 0,0:08:03.10,0:08:05.40,Dialogue1,Unknown,0000,0000,0000,,{\c&HB5DBFC&}VIP? Who do you mean?
+Dialogue: 0,0:08:05.61,0:08:07.36,Dialogue1,Unknown,0000,0000,0000,,None of your business!
+Dialogue: 0,0:08:07.36,0:08:09.92,Dialogue1,Unknown,0000,0000,0000,,I've got to get up early tomorrow,\Nso feel free to slither away.
+Dialogue: 0,0:08:09.94,0:08:11.70,Dialogue1,Unknown,0000,0000,0000,,{\c&HB5DBFC&}But Rally...
+Dialogue: 0,0:08:12.53,0:08:15.41,Dialogue1,Unknown,0000,0000,0000,,{\c&HB6B891&}Excuse me, sir,\Nbut could you explain why you are here?
+Dialogue: 0,0:08:17.03,0:08:22.58,Dialogue1,Unknown,0000,0000,0000,,{\c&HB5DBFC&}Look, I'm Bill Collins of the ATF.\NI need their help with an investigation.
+Dialogue: 0,0:08:23.46,0:08:25.38,Dialogue1,Unknown,0000,0000,0000,,{\c&HB6B891&}No need to show me your ID.
+Dialogue: 0,0:08:26.09,0:08:29.34,Dialogue1,Unknown,0000,0000,0000,,{\c&HB6B891&}My orders are to not to let anyone approach\Nthis house, not even the president.
+Dialogue: 0,0:08:31.42,0:08:36.01,Dialogue1,Unknown,0000,0000,0000,,{\c&HB5DBFC&}OK, I give up! If you see the president,\Ngive him my regards.
+Dialogue: 0,0:08:40.35,0:08:43.39,Dialogue1,Unknown,0000,0000,0000,,He may be a man,\Nbut not the kind I want.
+Dialogue: 0,0:09:07.84,0:09:08.59,Dialogue1,Unknown,0000,0000,0000,,{\c&HFD9291&}Bill!
+Dialogue: 0,0:09:08.59,0:09:09.09,Dialogue1,Unknown,0000,0000,0000,,{\c&HB5DBFC&}Hmm...?
+Dialogue: 0,0:09:08.59,0:09:08.84,Dialogue1,Unknown,0000,0000,0000,,{\c&HB5DBFC&}Bill!
+Dialogue: 0,0:09:09.09,0:09:10.53,Dialogue1,Unknown,0000,0000,0000,,{\c&HFD9291&}Where on Earth have you been?\NHmm...?
+Dialogue: 0,0:09:10.59,0:09:12.84,Dialogue1,Unknown,0000,0000,0000,,{\c&HFD9291&}You're never here when\Nsomething important happens.
+Dialogue: 0,0:09:13.72,0:09:17.76,Dialogue1,Unknown,0000,0000,0000,,{\c&HB5DBFC&}Cathy, I'd give you a hug and\Na kiss but my hands are full.
+Dialogue: 0,0:09:18.39,0:09:20.18,Dialogue1,Unknown,0000,0000,0000,,{\c&HFD9291&}We don't have time for silly jokes.
+Dialogue: 0,0:09:20.18,0:09:20.47,Dialogue1,Unknown,0000,0000,0000,,{\c&HFD9291&}Huh...?
+Dialogue: 0,0:09:20.47,0:09:20.72,Dialogue1,Unknown,0000,0000,0000,,{\c&HB5DBFC&}Huh...?
+Dialogue: 0,0:09:20.72,0:09:21.72,Dialogue1,Unknown,0000,0000,0000,,{\c&HFD9291&}Look at this!\NHuh...?
+Dialogue: 0,0:09:21.85,0:09:26.35,Dialogue1,Unknown,0000,0000,0000,,{\c&HFD9291&}I checked the phone records like\Nyou asked, and look what I found!
+Dialogue: 0,0:09:26.56,0:09:28.48,Dialogue1,Unknown,0000,0000,0000,,{\c&HB5DBFC&}Uh... Huh...?
+Dialogue: 0,0:09:28.69,0:09:29.77,Dialogue1,Unknown,0000,0000,0000,,{\c&HB5DBFC&}Number 6?
+Dialogue: 0,0:09:29.98,0:09:33.40,Dialogue1,Unknown,0000,0000,0000,,{\c&HFD9291&}Yes. That's a safe house that\Nwas supposedly shut down.
+Dialogue: 0,0:09:34.20,0:09:36.07,Dialogue1,Unknown,0000,0000,0000,,{\c&HB5DBFC&}So who's still using it?
+Dialogue: 0,0:09:36.70,0:09:39.53,Dialogue1,Unknown,0000,0000,0000,,{\c&HB5DBFC&}George Black? No way!
+Dialogue: 0,0:09:40.28,0:09:43.50,Dialogue1,Unknown,0000,0000,0000,,{\c&HB5DBFC&}So our boss is the mastermind\Nbehind this? Where is he?
+Dialogue: 0,0:09:44.16,0:09:47.58,Dialogue1,Unknown,0000,0000,0000,,{\c&HFD9291&}He suddenly turned in\Na vacation request and left.
+Dialogue: 0,0:09:48.08,0:09:51.05,Dialogue1,Unknown,0000,0000,0000,,{\c&HB5DBFC&}Don't worry, Cathy.\NI'll take care of this...
+Dialogue: 0,0:09:52.34,0:09:54.47,Dialogue1,Unknown,0000,0000,0000,,{\c&HB5DBFC&}Very well done! You hit the bull's-eye.
+Dialogue: 0,0:09:54.67,0:09:55.76,Dialogue1,Unknown,0000,0000,0000,,{\c&HFD9291&}Bill...
+Dialogue: 0,0:09:55.97,0:09:59.80,Dialogue1,Unknown,0000,0000,0000,,{\c&HB5DBFC&}But... promise me you won't\Ntell anybody else yet. OK?
+Dialogue: 0,0:10:00.01,0:10:01.10,Dialogue1,Unknown,0000,0000,0000,,{\c&HFD9291&}OK...
+Dialogue: 0,0:10:01.10,0:10:02.35,Dialogue1,Unknown,0000,0000,0000,,{\c&HB5DBFC&}OK...\NGood girl!
+Dialogue: 0,0:10:02.56,0:10:05.77,Dialogue1,Unknown,0000,0000,0000,,{\c&HB5DBFC&}We'll catch dinner together sometime.\NLove ya, honey.
+Dialogue: 0,0:10:05.77,0:10:08.35,Dialogue1,Unknown,0000,0000,0000,,{\c&HFD9291&}Oh... Bill! Oooh...
+Dialogue: 0,0:10:22.37,0:10:25.41,Dialogue1,Unknown,0000,0000,0000,,{\c&HB6B891&}Radinov? Radinov!\NYou're here, aren't you?
+Dialogue: 0,0:10:26.00,0:10:30.38,Dialogue1,Unknown,0000,0000,0000,,{\c&HB6B891&}Radinov, you're OK. That's great, uh...\NI was really getting worried.
+Dialogue: 0,0:10:31.25,0:10:33.34,Dialogue1,Unknown,0000,0000,0000,,{\c&H9292FD&}Why, the director of the ATF is here.
+Dialogue: 0,0:10:33.84,0:10:36.80,Dialogue1,Unknown,0000,0000,0000,,{\c&HB6B891&}Look,\NI can't keep fooling them much longer.
+Dialogue: 0,0:10:36.80,0:10:39.64,Dialogue1,Unknown,0000,0000,0000,,{\c&HB6B891&}Radinov, I'm begging you.\NTake me with you.
+Dialogue: 0,0:10:40.01,0:10:42.85,Dialogue1,Unknown,0000,0000,0000,,{\c&H9292FD&}Hmph! So you think\Nthe world revolves around you?
+Dialogue: 0,0:10:43.26,0:10:47.81,Dialogue1,Unknown,0000,0000,0000,,{\c&HB6B891&}Er... I've got money.\NName your price and I'll pay it.
+Dialogue: 0,0:10:48.44,0:10:51.11,Dialogue1,Unknown,0000,0000,0000,,{\c&H9292FD&}Hmm... So... what should I do?
+Dialogue: 0,0:10:52.36,0:10:54.36,Dialogue1,Unknown,0000,0000,0000,,{\c&HB6B891&}Is... Is there somebody else here?
+Dialogue: 0,0:10:55.57,0:10:58.86,Dialogue1,Unknown,0000,0000,0000,,{\c&H9292FD&}Yes, I suppose we will\Nhave to get rid of him.
+Dialogue: 0,0:10:59.11,0:11:03.16,Dialogue1,Unknown,0000,0000,0000,,{\c&HB6B891&}No, wait! I won't say anything!
+Dialogue: 0,0:11:03.37,0:11:05.83,Dialogue1,Unknown,0000,0000,0000,,{\c&HB6B891&}Radinov, please tell him!
+Dialogue: 0,0:11:06.91,0:11:09.12,Dialogue1,Unknown,0000,0000,0000,,{\c&H9292FD&}Did you hear that? Right.
+Dialogue: 0,0:11:13.29,0:11:15.88,Dialogue1,Unknown,0000,0000,0000,,{\c&HB6B891&}P... Please...
+Dialogue: 0,0:11:16.63,0:11:17.88,Dialogue1,Unknown,0000,0000,0000,,{\c&HB6B891&}Help me...
+Dialogue: 0,0:11:18.34,0:11:20.30,Dialogue1,Unknown,0000,0000,0000,,{\c&HB6B891&}Radinov...
+Dialogue: 0,0:11:56.42,0:11:58.84,Dialogue1,Unknown,0000,0000,0000,,{\c&HFD9291&}What the hell?! It's the chief!
+Dialogue: 0,0:11:59.05,0:12:01.72,Dialogue1,Unknown,0000,0000,0000,,{\c&HB5DBFC&}Geordi, freeze.
+Dialogue: 0,0:12:02.64,0:12:04.55,Dialogue1,Unknown,0000,0000,0000,,{\c&HFD9291&}What's that doing there?
+Dialogue: 0,0:12:04.76,0:12:10.27,Dialogue1,Unknown,0000,0000,0000,,{\c&HB5DBFC&}A simple booby trap.\NBut we're up against an expert.
+Dialogue: 0,0:12:10.48,0:12:12.73,Dialogue1,Unknown,0000,0000,0000,,{\c&HB5DBFC&}We can't be too careful.
+Dialogue: 0,0:12:19.11,0:12:20.74,Dialogue1,Unknown,0000,0000,0000,,{\c&HB5DBFC&}Wha...? Geordi!
+Dialogue: 0,0:12:20.95,0:12:24.41,Dialogue1,Unknown,0000,0000,0000,,{\c&HFD9291&}I pushed the redial. Maybe we'll find\Nout who the last person he talked to was.
+Dialogue: 0,0:12:24.62,0:12:28.66,Dialogue1,Unknown,0000,0000,0000,,{\c&HB5DBFC&}Didn't you hear me? We're dealing with a pro.\NDon't touch anything until it's been checked.
+Dialogue: 0,0:12:29.12,0:12:32.04,Dialogue1,Unknown,0000,0000,0000,,{\c&HFD9291&}Don't worry. Nothing happened.
+Dialogue: 0,0:12:32.25,0:12:34.29,Dialogue1,Unknown,0000,0000,0000,,{\c&HFD9291&}Oh, it's connecting.
+Dialogue: 0,0:12:34.29,0:12:37.59,Dialogue1,Unknown,0000,0000,0000,,{\c&HDA92FC&}"You have reached Eddie Heinz's office.\NOur office..."
+Dialogue: 0,0:12:37.80,0:12:39.30,Dialogue1,Unknown,0000,0000,0000,,{\c&HFD9291&}Who's Eddie Heinz...?
+Dialogue: 0,0:12:39.51,0:12:42.30,Dialogue1,Unknown,0000,0000,0000,,{\c&HB5DBFC&}A state senator and\Na friend of the chief's.
+Dialogue: 0,0:12:42.51,0:12:45.09,Dialogue1,Unknown,0000,0000,0000,,{\c&HFD9291&}And if the chief called him from here...
+Dialogue: 0,0:12:45.30,0:12:49.01,Dialogue1,Unknown,0000,0000,0000,,{\c&HB5DBFC&}...then Radinov, the chief, and\NHeinz were working together.
+Dialogue: 0,0:12:51.93,0:12:55.02,Dialogue1,Unknown,0000,0000,0000,,{\c&HB5DBFC&}Rally said she was going\Nto meet some VIP... Damn!
+Dialogue: 0,0:12:55.02,0:12:57.90,Dialogue1,Unknown,0000,0000,0000,,{\c&HB5DBFC&}Geordi, don't touch anything else!\NGot that?
+Dialogue: 0,0:12:58.11,0:13:00.86,Dialogue1,Unknown,0000,0000,0000,,{\c&HFD9291&}Hey, wait! Bill!
+Dialogue: 0,0:13:00.86,0:13:03.36,Dialogue1,Unknown,0000,0000,0000,,{\c&HFD9291&}What's the big hurry?
+Dialogue: 0,0:13:09.29,0:13:13.62,Dialogue1,Unknown,0000,0000,0000,,{\c&HB5DBFC&}I knew it... A pro... Rally...
+Dialogue: 0,0:13:34.35,0:13:37.65,Dialogue1,Unknown,0000,0000,0000,,{\c&HDA92FC&}OK. That's where we want it.
+Dialogue: 0,0:13:46.24,0:13:51.49,Dialogue1,Unknown,0000,0000,0000,,{\c&H9292FD&}Just as Black said,\NI had better not overstay my welcome.
+Dialogue: 0,0:13:51.49,0:13:55.00,Dialogue1,Unknown,0000,0000,0000,,{\c&H9292FD&}However, I have one thing\NI need to attend to first.
+Dialogue: 0,0:13:55.58,0:13:58.08,Dialogue1,Unknown,0000,0000,0000,,{\c&HFDB7D9&}You mean those two little girls?
+Dialogue: 0,0:13:58.08,0:14:00.71,Dialogue1,Unknown,0000,0000,0000,,{\c&HFDB7D9&}How about we eliminate them for you?
+Dialogue: 0,0:14:01.09,0:14:03.34,Dialogue1,Unknown,0000,0000,0000,,{\c&H9292FD&}That is not necessary.\NThis one I will do for free.
+Dialogue: 0,0:14:04.51,0:14:06.68,Dialogue1,Unknown,0000,0000,0000,,{\c&HFDB7D9&}So it's gotten personal, has it?
+Dialogue: 0,0:14:07.01,0:14:10.64,Dialogue1,Unknown,0000,0000,0000,,{\c&H9292FD&}Nyet. This is a matter of pride.
+Dialogue: 0,0:14:13.39,0:14:16.60,Dialogue1,Unknown,0000,0000,0000,,{\c&HB6B891&}We've received a request for a\NTV interview this afternoon.
+Dialogue: 0,0:14:17.52,0:14:23.28,Dialogue1,Unknown,0000,0000,0000,,{\c&HFDB7D9&}Please decline. I would prefer to remain\Nsilent until we tie up all the loose ends.
+Dialogue: 0,0:14:23.48,0:14:24.57,Dialogue1,Unknown,0000,0000,0000,,{\c&HB6B891&}Right.
+Dialogue: 0,0:14:24.78,0:14:27.78,Dialogue1,Unknown,0000,0000,0000,,{\c&HDA92FC&}Thank you all so much for\Ncoming out today despite the rain.
+Dialogue: 0,0:14:27.78,0:14:30.37,Dialogue1,Unknown,0000,0000,0000,,{\c&HDA92FC&}We will open the venue in three hours.
+Dialogue: 0,0:14:30.57,0:14:32.43,Dialogue1,Unknown,0000,0000,0000,,{\c&HDA92FC&}We're sorry to keep you\Nwaiting in this cold weather...
+Dialogue: 0,0:14:32.45,0:14:35.08,Dialogue1,Unknown,0000,0000,0000,,I don't get it.
+Dialogue: 0,0:14:35.08,0:14:38.25,Dialogue1,Unknown,0000,0000,0000,,They told us to be here at the crack\Nof dawn and stay put until evening.
+Dialogue: 0,0:14:38.46,0:14:39.50,Dialogue1,Unknown,0000,0000,0000,,{\c&HB8FE91&}I'm so cold...
+Dialogue: 0,0:14:39.71,0:14:42.80,Dialogue1,Unknown,0000,0000,0000,,{\c&HDCFEFD&}This is what you should\Nexpect from politicians, Rally.
+Dialogue: 0,0:14:43.00,0:14:44.76,Dialogue1,Unknown,0000,0000,0000,,{\c&HFDDC91&}We could leave if you'd prefer.
+Dialogue: 0,0:14:45.30,0:14:51.22,Dialogue1,Unknown,0000,0000,0000,,We can't do that.\NWe need that license to reopen the shop.
+Dialogue: 0,0:14:51.43,0:14:54.43,Dialogue1,Unknown,0000,0000,0000,,Aw man, these pumps are all muddy.
+Dialogue: 0,0:14:54.77,0:14:56.52,Dialogue1,Unknown,0000,0000,0000,,Brrrrr! It's freezing.
+Dialogue: 0,0:14:56.52,0:14:59.14,Dialogue1,Unknown,0000,0000,0000,,{\c&HB8FE91&}This is far from what I dreamed about...
+Dialogue: 0,0:14:59.35,0:15:00.98,Dialogue1,Unknown,0000,0000,0000,,{\c&HB6B891&}Excuse me...
+Dialogue: 0,0:15:01.31,0:15:04.78,Dialogue1,Unknown,0000,0000,0000,,{\c&HB6B891&}I'm sorry to have kept you waiting.
+Dialogue: 0,0:15:05.82,0:15:07.74,Dialogue1,Unknown,0000,0000,0000,,{\c&HB8FE91&}Uh... Hey! What are you doing?
+Dialogue: 0,0:15:07.95,0:15:12.20,Dialogue1,Unknown,0000,0000,0000,,{\c&HB6B891&}It's not that we don't trust you, but\Nwe have to protect the senator's image.
+Dialogue: 0,0:15:13.33,0:15:16.20,Dialogue1,Unknown,0000,0000,0000,,I'll do it myself!
+Dialogue: 0,0:15:17.37,0:15:22.29,Dialogue1,Unknown,0000,0000,0000,,{\c&HB6B891&}That's quite a selection. I'm afraid we'll\Nhave to hold onto all of these for you.
+Dialogue: 0,0:15:22.50,0:15:24.18,Dialogue1,Unknown,0000,0000,0000,,{\c&HDCFEFD&}I'll take care of them,\Nif you don't mind.
+Dialogue: 0,0:15:24.25,0:15:25.63,Dialogue1,Unknown,0000,0000,0000,,{\c&HB6B891&}And who might you be?
+Dialogue: 0,0:15:25.63,0:15:27.63,Dialogue1,Unknown,0000,0000,0000,,{\c&HDCFEFD&}And who might you be?\NRoy Coleman, City Police.
+Dialogue: 0,0:15:27.84,0:15:29.55,Dialogue1,Unknown,0000,0000,0000,,{\c&HDCFEFD&}Do you have a problem with that?
+Dialogue: 0,0:15:29.55,0:15:32.89,Dialogue1,Unknown,0000,0000,0000,,{\c&HB6B891&}Do you have a problem with that? Hmm...\NI suppose not. I'll see you later.
+Dialogue: 0,0:15:34.56,0:15:35.60,Dialogue1,Unknown,0000,0000,0000,,{\c&HB8FE91&}What a jerk!
+Dialogue: 0,0:15:35.81,0:15:39.94,Dialogue1,Unknown,0000,0000,0000,,If Heinz hires thugs like that, I don't\Nthink I'm looking forward to meeting him.
+Dialogue: 0,0:15:40.14,0:15:41.14,Dialogue1,Unknown,0000,0000,0000,,{\c&HB8FE91&}No shit...
+Dialogue: 0,0:15:43.73,0:15:49.49,Dialogue1,Unknown,0000,0000,0000,,{\c&HDA92FC&}Thank you for waiting!\NAnd now, may I present Edward Heinz!
+Dialogue: 0,0:15:49.70,0:15:51.99,Dialogue1,Unknown,0000,0000,0000,,{\c&HFEFEFE&}Eddie! Eddie...!
+Dialogue: 0,0:15:55.99,0:15:59.58,Dialogue1,Unknown,0000,0000,0000,,{\c&HFDB7D9&}Hello, everyone...
+Dialogue: 0,0:16:01.17,0:16:02.92,Dialogue1,Unknown,0000,0000,0000,,{\c&HFDB7D9&}Thank you.
+Dialogue: 0,0:16:02.92,0:16:06.63,Dialogue1,Unknown,0000,0000,0000,,{\c&HFDB7D9&}And now, without further ado, I'd like\Nto introduce my very special guests!
+Dialogue: 0,0:16:06.88,0:16:12.38,Dialogue1,Unknown,0000,0000,0000,,{\c&HFDB7D9&}Yes, these are the brave young women who\Nfoiled a band of ruthless gunrunners!
+Dialogue: 0,0:16:12.38,0:16:16.85,Dialogue1,Unknown,0000,0000,0000,,{\c&HFDB7D9&}Rally Vincent and May Hopkins!
+Dialogue: 0,0:16:17.93,0:16:20.85,Dialogue1,Unknown,0000,0000,0000,,{\c&HFDB7D9&}Heh heh! What's the matter, ladies?\NFeeling a little nervous?
+Dialogue: 0,0:16:21.39,0:16:25.36,Dialogue1,Unknown,0000,0000,0000,,{\c&HFDB7D9&}I have a special award to\Npresent to these lovely heroes!
+Dialogue: 0,0:16:26.15,0:16:28.98,Dialogue1,Unknown,0000,0000,0000,,{\c&HFDB7D9&}This plaque is a symbol\Nof our appreciation...
+Dialogue: 0,0:16:28.98,0:16:31.70,Dialogue1,Unknown,0000,0000,0000,,{\c&HFDB7D9&}...as we, the people,\Ncommemorate their bravery and courage.
+Dialogue: 0,0:16:31.70,0:16:36.41,Dialogue1,Unknown,0000,0000,0000,,{\c&HFDB7D9&}Rally, May, please step forward.\NDon't worry, I won't bite.
+Dialogue: 0,0:16:37.83,0:16:40.79,Dialogue1,Unknown,0000,0000,0000,,{\c&HFDB7D9&}Hey, Michael, hold the mic.
+Dialogue: 0,0:16:48.75,0:16:50.26,Dialogue1,Unknown,0000,0000,0000,,{\c&HB5DBFC&}Rally, run!
+Dialogue: 0,0:17:05.27,0:17:07.56,Dialogue1,Unknown,0000,0000,0000,,That's her! May, let's go!
+Dialogue: 0,0:17:07.77,0:17:09.61,Dialogue1,Unknown,0000,0000,0000,,{\c&HB8FE91&}R... Rally!
+Dialogue: 0,0:17:12.57,0:17:14.53,Dialogue1,Unknown,0000,0000,0000,,{\c&HDCFEFD&}What's going on?! Hey, what's wrong?
+Dialogue: 0,0:17:14.74,0:17:17.49,Dialogue1,Unknown,0000,0000,0000,,{\c&HFDDC91&}Oh! He's the ATF agent who was\Nin charge of the gunrunning case!
+Dialogue: 0,0:17:17.70,0:17:18.33,Dialogue1,Unknown,0000,0000,0000,,{\c&HDCFEFD&}What?
+Dialogue: 0,0:17:18.33,0:17:20.83,Dialogue1,Unknown,0000,0000,0000,,{\c&HB5DBFC&}What?\NIt... It's a trap.
+Dialogue: 0,0:17:21.04,0:17:23.04,Dialogue1,Unknown,0000,0000,0000,,{\c&HB5DBFC&}We've got to stop Rally and May.
+Dialogue: 0,0:17:23.71,0:17:25.75,Dialogue1,Unknown,0000,0000,0000,,{\c&HDCFEFD&}Don't worry.\NI'm with the Chicago Police.
+Dialogue: 0,0:17:25.96,0:17:26.29,Dialogue1,Unknown,0000,0000,0000,,{\c&HFDDC91&}Ah!
+Dialogue: 0,0:17:26.29,0:17:30.59,Dialogue1,Unknown,0000,0000,0000,,Roy! I got my guns back!
+Dialogue: 0,0:17:26.29,0:17:28.63,Dialogue1,Unknown,0000,0000,0000,,Ah!
+Dialogue: 0,0:17:28.88,0:17:30.59,Dialogue1,Unknown,0000,0000,0000,,Wait! Rally!
+Dialogue: 0,0:17:31.13,0:17:34.30,Dialogue1,Unknown,0000,0000,0000,,{\i1}That was too close.\NIt's time{\i0} {\i1}to take the fight to her.{\i0}
+Dialogue: 0,0:17:48.86,0:17:49.86,Dialogue1,Unknown,0000,0000,0000,,{\c&HB8FE91&}Well?
+Dialogue: 0,0:17:49.94,0:17:55.44,Dialogue1,Unknown,0000,0000,0000,,Yeah, it's working. May, you enter from\Nthe back. I'll go in through the front.
+Dialogue: 0,0:17:55.44,0:17:57.15,Dialogue1,Unknown,0000,0000,0000,,Ready?
+Dialogue: 0,0:17:55.86,0:17:57.16,Dialogue1,Unknown,0000,0000,0000,,OK!
+Dialogue: 0,0:17:57.16,0:17:57.41,Dialogue1,Unknown,0000,0000,0000,,{\c&HB8FE91&}OK!
+Dialogue: 0,0:17:57.41,0:17:57.91,Dialogue1,Unknown,0000,0000,0000,,OK!
+Dialogue: 0,0:17:57.91,0:17:59.12,Dialogue1,Unknown,0000,0000,0000,,Let's go!
+Dialogue: 0,0:17:58.16,0:17:59.16,Dialogue1,Unknown,0000,0000,0000,,Right!
+Dialogue: 0,0:18:09.04,0:18:11.00,Dialogue1,Unknown,0000,0000,0000,,There you are.
+Dialogue: 0,0:18:35.03,0:18:36.61,Dialogue1,Unknown,0000,0000,0000,,Hold it!
+Dialogue: 0,0:18:37.07,0:18:40.03,Dialogue1,Unknown,0000,0000,0000,,Let me warn you, that bulletproof\Ncoat of yours is useless this time.
+Dialogue: 0,0:18:40.37,0:18:42.28,Dialogue1,Unknown,0000,0000,0000,,One false move,\Nand you'll be missing a head.
+Dialogue: 0,0:18:44.62,0:18:46.71,Dialogue1,Unknown,0000,0000,0000,,Get your hands up!
+Dialogue: 0,0:18:49.79,0:18:53.63,Dialogue1,Unknown,0000,0000,0000,,Now turn around. Slowly.
+Dialogue: 0,0:18:54.63,0:18:59.30,Dialogue1,Unknown,0000,0000,0000,,I said turn around slowly!\NI've got the drop on you!
+Dialogue: 0,0:18:59.51,0:19:01.64,Dialogue1,Unknown,0000,0000,0000,,{\c&H9292FD&}You won't shoot me in the back.
+Dialogue: 0,0:19:02.55,0:19:04.64,Dialogue1,Unknown,0000,0000,0000,,{\c&H9292FD&}You lose!
+Dialogue: 0,0:19:12.56,0:19:14.11,Dialogue1,Unknown,0000,0000,0000,,{\c&HB8FE91&}No! Rally!
+Dialogue: 0,0:19:18.28,0:19:20.20,Dialogue1,Unknown,0000,0000,0000,,May!
+Dialogue: 0,0:19:20.99,0:19:23.03,Dialogue1,Unknown,0000,0000,0000,,May!
+Dialogue: 0,0:19:25.33,0:19:26.75,Dialogue1,Unknown,0000,0000,0000,,May!
+Dialogue: 0,0:19:37.01,0:19:39.72,Dialogue1,Unknown,0000,0000,0000,,{\c&H9292FD&}We meet at last, Rally Vincent.
+Dialogue: 0,0:19:47.77,0:19:50.69,Dialogue1,Unknown,0000,0000,0000,,{\c&H9292FD&}I will make you pay\Ndearly for this little nick.
+Dialogue: 0,0:19:51.81,0:19:56.61,Dialogue1,Unknown,0000,0000,0000,,{\c&H9292FD&}I want you to endure the same...\Nno, far more pain than this.
+Dialogue: 0,0:19:57.86,0:20:03.07,Dialogue1,Unknown,0000,0000,0000,,{\c&H9292FD&}I won't let you die easily.\NYou'll know true agony before you go.
+Dialogue: 0,0:20:07.04,0:20:09.00,Dialogue1,Unknown,0000,0000,0000,,{\c&HB8FE91&}Rally...
+Dialogue: 0,0:20:12.71,0:20:14.42,Dialogue1,Unknown,0000,0000,0000,,{\c&HB8FE91&}Run...
+Dialogue: 0,0:20:19.38,0:20:20.92,Dialogue1,Unknown,0000,0000,0000,,{\c&H9292FD&}Wha...?
+Dialogue: 0,0:20:24.97,0:20:28.10,Dialogue1,Unknown,0000,0000,0000,,{\c&H9292FD&}Shit...
+Dialogue: 0,0:20:36.65,0:20:39.15,Dialogue1,Unknown,0000,0000,0000,,{\c&H9292FD&}Downstairs...
+Dialogue: 0,0:20:47.16,0:20:48.37,Dialogue1,Unknown,0000,0000,0000,,{\c&HDA92FC&}And... cue...
+Dialogue: 0,0:20:48.58,0:20:54.42,Dialogue1,Unknown,0000,0000,0000,,{\c&HDCFEFD&}Yes, I'm standing in front of Grant\NPark, where just a few moments ago...
+Dialogue: 0,0:20:54.42,0:20:57.75,Dialogue1,Unknown,0000,0000,0000,,{\c&HDCFEFD&}...a gunman opened fire on\Nmayoral candidate Edward Heinz.
+Dialogue: 0,0:20:57.96,0:21:01.63,Dialogue1,Unknown,0000,0000,0000,,{\c&HDCFEFD&}The suspect is holed up inside the museum,\Nwhich is currently closed for renovations.
+Dialogue: 0,0:21:08.01,0:21:09.72,Dialogue1,Unknown,0000,0000,0000,,{\c&HB8FE91&}Rally... hold on!
+Dialogue: 0,0:21:09.93,0:21:12.56,Dialogue1,Unknown,0000,0000,0000,,I'm doing all right. How about you, May?
+Dialogue: 0,0:21:12.85,0:21:17.23,Dialogue1,Unknown,0000,0000,0000,,{\c&HB8FE91&}Heh, I'm doing just fine.\NI just wish I could use my hands.
+Dialogue: 0,0:21:17.44,0:21:21.07,Dialogue1,Unknown,0000,0000,0000,,{\c&HB8FE91&}It's a good thing I prepped\Nsome traps in advance.
+Dialogue: 0,0:21:28.33,0:21:30.58,Dialogue1,Unknown,0000,0000,0000,,{\c&H9292FD&}Hm...?
+Dialogue: 0,0:21:56.06,0:21:58.98,Dialogue1,Unknown,0000,0000,0000,,{\c&HB8FE91&}Got her...
+Dialogue: 0,0:23:00.50,0:23:02.84,Dialogue1,Unknown,0000,0000,0000,,{\c&HDA92FC&}What? What the hell?
+Dialogue: 0,0:23:04.50,0:23:07.80,Dialogue1,Unknown,0000,0000,0000,,{\c&HFDB7D9&}Hey, that's enough! Gray, I'm leaving.
+Dialogue: 0,0:23:07.80,0:23:08.93,Dialogue1,Unknown,0000,0000,0000,,{\c&HB6B891&}Er...
+Dialogue: 0,0:23:09.13,0:23:13.89,Dialogue1,Unknown,0000,0000,0000,,{\c&HB6B891&}Fortunately, the media is concentrating\Non Radinov right now, but...
+Dialogue: 0,0:23:14.10,0:23:16.52,Dialogue1,Unknown,0000,0000,0000,,{\c&HFDB7D9&}What do you mean, "fortunately"?
+Dialogue: 0,0:23:16.73,0:23:19.94,Dialogue1,Unknown,0000,0000,0000,,{\c&HFDB7D9&}Listen! That crazy Russian\Npsychopath was shooting at {\i1}me{\i0} as well!
+Dialogue: 0,0:23:19.94,0:23:21.90,Dialogue1,Unknown,0000,0000,0000,,{\c&HFDB7D9&}I want her out of the picture! Huh?
+Dialogue: 0,0:23:22.86,0:23:26.53,Dialogue1,Unknown,0000,0000,0000,,{\c&HFDB7D9&}Radinov?\NWhat the hell are you doing here?
+Dialogue: 0,0:23:27.03,0:23:31.78,Dialogue1,Unknown,0000,0000,0000,,{\c&HFDB7D9&}And what was the big idea of pointing\Na gun at me while I was on the stage?!
+Dialogue: 0,0:23:31.99,0:23:36.16,Dialogue1,Unknown,0000,0000,0000,,{\c&HFDB7D9&}We're done doing business. And\NI'd better get my heroin back.
+Dialogue: 0,0:23:37.62,0:23:41.63,Dialogue1,Unknown,0000,0000,0000,,{\c&HFDB7D9&}Uh, uh, calm down, Radinov...\NI didn't mean that.
+Dialogue: 0,0:23:41.63,0:23:44.84,Dialogue1,Unknown,0000,0000,0000,,{\c&HFDB7D9&}Heh... You understand, right?
+Dialogue: 0,0:23:45.42,0:23:48.72,Dialogue1,Unknown,0000,0000,0000,,{\c&HFDB7D9&}That's right!\NWe have to stick together, you know.
+Dialogue: 0,0:23:57.97,0:24:02.02,Dialogue1,Unknown,0000,0000,0000,,{\c&HB6B891&}I don't believe it! The gun control\Ncandidate... with a gun in his hand!
+Dialogue: 0,0:24:03.06,0:24:07.36,Dialogue1,Unknown,0000,0000,0000,,{\c&HFDDC91&}Stricter gun laws mean higher\Nprices for your illegal weapons, right?
+Dialogue: 0,0:24:07.57,0:24:09.03,Dialogue1,Unknown,0000,0000,0000,,{\c&HB6B891&}Did you get it?
+Dialogue: 0,0:24:09.03,0:24:10.03,Dialogue1,Unknown,0000,0000,0000,,{\c&HB6B891&}Perfectly.
+Dialogue: 0,0:24:11.03,0:24:14.03,Dialogue1,Unknown,0000,0000,0000,,{\c&HFDB7D9&}W... W... What the hell are you doing?\NCut that camera off!
+Dialogue: 0,0:24:14.24,0:24:15.91,Dialogue1,Unknown,0000,0000,0000,,{\c&HDCFEFD&}Holy shit!
+Dialogue: 0,0:24:16.12,0:24:18.62,Dialogue1,Unknown,0000,0000,0000,,{\c&HDCFEFD&}This is huge! Let's go!
+Dialogue: 0,0:24:18.83,0:24:20.79,Dialogue1,Unknown,0000,0000,0000,,{\c&HFDB7D9&}Move!
+Dialogue: 0,0:24:22.46,0:24:25.25,Dialogue1,Unknown,0000,0000,0000,,{\c&HDCFEFD&}Senator Heinz, you're under arrest.
+Dialogue: 0,0:24:28.88,0:24:33.22,Dialogue1,Unknown,0000,0000,0000,,{\c&HFDB7D9&}I was so close... I could have cleaned\Nout all the gangs and immigrants.
+Dialogue: 0,0:24:33.80,0:24:36.85,Dialogue1,Unknown,0000,0000,0000,,{\c&HFDB7D9&}I only did it for the good\Nof the American people!
+Dialogue: 0,0:24:36.85,0:24:41.69,Dialogue1,Unknown,0000,0000,0000,,{\c&HDCFEFD&}What the heck?! Hey, get the camera, get\Nthe camera! Get a picture of Heinz's face!
+Dialogue: 0,0:24:42.23,0:24:45.19,Dialogue1,Unknown,0000,0000,0000,,{\c&HDA92FC&}Call the news director!
+Dialogue: 0,0:24:50.15,0:24:52.20,Dialogue1,Unknown,0000,0000,0000,,{\c&HB8FE91&}What a bunch of vultures!
+Dialogue: 0,0:24:52.40,0:24:54.82,Dialogue1,Unknown,0000,0000,0000,,That's just the way reporters are,\NI guess.
+Dialogue: 0,0:24:55.62,0:24:57.78,Dialogue1,Unknown,0000,0000,0000,,If we want to make it in this town...
+Dialogue: 0,0:24:57.78,0:24:59.79,Dialogue1,Unknown,0000,0000,0000,,...we'll have to make some adjustments.
+Dialogue: 0,0:25:00.37,0:25:04.92,Dialogue1,Unknown,0000,0000,0000,,{\c&HB8FE91&}Well... we're not really very flexible.
+Dialogue: 0,0:25:05.13,0:25:08.75,Dialogue1,Unknown,0000,0000,0000,,Please don't remind me, May.
+Dialogue: 0,0:25:09.71,0:25:11.67,Dialogue1,Unknown,0000,0000,0000,,{\c&HB6B891&}Ready?
+Dialogue: 0,0:25:20.02,0:25:23.18,Dialogue1,Unknown,0000,0000,0000,,I guess somebody else wasn't\Ngood at adjusting to reality either.
+Dialogue: 0,0:25:27.94,0:25:29.52,Dialogue1,Unknown,0000,0000,0000,,{\c&H9292FD&}Die!
+Dialogue: 0,0:25:33.70,0:25:35.70,Dialogue1,Unknown,0000,0000,0000,,{\i1}I can't move my arm!{\i0}
+Dialogue: 0,0:25:58.60,0:26:04.64,Dialogue1,Unknown,0000,0000,0000,,{\c&HB5DBFC&}Admit it, sometimes I'm useful.\NI'm a real Eliot Ness.
+Dialogue: 0,0:26:05.23,0:26:07.98,Dialogue1,Unknown,0000,0000,0000,,Kinda-sorta...
+Dialogue: 0,0:26:08.56,0:26:11.27,Dialogue1,Unknown,0000,0000,0000,,{\c&HB6B891&}Are you all right?
+Dialogue: 0,0:26:09.36,0:26:11.27,Dialogue1,Unknown,0000,0000,0000,,{\c&HB6B891&}I'm OK.
+Dialogue: 0,0:26:11.48,0:26:14.90,Dialogue1,Unknown,0000,0000,0000,,I can get up by myself.
+Dialogue: 0,0:26:22.12,0:26:25.50,Dialogue1,Unknown,0000,0000,0000,,I have to be able to stand on my own...
+Dialogue: 0,0:26:35.26,0:26:39.84,Dialogue1,Unknown,0000,0000,0000,,That's what it takes\Nto make it in this town...
