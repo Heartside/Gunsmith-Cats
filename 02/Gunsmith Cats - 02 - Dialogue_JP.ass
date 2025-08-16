@@ -18,283 +18,292 @@ Style: Dialogue2,Tahoma,78,&H0090FEFD,&H000000FF,&H1F000000,&HC7000000,0,0,0,0,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:22.06,0:00:25.35,Dialogue1,Unknown,0000,0000,0000,,{\c&HDCFEFD&}Yeah, we're about to load\Nthem onto the truck now.
-Dialogue: 0,0:00:25.35,0:00:27.48,Dialogue1,Unknown,0000,0000,0000,,{\c&HDCFEFD&}Yes, tomorrow, I promise.
-Dialogue: 0,0:00:50.46,0:00:53.26,Dialogue1,Unknown,0000,0000,0000,,{\c&H91B8B6&}What could be going on this late...?
-Dialogue: 0,0:00:57.14,0:00:58.76,Dialogue1,Unknown,0000,0000,0000,,{\c&H91B8B6&}Damn it... Huh...?
-Dialogue: 0,0:01:03.60,0:01:04.81,Dialogue1,Unknown,0000,0000,0000,,{\c&H9292FD&}(In Russian) Hello.
-Dialogue: 0,0:01:05.02,0:01:06.06,Dialogue1,Unknown,0000,0000,0000,,{\c&H91B8B6&}Wha...?
-Dialogue: 0,0:01:06.27,0:01:08.23,Dialogue1,Unknown,0000,0000,0000,,{\c&H9292FD&}(In Russian) Goodbye.
-Dialogue: 0,0:01:20.95,0:01:24.79,Dialogue1,Unknown,0000,0000,0000,,{\c&HFDB7D9&}What kind of psycho uses a weapon you\Nhave to recover every time you use it?
-Dialogue: 0,0:01:25.00,0:01:26.00,Dialogue1,Unknown,0000,0000,0000,,{\c&HDCFEFD&}Shut up, you idiot.
-Dialogue: 0,0:01:26.12,0:01:30.09,Dialogue1,Unknown,0000,0000,0000,,{\c&HFDB7D9&}Relax, she doesn't\Nunderstand what we're saying.
-Dialogue: 0,0:01:30.09,0:01:35.80,Dialogue1,Unknown,0000,0000,0000,,{\c&HFDB7D9&}Hey, Major! Is it true that Russian\Nwomen will sleep with any American guy?
-Dialogue: 0,0:01:35.80,0:01:37.76,Dialogue1,Unknown,0000,0000,0000,,{\c&HDCFEFD&}Asshole.
-Dialogue: 0,0:01:50.48,0:01:53.61,Dialogue1,Unknown,0000,0000,0000,,{\c&HFDB7D9&}You may be ex-GRU,\Nbut now you're in it for the money.
-Dialogue: 0,0:01:53.61,0:01:56.28,Dialogue1,Unknown,0000,0000,0000,,{\c&HFDB7D9&}So what's the price for\Na night in your bed, eh?
-Dialogue: 0,0:01:56.28,0:01:58.61,Dialogue1,Unknown,0000,0000,0000,,{\c&HDCFEFD&}Hey, cut it out!
-Dialogue: 0,0:02:00.78,0:02:03.37,Dialogue1,Unknown,0000,0000,0000,,{\c&HDCFEFD&}Yes? What? OK...
-Dialogue: 0,0:02:03.37,0:02:06.08,Dialogue1,Unknown,0000,0000,0000,,{\c&HDCFEFD&}Ms. Radinov!
-Dialogue: 0,0:02:07.46,0:02:09.79,Dialogue1,Unknown,0000,0000,0000,,{\c&HDCFEFD&}It looks like the boss\Nhas another job for you.
-Dialogue: 0,0:02:12.13,0:02:13.88,Dialogue1,Unknown,0000,0000,0000,,{\c&HDCFEFD&}For an additional fee, of course.
-Dialogue: 0,0:02:17.09,0:02:18.80,Dialogue1,Unknown,0000,0000,0000,,{\c&H9292FD&}Another hit?
-Dialogue: 0,0:03:57.57,0:04:00.32,Dialogue1,Unknown,0000,0000,0000,,"Thank you for calling Gunsmith Cats."
-Dialogue: 0,0:04:00.32,0:04:02.36,Dialogue1,Unknown,0000,0000,0000,,"We're unable to take\Nyour call at this time."
-Dialogue: 0,0:04:02.36,0:04:05.57,Dialogue1,Unknown,0000,0000,0000,,"Please leave a message\Nat the sound of the beep."
-Dialogue: 0,0:04:10.62,0:04:13.26,Dialogue1,Unknown,0000,0000,0000,,Would you mind explaining why\Nyou dragged us all the way out here?
-Dialogue: 0,0:04:13.29,0:04:17.00,Dialogue1,Unknown,0000,0000,0000,,We're the ones who caught you, remember?
-Dialogue: 0,0:04:17.25,0:04:20.42,Dialogue1,Unknown,0000,0000,0000,,{\c&HB8FE91&}This is a bad place to try\Nto get revenge, you know...
-Dialogue: 0,0:04:20.63,0:04:22.88,Dialogue1,Unknown,0000,0000,0000,,As far as we're concerned,\Nyour case is closed...
-Dialogue: 0,0:04:22.88,0:04:26.47,Dialogue1,Unknown,0000,0000,0000,,...so what did you hope to accomplish\Nby making the ATF guys leave the room?
-Dialogue: 0,0:04:26.47,0:04:28.56,Dialogue1,Unknown,0000,0000,0000,,{\c&HDCFEFD&}Ah, well... sorry about that...
+Dialogue: 0,0:00:22.06,0:00:25.35,Dialogue1,Unknown,0000,0000,0000,,Yeah, we're about to load\Nthem onto the truck now.
+Dialogue: 0,0:00:25.35,0:00:27.48,Dialogue1,Unknown,0000,0000,0000,,Yes, tomorrow, I guarantee it.
+Dialogue: 0,0:00:50.46,0:00:52.29,Dialogue1,Unknown,0000,0000,0000,,What's going on there at this hour?
+Dialogue: 0,0:00:57.14,0:00:58.44,Dialogue1,Unknown,0000,0000,0000,,Damn it...
+Dialogue: 0,0:00:58.44,0:00:59.29,Dialogue1,Unknown,0000,0000,0000,,{Huh...?}
+Dialogue: 0,0:01:03.60,0:01:04.81,Dialogue1,Unknown,0000,0000,0000,,Hello.
+Dialogue: 0,0:01:05.02,0:01:06.06,Dialogue1,Unknown,0000,0000,0000,,Wha...
+Dialogue: 0,0:01:06.27,0:01:07.63,Dialogue1,Unknown,0000,0000,0000,,Goodbye.
+Dialogue: 0,0:01:20.95,0:01:24.79,Dialogue1,Unknown,0000,0000,0000,,Who'd need a weapon that you have to recover after every use? That's a pain!
+Dialogue: 0,0:01:25.00,0:01:26.00,Dialogue1,Unknown,0000,0000,0000,,Shut up, you idiot.
+Dialogue: 0,0:01:26.74,0:01:28.96,Dialogue1,Unknown,0000,0000,0000,,She doesn't understand a word of it anyway.
+Dialogue: 0,0:01:30.09,0:01:35.80,Dialogue1,Unknown,0000,0000,0000,,Hey, Major! Is it true that Russian women will sleep with any American guy?
+Dialogue: 0,0:01:35.80,0:01:36.54,Dialogue1,Unknown,0000,0000,0000,,Cretin!
+Dialogue: 0,0:01:50.48,0:01:53.61,Dialogue1,Unknown,0000,0000,0000,,Even ex–special forces operative \Nwill do anything for money.
+Dialogue: 0,0:01:53.61,0:01:56.28,Dialogue1,Unknown,0000,0000,0000,,So how much for a night in your bed, eh?
+Dialogue: 0,0:01:56.28,0:01:57.77,Dialogue1,Unknown,0000,0000,0000,,Cut it out already!
+Dialogue: 0,0:02:00.78,0:02:03.37,Dialogue1,Unknown,0000,0000,0000,,Yes? What? Got it...
+Dialogue: 0,0:02:03.37,0:02:04.50,Dialogue1,Unknown,0000,0000,0000,,Ms. Radinov!
+Dialogue: 0,0:02:07.46,0:02:09.79,Dialogue1,Unknown,0000,0000,0000,,It looks like the boss\Nhas another job for you.
+Dialogue: 0,0:02:12.13,0:02:13.88,Dialogue1,Unknown,0000,0000,0000,,For an additional fee, of course.
+Dialogue: 0,0:02:17.09,0:02:18.80,Dialogue1,Unknown,0000,0000,0000,,Another hit?
+Dialogue: 0,0:03:57.57,0:04:00.32,Dialogue1,Unknown,0000,0000,0000,,"Yes. Thank you for calling Gunsmith Cats.
+Dialogue: 0,0:04:00.32,0:04:02.36,Dialogue1,Unknown,0000,0000,0000,,We're unable to take\Nyour call at this time.
+Dialogue: 0,0:04:02.36,0:04:05.57,Dialogue1,Unknown,0000,0000,0000,,Please leave a message\Nat the sound of the beep."
+Dialogue: 0,0:04:10.62,0:04:13.26,Dialogue1,Unknown,0000,0000,0000,,Say, what the hell were you thinking?
+Dialogue: 0,0:04:13.29,0:04:17.00,Dialogue1,Unknown,0000,0000,0000,,We’re the ones who busted you, \Nand now you ask to meet us out here?
+Dialogue: 0,0:04:17.25,0:04:20.42,Dialogue1,Unknown,0000,0000,0000,,It's not a very fitting place to take revenge, you know...
+Dialogue: 0,0:04:20.63,0:04:22.88,Dialogue1,Unknown,0000,0000,0000,,As far as we're concerned, your case is closed.
+Dialogue: 0,0:04:22.88,0:04:26.47,Dialogue1,Unknown,0000,0000,0000,,What did you hope to accomplish \Nby locking out the ATF guys? {not sure how they allowed him to do it since they're on ATF safe house}
+Dialogue: 0,0:04:26.47,0:04:28.56,Dialogue1,Unknown,0000,0000,0000,,Right... Gimme a sec...
 Dialogue: 0,0:04:28.76,0:04:30.81,Dialogue1,Unknown,0000,0000,0000,,Hey, are you listening to me?
-Dialogue: 0,0:04:35.48,0:04:36.94,Dialogue1,Unknown,0000,0000,0000,,{\c&HB6B891&}Damn, he cut the microphone!
-Dialogue: 0,0:04:36.94,0:04:38.57,Dialogue1,Unknown,0000,0000,0000,,{\c&HB6B891&}I'll get it.
-Dialogue: 0,0:04:38.77,0:04:40.94,Dialogue1,Unknown,0000,0000,0000,,{\c&HDCFEFD&}I'm not safe here! You gotta get me out!
-Dialogue: 0,0:04:41.65,0:04:45.99,Dialogue1,Unknown,0000,0000,0000,,{\c&HB8FE91&}And just where would you find a safer\Nplace? You're in an ATF safe house!
-Dialogue: 0,0:04:46.20,0:04:49.12,Dialogue1,Unknown,0000,0000,0000,,Washington, why isn't it safe here?
-Dialogue: 0,0:04:49.66,0:04:53.46,Dialogue1,Unknown,0000,0000,0000,,{\c&HDCFEFD&}You don't understand... I know too much.\NI'm a sitting duck in here.
-Dialogue: 0,0:04:53.91,0:04:56.29,Dialogue1,Unknown,0000,0000,0000,,That's why the ATF has\Nfive agents out there at—
-Dialogue: 0,0:04:56.50,0:05:00.59,Dialogue1,Unknown,0000,0000,0000,,{\c&HDCFEFD&}No, listen to me!\NYou can't trust the ATF!
-Dialogue: 0,0:05:00.80,0:05:03.38,Dialogue1,Unknown,0000,0000,0000,,{\c&H91B8B6&}Washington, time's up.\NOpen the door!
-Dialogue: 0,0:05:04.13,0:05:05.34,Dialogue1,Unknown,0000,0000,0000,,{\c&H91B8B6&}Get the spare key!
-Dialogue: 0,0:05:05.34,0:05:06.26,Dialogue1,Unknown,0000,0000,0000,,{\c&H91B8B6&}Right...
-Dialogue: 0,0:05:06.26,0:05:06.51,Dialogue1,Unknown,0000,0000,0000,,{\c&HFDB7D9&}Right...
-Dialogue: 0,0:05:06.51,0:05:09.26,Dialogue1,Unknown,0000,0000,0000,,{\c&H91B8B6&}Washington! Open up! Washington!\NRight...
-Dialogue: 0,0:05:09.47,0:05:14.10,Dialogue1,Unknown,0000,0000,0000,,{\c&HDCFEFD&}Hold on... could you at least\Nplease take this watch? It's a Rolex.
-Dialogue: 0,0:05:14.10,0:05:18.27,Dialogue1,Unknown,0000,0000,0000,,{\c&HDCFEFD&}All I'm asking is for you to deliver this to\Nmy daughter. Here, I'll give you her address.
-Dialogue: 0,0:05:18.69,0:05:21.23,Dialogue1,Unknown,0000,0000,0000,,Now wait a second! Why should I do...?
-Dialogue: 0,0:05:21.44,0:05:26.24,Dialogue1,Unknown,0000,0000,0000,,{\c&HDCFEFD&}This is all I've got to pass on to her.\NPlease, Rally!
-Dialogue: 0,0:05:27.28,0:05:29.24,Dialogue1,Unknown,0000,0000,0000,,{\c&HDCFEFD&}Wait a second!\NWe're not finished talking yet.
+Dialogue: 0,0:04:35.48,0:04:36.94,Dialogue1,Unknown,0000,0000,0000,,Damn it, he cut the microphone!
+Dialogue: 0,0:04:36.94,0:04:37.89,Dialogue1,Unknown,0000,0000,0000,,Let's go! {lit: I'll go see}
+Dialogue: 0,0:04:38.77,0:04:40.94,Dialogue1,Unknown,0000,0000,0000,,Please! You gotta break me out of here!
+Dialogue: 0,0:04:41.65,0:04:44.13,Dialogue1,Unknown,0000,0000,0000,,Don't you understand what kind of place this is?
+Dialogue: 0,0:04:44.14,0:04:45.99,Dialogue1,Unknown,0000,0000,0000,,You're in an ATF safe house!
+Dialogue: 0,0:04:46.20,0:04:49.12,Dialogue1,Unknown,0000,0000,0000,,Washington, you won't find a safer place anywhere.
+Dialogue: 0,0:04:49.66,0:04:53.46,Dialogue1,Unknown,0000,0000,0000,,I know too much about the organization.\NI'm a sitting duck in here.
+Dialogue: 0,0:04:53.91,0:04:56.29,Dialogue1,Unknown,0000,0000,0000,,That's why the ATF stationed five guards to—
+Dialogue: 0,0:04:56.50,0:04:59.74,Dialogue1,Unknown,0000,0000,0000,,But those ATF agents aren't to be trusted!
+Dialogue: 0,0:05:00.80,0:05:03.38,Dialogue1,Unknown,0000,0000,0000,,Washington, time's up!\NOpen the door!
+Dialogue: 0,0:05:04.13,0:05:05.34,Dialogue1,Unknown,0000,0000,0000,,Get the spare key!
+Dialogue: 0,0:05:05.34,0:05:06.35,Dialogue1,Unknown,0000,0000,0000,,Right...
+Dialogue: 0,0:05:06.35,0:05:09.26,Dialogue1,Unknown,0000,0000,0000,,Washington! Open up! Washington!
+Dialogue: 0,0:05:09.47,0:05:12.23,Dialogue1,Unknown,0000,0000,0000,,I know... Could you at least take this watch?
+Dialogue: 0,0:05:12.23,0:05:14.10,Dialogue1,Unknown,0000,0000,0000,,It's a Rolex.
+Dialogue: 0,0:05:14.10,0:05:16.86,Dialogue1,Unknown,0000,0000,0000,,All I'm asking is for you to give this to my daughter.
+Dialogue: 0,0:05:16.86,0:05:18.27,Dialogue1,Unknown,0000,0000,0000,,I have her address here.
+Dialogue: 0,0:05:18.69,0:05:21.23,Dialogue1,Unknown,0000,0000,0000,,Now hold on a second! Why should we...
+Dialogue: 0,0:05:21.44,0:05:24.91,Dialogue1,Unknown,0000,0000,0000,,That's the only thing I can do for her as a father.
+Dialogue: 0,0:05:24.91,0:05:26.24,Dialogue1,Unknown,0000,0000,0000,,Please, Larry!
+Dialogue: 0,0:05:27.28,0:05:29.24,Dialogue1,Unknown,0000,0000,0000,,Wait a second!\NWe're not finished talking yet.
 Dialogue: 0,0:05:29.45,0:05:30.66,Dialogue1,Unknown,0000,0000,0000,,No, I've heard enough.
-Dialogue: 0,0:05:30.87,0:05:32.20,Dialogue1,Unknown,0000,0000,0000,,{\c&HDCFEFD&}But...
+Dialogue: 0,0:05:30.87,0:05:32.20,Dialogue1,Unknown,0000,0000,0000,,But...
 Dialogue: 0,0:05:32.41,0:05:33.75,Dialogue1,Unknown,0000,0000,0000,,Excuse me.
-Dialogue: 0,0:05:33.95,0:05:35.62,Dialogue1,Unknown,0000,0000,0000,,{\c&HDCFEFD&}Rally...
-Dialogue: 0,0:05:38.83,0:05:41.71,Dialogue1,Unknown,0000,0000,0000,,{\c&HDCFEFD&}I was telling you the truth.
-Dialogue: 0,0:05:42.46,0:05:47.18,Dialogue1,Unknown,0000,0000,0000,,{\c&HDCFEFD&}You'll find out sooner or later. But\NI won't be around when you do.
-Dialogue: 0,0:05:56.60,0:06:02.36,Dialogue1,Unknown,0000,0000,0000,,{\c&HB8FE91&}After everything he's been through, this\Nwas all he had left... That's kinda sad.
-Dialogue: 0,0:06:02.36,0:06:05.11,Dialogue1,Unknown,0000,0000,0000,,Sheesh! You're too soft, May.
+Dialogue: 0,0:05:33.95,0:05:34.92,Dialogue1,Unknown,0000,0000,0000,,Ms. Larry...
+Dialogue: 0,0:05:38.83,0:05:40.71,Dialogue1,Unknown,0000,0000,0000,,I'm telling the truth.
+Dialogue: 0,0:05:42.46,0:05:47.18,Dialogue1,Unknown,0000,0000,0000,,You'll understand soon. \NAnd when you do, I won't be around anymore.
+Dialogue: 0,0:05:56.60,0:06:00.38,Dialogue1,Unknown,0000,0000,0000,,He walked the slippery slope, and this is all he had left...
+Dialogue: 0,0:06:00.38,0:06:02.36,Dialogue1,Unknown,0000,0000,0000,,That's kinda sad, really.
+Dialogue: 0,0:06:02.36,0:06:05.11,Dialogue1,Unknown,0000,0000,0000,,Sheesh. You're too soft, May.
 Dialogue: 0,0:06:05.11,0:06:06.03,Dialogue1,Unknown,0000,0000,0000,,Why's that?
-Dialogue: 0,0:06:06.03,0:06:06.28,Dialogue1,Unknown,0000,0000,0000,,{\c&HB8FE91&}Why's that?
-Dialogue: 0,0:06:06.28,0:06:09.53,Dialogue1,Unknown,0000,0000,0000,,Because you took a job that won't pay.\NWhy's that?
-Dialogue: 0,0:06:09.74,0:06:12.62,Dialogue1,Unknown,0000,0000,0000,,{\c&HB8FE91&}Oh, I didn't hear you\Nraising any objections.
-Dialogue: 0,0:06:12.83,0:06:14.87,Dialogue1,Unknown,0000,0000,0000,,That's not the point.
-Dialogue: 0,0:06:14.87,0:06:18.08,Dialogue1,Unknown,0000,0000,0000,,By the way, May, have you\Nbeen practicing the new timings?
-Dialogue: 0,0:06:18.29,0:06:23.21,Dialogue1,Unknown,0000,0000,0000,,{\c&HB8FE91&}Huh? Yeah, I've been working on them.\NI'm on the last song now.
-Dialogue: 0,0:06:23.42,0:06:24.67,Dialogue1,Unknown,0000,0000,0000,,{\c&HB8FE91&}Want to go over it?
-Dialogue: 0,0:06:24.67,0:06:24.92,Dialogue1,Unknown,0000,0000,0000,,{\c&HB8FE91&}Sure.
-Dialogue: 0,0:06:24.92,0:06:25.17,Dialogue1,Unknown,0000,0000,0000,,Sure.
-Dialogue: 0,0:06:25.17,0:06:26.42,Dialogue1,Unknown,0000,0000,0000,,{\c&HB8FE91&}Get ready... Huh?!\NSure.
-Dialogue: 0,0:06:38.27,0:06:41.73,Dialogue1,Unknown,0000,0000,0000,,That punk bitch!\NI won't forget that face!
-Dialogue: 0,0:06:41.73,0:06:42.77,Dialogue1,Unknown,0000,0000,0000,,Rally...
-Dialogue: 0,0:06:45.19,0:06:48.03,Dialogue1,Unknown,0000,0000,0000,,{\c&HFDB7D9&}Damn it!\NThey dumped this extra shit on me.
-Dialogue: 0,0:06:48.24,0:06:50.49,Dialogue1,Unknown,0000,0000,0000,,{\c&H91B8B6&}Aw, at least it kills time.
-Dialogue: 0,0:06:50.70,0:06:52.12,Dialogue1,Unknown,0000,0000,0000,,{\c&HDCFEFD&}Next up...
-Dialogue: 0,0:06:52.12,0:06:52.78,Dialogue1,Unknown,0000,0000,0000,,{\c&HDCFEFD&}Huh?
-Dialogue: 0,0:06:52.78,0:06:53.03,Dialogue1,Unknown,0000,0000,0000,,{\c&H91B8B6&}Huh?
-Dialogue: 0,0:06:53.03,0:06:54.95,Dialogue1,Unknown,0000,0000,0000,,{\c&HDCFEFD&}The mayoral election is\Naround the corner. Huh?
-Dialogue: 0,0:06:55.16,0:06:58.04,Dialogue1,Unknown,0000,0000,0000,,{\c&HDCFEFD&}State senator Edward Heinz declared\Nhis support for the total eradication...
-Dialogue: 0,0:06:58.04,0:07:03.34,Dialogue1,Unknown,0000,0000,0000,,{\c&HDCFEFD&}...of illegal weapons and drugs in\Na joint press conference with the ATF.
-Dialogue: 0,0:07:04.21,0:07:09.34,Dialogue1,Unknown,0000,0000,0000,,{\c&HFDB7D9&}We all know law-abiding\Ncitizens don't need these things.
-Dialogue: 0,0:07:09.55,0:07:13.14,Dialogue1,Unknown,0000,0000,0000,,{\c&HFDB7D9&}I'm just trying to promote\Nsome common-sense solutions.
-Dialogue: 0,0:07:13.14,0:07:15.10,Dialogue1,Unknown,0000,0000,0000,,{\c&HFDB7D9&}Where's the camera? Ah.
-Dialogue: 0,0:07:15.10,0:07:18.35,Dialogue1,Unknown,0000,0000,0000,,{\c&HFDB7D9&}Fellow citizens!\NI, Edward Heinz, promise you that...
-Dialogue: 0,0:07:18.35,0:07:21.77,Dialogue1,Unknown,0000,0000,0000,,{\c&HFDB7D9&}...together with George\NBlack of the ATF...
-Dialogue: 0,0:07:22.52,0:07:25.11,Dialogue1,Unknown,0000,0000,0000,,{\c&HDCFEFD&}Heinz has been busily\Npromoting his positive...
-Dialogue: 0,0:07:25.36,0:07:29.19,Dialogue1,Unknown,0000,0000,0000,,{\c&H91B8B6&}Well,\Nthe boss never misses a PR opportunity.
-Dialogue: 0,0:07:31.61,0:07:34.87,Dialogue1,Unknown,0000,0000,0000,,{\c&H91B8B6&}Hey, are there any other\Nvisitors scheduled for today?
-Dialogue: 0,0:07:35.08,0:07:38.25,Dialogue1,Unknown,0000,0000,0000,,{\c&HFDB7D9&}No, not that I know of.
-Dialogue: 0,0:07:53.89,0:07:56.39,Dialogue1,Unknown,0000,0000,0000,,{\c&HDA92FC&}Hey Bill, what's going on... Huh?
-Dialogue: 0,0:07:56.60,0:07:58.64,Dialogue1,Unknown,0000,0000,0000,,{\c&HDA92FC&}Stop! I'm warning you!
-Dialogue: 0,0:08:24.42,0:08:26.38,Dialogue1,Unknown,0000,0000,0000,,{\c&HB6B891&}Drop the gun!
-Dialogue: 0,0:09:13.88,0:09:17.30,Dialogue1,Unknown,0000,0000,0000,,{\c&HDCFEFD&}W... Wait!\NI know something about the organization.
-Dialogue: 0,0:09:17.30,0:09:19.47,Dialogue1,Unknown,0000,0000,0000,,{\c&HDCFEFD&}Don't kill me! My people...
-Dialogue: 0,0:09:25.27,0:09:28.65,Dialogue1,Unknown,0000,0000,0000,,{\c&HB6B891&}Man! Five agents down...
-Dialogue: 0,0:09:28.86,0:09:31.65,Dialogue1,Unknown,0000,0000,0000,,{\c&HDA92FC&}Looks like there {\i1}is{\i0} a spy in the ATF.
-Dialogue: 0,0:09:31.86,0:09:33.61,Dialogue1,Unknown,0000,0000,0000,,{\c&HB6B891&}Hey, did you hear the rumors about Bill?
-Dialogue: 0,0:09:33.82,0:09:35.40,Dialogue1,Unknown,0000,0000,0000,,{\c&HDA92FC&}Hear what?
-Dialogue: 0,0:09:37.57,0:09:40.28,Dialogue1,Unknown,0000,0000,0000,,{\c&HB6B891&}Can you explain this, Bill?
-Dialogue: 0,0:09:41.33,0:09:42.83,Dialogue1,Unknown,0000,0000,0000,,{\c&HB6B891&}It's hard to believe that you...
-Dialogue: 0,0:09:42.83,0:09:46.58,Dialogue1,Unknown,0000,0000,0000,,{\c&HB5DBFC&}It's hard to believe that you...\NWhat? Sir, you can't think that I...
-Dialogue: 0,0:09:46.96,0:09:49.04,Dialogue1,Unknown,0000,0000,0000,,{\c&HB6B891&}Bill, you're off the case as of now!
-Dialogue: 0,0:09:49.59,0:09:52.00,Dialogue1,Unknown,0000,0000,0000,,{\c&HB5DBFC&}But sir! You don't really think\NI'm guilty, do you?
-Dialogue: 0,0:09:52.50,0:09:55.97,Dialogue1,Unknown,0000,0000,0000,,{\c&HB6B891&}Someone is clearly trying to frame you.
-Dialogue: 0,0:09:56.18,0:09:57.43,Dialogue1,Unknown,0000,0000,0000,,{\c&HB5DBFC&}So I need to handle it!
-Dialogue: 0,0:09:57.63,0:10:03.64,Dialogue1,Unknown,0000,0000,0000,,{\c&HB6B891&}Bill... this isn't a battlefield.\NGoing it alone won't win you any medals.
-Dialogue: 0,0:10:04.77,0:10:06.73,Dialogue1,Unknown,0000,0000,0000,,{\c&HB6B891&}Understand?
-Dialogue: 0,0:10:08.35,0:10:09.77,Dialogue1,Unknown,0000,0000,0000,,{\c&HB5DBFC&}Yes, sir...
-Dialogue: 0,0:10:38.84,0:10:42.26,Dialogue1,Unknown,0000,0000,0000,,{\c&H9292FD&}Yes. This is a good time.
-Dialogue: 0,0:10:42.26,0:10:45.77,Dialogue1,Unknown,0000,0000,0000,,{\c&H9292FD&}Yes, I eliminated the first target.
-Dialogue: 0,0:10:46.43,0:10:49.10,Dialogue1,Unknown,0000,0000,0000,,{\c&H9292FD&}I've already checked\Nthe intel on the next two.
-Dialogue: 0,0:10:49.10,0:10:52.23,Dialogue1,Unknown,0000,0000,0000,,{\c&H9292FD&}I must say, I'm surprised to learn\Nof an American woman of such skill.
-Dialogue: 0,0:10:53.44,0:10:59.49,Dialogue1,Unknown,0000,0000,0000,,{\c&H9292FD&}Yes, I got it. Heroin sells\Nfor a very high price in Russia.
-Dialogue: 0,0:10:59.99,0:11:03.91,Dialogue1,Unknown,0000,0000,0000,,{\c&H9292FD&}By the way, I have received\Nno intel on the fourth target.
-Dialogue: 0,0:11:04.12,0:11:09.71,Dialogue1,Unknown,0000,0000,0000,,{\c&H9292FD&}I see... So, he will be surprised\Nwhen his own partner has him killed.
+Dialogue: 0,0:06:06.03,0:06:09.53,Dialogue1,Unknown,0000,0000,0000,,Because you took a job that’s not gonna pay you a dime. {/cent}
+Dialogue: 0,0:06:09.74,0:06:12.62,Dialogue1,Unknown,0000,0000,0000,,I didn't hear you raising any objections.
+Dialogue: 0,0:06:12.83,0:06:14.42,Dialogue1,Unknown,0000,0000,0000,,That's not the point.
+Dialogue: 0,0:06:14.87,0:06:18.08,Dialogue1,Unknown,0000,0000,0000,,By the way, May, have you\Nbeen practicing our new formation? {originally "timings" - maybe it works too, practically they use this thing at 20:05}
+Dialogue: 0,0:06:18.29,0:06:20.71,Dialogue1,Unknown,0000,0000,0000,,Huh? Yeah, I have.
+Dialogue: 0,0:06:20.72,0:06:23.21,Dialogue1,Unknown,0000,0000,0000,,I made it all the way to where we bust a move. {lit: until the flashy dance it's OK - see 20:05 to know what this is about}
+Dialogue: 0,0:06:23.42,0:06:24.67,Dialogue1,Unknown,0000,0000,0000,,Wanna go over it?
+Dialogue: 0,0:06:24.67,0:06:25.17,Dialogue1,Unknown,0000,0000,0000,,Sure.
+Dialogue: 0,0:06:25.17,0:06:26.42,Dialogue1,Unknown,0000,0000,0000,,Ready? Ah!
+Dialogue: 0,0:06:38.27,0:06:41.26,Dialogue1,Unknown,0000,0000,0000,,That punk bitch!\NI won't forget that face!
+Dialogue: 0,0:06:41.73,0:06:42.77,Dialogue1,Unknown,0000,0000,0000,,Larry...
+Dialogue: 0,0:06:45.19,0:06:48.03,Dialogue1,Unknown,0000,0000,0000,,Damn it!\NThey dumped all this extra work on me.
+Dialogue: 0,0:06:48.24,0:06:50.08,Dialogue1,Unknown,0000,0000,0000,,At least it's good to kill time.
+Dialogue: 0,0:06:50.70,0:06:52.12,Dialogue1,Unknown,0000,0000,0000,,And now, the news.
+Dialogue: 0,0:06:52.12,0:06:53.03,Dialogue1,Unknown,0000,0000,0000,,Huh?
+Dialogue: 0,0:06:53.03,0:06:54.95,Dialogue1,Unknown,0000,0000,0000,,With the mayoral election coming up,
+Dialogue: 0,0:06:55.16,0:06:57.88,Dialogue1,Unknown,0000,0000,0000,,state senator Edward Heinz
+Dialogue: 0,0:06:57.88,0:07:03.34,Dialogue1,Unknown,0000,0000,0000,,today pledged to work with the ATF \Nto completely eradicate illegal gun and drug trafficking.
+Dialogue: 0,0:07:04.21,0:07:09.34,Dialogue1,Unknown,0000,0000,0000,,We all know law-abiding citizens don't need these things. {/everyone knows it is not necessary for peaceful civil life}
+Dialogue: 0,0:07:09.55,0:07:13.14,Dialogue1,Unknown,0000,0000,0000,,I'm just trying to promote some common-sense solutions.
+Dialogue: 0,0:07:13.14,0:07:15.10,Dialogue1,Unknown,0000,0000,0000,,Where's the camera? Ah.
+Dialogue: 0,0:07:15.10,0:07:18.35,Dialogue1,Unknown,0000,0000,0000,,Fellow citizens! I, Edward Heinz, promise you that,
+Dialogue: 0,0:07:18.35,0:07:21.77,Dialogue1,Unknown,0000,0000,0000,,together with George Black of the ATF...
+Dialogue: 0,0:07:22.52,0:07:24.51,Dialogue1,Unknown,0000,0000,0000,,Furthermore, to improve his reputation...
+Dialogue: 0,0:07:25.36,0:07:28.16,Dialogue1,Unknown,0000,0000,0000,,Boss never misses a PR opportunity. {if you want more literal can go "You can count on the boss to push all the right buttons."}
+Dialogue: 0,0:07:31.61,0:07:34.58,Dialogue1,Unknown,0000,0000,0000,,Hey, are there any other visitors \Nscheduled for today?
+Dialogue: 0,0:07:35.08,0:07:37.02,Dialogue1,Unknown,0000,0000,0000,,No, not that I know of.
+Dialogue: 0,0:07:53.89,0:07:55.29,Dialogue1,Unknown,0000,0000,0000,,Hey Bill, what's going on... Huh?
+Dialogue: 0,0:07:56.60,0:07:58.09,Dialogue1,Unknown,0000,0000,0000,,Stop! I'm warning you!
+Dialogue: 0,0:08:24.42,0:08:25.47,Dialogue1,Unknown,0000,0000,0000,,Drop the gun!
+Dialogue: 0,0:09:13.88,0:09:17.30,Dialogue1,Unknown,0000,0000,0000,,W-Wait!\NI know what can take down the organization. {????? no clue what's that word in the middle: I'm privy to organization's ***}
+Dialogue: 0,0:09:17.30,0:09:19.81,Dialogue1,Unknown,0000,0000,0000,,Don't kill me! My people will come... {??}
+Dialogue: 0,0:09:25.27,0:09:27.56,Dialogue1,Unknown,0000,0000,0000,,Five agents down in one go!
+Dialogue: 0,0:09:28.86,0:09:31.65,Dialogue1,Unknown,0000,0000,0000,,It seems the rumors of a rat in ATF were true...
+Dialogue: 0,0:09:31.86,0:09:33.61,Dialogue1,Unknown,0000,0000,0000,,Hey, did you hear what happened to Bill?
+Dialogue: 0,0:09:33.82,0:09:34.89,Dialogue1,Unknown,0000,0000,0000,,What's that?
+Dialogue: 0,0:09:37.57,0:09:39.85,Dialogue1,Unknown,0000,0000,0000,,What's the meaning of this, Bill?
+Dialogue: 0,0:09:41.33,0:09:42.83,Dialogue1,Unknown,0000,0000,0000,,Don't tell me you're behind that.
+Dialogue: 0,0:09:42.83,0:09:45.38,Dialogue1,Unknown,0000,0000,0000,,B-Boss, what're you saying?
+Dialogue: 0,0:09:45.38,0:09:46.98,Dialogue1,Unknown,0000,0000,0000,,How could you even suggest that?
+Dialogue: 0,0:09:46.98,0:09:49.04,Dialogue1,Unknown,0000,0000,0000,,You're off the case now, Bill!
+Dialogue: 0,0:09:49.59,0:09:52.00,Dialogue1,Unknown,0000,0000,0000,,Sir! You don't really think I'm part of this, do you?
+Dialogue: 0,0:09:52.50,0:09:55.97,Dialogue1,Unknown,0000,0000,0000,,Someone is trying to frame you, \Nand that's a fact.
+Dialogue: 0,0:09:56.18,0:09:57.66,Dialogue1,Unknown,0000,0000,0000,,Then you {\i1}must{\i0} let me stay!
+Dialogue: 0,0:09:57.66,0:10:00.98,Dialogue1,Unknown,0000,0000,0000,,Bill... this isn't a battlefield.
+Dialogue: 0,0:10:00.98,0:10:03.64,Dialogue1,Unknown,0000,0000,0000,,Going alone won't win you any medals.
+Dialogue: 0,0:10:04.77,0:10:05.80,Dialogue1,Unknown,0000,0000,0000,,Understand?
+Dialogue: 0,0:10:08.17,0:10:09.22,Dialogue1,Unknown,0000,0000,0000,,Yes, sir...
+Dialogue: 0,0:10:38.84,0:10:42.26,Dialogue1,Unknown,0000,0000,0000,,Yes. This is a good time.
+Dialogue: 0,0:10:42.26,0:10:45.77,Dialogue1,Unknown,0000,0000,0000,,Yes, you've seen what happened to the first target.
+Dialogue: 0,0:10:46.43,0:10:49.10,Dialogue1,Unknown,0000,0000,0000,,I've already checked the Intel on the next two.
+Dialogue: 0,0:10:49.10,0:10:52.41,Dialogue1,Unknown,0000,0000,0000,,Gotta say, I’m impressed \Nthe Americans have a woman that good.
+Dialogue: 0,0:10:53.44,0:10:58.78,Dialogue1,Unknown,0000,0000,0000,,Yes, I got it. Heroin sells\Nfor a very high price in Russia.
+Dialogue: 0,0:10:59.99,0:11:03.19,Dialogue1,Unknown,0000,0000,0000,,By the way, I've received\Nno Intel on the fourth target.
+Dialogue: 0,0:11:04.12,0:11:09.24,Dialogue1,Unknown,0000,0000,0000,,I see... He definitely wouldn't expect his own partner to do him in.
 Dialogue: 0,0:11:27.31,0:11:28.81,Dialogue1,Unknown,0000,0000,0000,,Are you sure this is the place?
-Dialogue: 0,0:11:28.81,0:11:31.37,Dialogue1,Unknown,0000,0000,0000,,{\c&HB8FE91&}Are you sure this is the place?\NYeah, that's what the paper says.
-Dialogue: 0,0:11:31.48,0:11:33.94,Dialogue1,Unknown,0000,0000,0000,,Well, I guess we'd better go see.
-Dialogue: 0,0:11:34.73,0:11:36.73,Dialogue1,Unknown,0000,0000,0000,,{\c&HB8FE91&}I wonder how old his daughter is.
+Dialogue: 0,0:11:28.81,0:11:31.37,Dialogue1,Unknown,0000,0000,0000,,Yeah, that's what the note says.
+Dialogue: 0,0:11:31.48,0:11:33.68,Dialogue1,Unknown,0000,0000,0000,,Well, I guess we'd better go see.
+Dialogue: 0,0:11:34.73,0:11:36.73,Dialogue1,Unknown,0000,0000,0000,,I wonder how old his daughter is.
 Dialogue: 0,0:11:36.94,0:11:38.94,Dialogue1,Unknown,0000,0000,0000,,Around 10 or so, I guess.
-Dialogue: 0,0:11:39.15,0:11:42.61,Dialogue1,Unknown,0000,0000,0000,,{\c&HB8FE91&}Number 6. This is it.
-Dialogue: 0,0:11:45.49,0:11:47.66,Dialogue1,Unknown,0000,0000,0000,,Good eve... Good eve...
-Dialogue: 0,0:11:49.41,0:11:50.87,Dialogue1,Unknown,0000,0000,0000,,{\c&HDCFEFD&}What do you want?
-Dialogue: 0,0:11:52.58,0:11:53.79,Dialogue1,Unknown,0000,0000,0000,,{\c&HB8FE91&}Nothing... Nothing...
-Dialogue: 0,0:11:56.75,0:12:02.26,Dialogue1,Unknown,0000,0000,0000,,{\c&HFDDC91&}A fake address and a fake Rolex...\NI wonder what he was really up to?
-Dialogue: 0,0:12:02.47,0:12:04.34,Dialogue1,Unknown,0000,0000,0000,,{\c&HB8FE91&}It's got to mean something.
-Dialogue: 0,0:12:04.55,0:12:08.64,Dialogue1,Unknown,0000,0000,0000,,That's not good enough, May. You got us\Ninto this, so it's on you to figure it out.
-Dialogue: 0,0:12:08.85,0:12:11.35,Dialogue1,Unknown,0000,0000,0000,,{\c&HB8FE91&}Now hold on! This was as\Nmuch your idea as mine... Ah!
-Dialogue: 0,0:12:11.56,0:12:15.19,Dialogue1,Unknown,0000,0000,0000,,Heh! Geez, May! Chill out!\NI wasn't serious.
-Dialogue: 0,0:12:15.40,0:12:18.65,Dialogue1,Unknown,0000,0000,0000,,{\c&HB8FE91&}Hey, Rally, that's my pop.\NGive it back!
-Dialogue: 0,0:12:18.65,0:12:20.69,Dialogue1,Unknown,0000,0000,0000,,{\c&HB8FE91&}Hey, Rally! Aaah!
-Dialogue: 0,0:12:25.99,0:12:28.45,Dialogue1,Unknown,0000,0000,0000,,Uh... May... are you all right?
-Dialogue: 0,0:12:28.66,0:12:30.79,Dialogue1,Unknown,0000,0000,0000,,{\c&HB8FE91&}I'm not talking to you. Huh?
-Dialogue: 0,0:12:34.67,0:12:39.55,Dialogue1,Unknown,0000,0000,0000,,In any case... it's pointless\Nto keep thinking about this.
-Dialogue: 0,0:12:39.55,0:12:41.72,Dialogue1,Unknown,0000,0000,0000,,I guess we'd better drop it for now...\Nright?
-Dialogue: 0,0:12:47.39,0:12:49.68,Dialogue1,Unknown,0000,0000,0000,,{\c&HFDDC91&}Working hard, eh? Please, have some...
-Dialogue: 0,0:12:49.89,0:12:51.89,Dialogue1,Unknown,0000,0000,0000,,{\c&HB5DBFC&}Uh... well... I don't think I...
-Dialogue: 0,0:12:52.10,0:12:54.94,Dialogue1,Unknown,0000,0000,0000,,I don't need to hear your excuses, Bill.
-Dialogue: 0,0:12:55.15,0:12:57.44,Dialogue1,Unknown,0000,0000,0000,,Our business with you is over, right?
-Dialogue: 0,0:12:57.65,0:13:01.65,Dialogue1,Unknown,0000,0000,0000,,If you've got time to bug my house {\i1}again{\i0}, you've\Ngot time to arrange that license you promised.
-Dialogue: 0,0:13:01.86,0:13:06.87,Dialogue1,Unknown,0000,0000,0000,,{\c&HB5DBFC&}This investigation isn't over yet, Rally.\NI can't do it without your help, honest!
-Dialogue: 0,0:13:07.16,0:13:09.12,Dialogue1,Unknown,0000,0000,0000,,Stop acting, it's pointless.
-Dialogue: 0,0:13:09.33,0:13:12.45,Dialogue1,Unknown,0000,0000,0000,,You're a fool if you think\Nwe would ever trust you!
-Dialogue: 0,0:13:14.16,0:13:18.38,Dialogue1,Unknown,0000,0000,0000,,{\c&HB5DBFC&}Oh, that's cold.\NBut you win, we're leaving.
-Dialogue: 0,0:13:18.38,0:13:20.96,Dialogue1,Unknown,0000,0000,0000,,{\c&HB6B891&}Yes, sir.
-Dialogue: 0,0:13:26.05,0:13:29.05,Dialogue1,Unknown,0000,0000,0000,,{\c&HFDDC91&}Did you have enough\Ntime to get it all set up, May?
-Dialogue: 0,0:13:29.26,0:13:31.35,Dialogue1,Unknown,0000,0000,0000,,{\c&HB8FE91&}Of course! Piece of cake!
-Dialogue: 0,0:13:31.56,0:13:33.02,Dialogue1,Unknown,0000,0000,0000,,{\c&HFDDC91&}Naturally...
+Dialogue: 0,0:11:39.15,0:11:41.39,Dialogue1,Unknown,0000,0000,0000,,Number 6. This is it.
+Dialogue: 0,0:11:45.49,0:11:46.94,Dialogue1,Unknown,0000,0000,0000,,Good eve...
+Dialogue: 0,0:11:49.41,0:11:50.87,Dialogue1,Unknown,0000,0000,0000,,What do you want?
+Dialogue: 0,0:11:52.58,0:11:53.79,Dialogue1,Unknown,0000,0000,0000,,Nothing...
+Dialogue: 0,0:11:56.75,0:12:02.26,Dialogue1,Unknown,0000,0000,0000,,A fake address and a fake Rolex? \NI wonder what he was really up to?
+Dialogue: 0,0:12:02.47,0:12:04.34,Dialogue1,Unknown,0000,0000,0000,,It's got to mean something.
+Dialogue: 0,0:12:04.55,0:12:06.89,Dialogue1,Unknown,0000,0000,0000,,That's not good enough, May.
+Dialogue: 0,0:12:06.89,0:12:08.64,Dialogue1,Unknown,0000,0000,0000,,You got us into this, so figure it out.
+Dialogue: 0,0:12:08.85,0:12:11.40,Dialogue1,Unknown,0000,0000,0000,,Now hold on, Larry! \NYou took us there in the first place... {??? idk what she's trying to blame larry for}
+Dialogue: 0,0:12:11.40,0:12:12.18,Dialogue1,Unknown,0000,0000,0000,,{kachink}
+Dialogue: 0,0:12:12.18,0:12:15.19,Dialogue1,Unknown,0000,0000,0000,,I was joking! You're too quick to fly off the handle.
+Dialogue: 0,0:12:15.40,0:12:18.65,Dialogue1,Unknown,0000,0000,0000,,Hey, Larry, that's my pop.\NGive it back!
+Dialogue: 0,0:12:18.65,0:12:19.81,Dialogue1,Unknown,0000,0000,0000,,Hey, Larry!
+Dialogue: 0,0:12:26.27,0:12:28.45,Dialogue1,Unknown,0000,0000,0000,,May... are you all right?
+Dialogue: 0,0:12:28.66,0:12:30.64,Dialogue1,Unknown,0000,0000,0000,,I won't listen to you anymore.
+Dialogue: 0,0:12:34.67,0:12:39.55,Dialogue1,Unknown,0000,0000,0000,,Well, in any case, it's pointless to keep thinking about this.
+Dialogue: 0,0:12:39.55,0:12:41.72,Dialogue1,Unknown,0000,0000,0000,,I guess we'd better drop it for now... right?
+Dialogue: 0,0:12:47.39,0:12:49.68,Dialogue1,Unknown,0000,0000,0000,,Working hard, gentlemen? \NThis is for you.
+Dialogue: 0,0:12:49.89,0:12:51.89,Dialogue1,Unknown,0000,0000,0000,,Uh... Well... I don't think I...
+Dialogue: 0,0:12:52.10,0:12:54.37,Dialogue1,Unknown,0000,0000,0000,,Spare us your flimsy excuses, Bill.
+Dialogue: 0,0:12:55.15,0:12:57.44,Dialogue1,Unknown,0000,0000,0000,,Our business with you is over, you hear?
+Dialogue: 0,0:12:57.65,0:13:01.65,Dialogue1,Unknown,0000,0000,0000,,If you've got time to bug our house, you’d better get that license you promised us sorted!
+Dialogue: 0,0:13:01.86,0:13:06.87,Dialogue1,Unknown,0000,0000,0000,,This investigation isn't over yet, Larry.\NPlease, I can't do it without your help!
+Dialogue: 0,0:13:07.16,0:13:09.12,Dialogue1,Unknown,0000,0000,0000,,It's no use puffing out your chest now. {/trying to sound serious}
+Dialogue: 0,0:13:09.33,0:13:12.45,Dialogue1,Unknown,0000,0000,0000,,You're a fool if you think we would ever trust you again!
+Dialogue: 0,0:13:14.16,0:13:18.38,Dialogue1,Unknown,0000,0000,0000,,Oh, that's cold.\NBut you win, we're leaving.
+Dialogue: 0,0:13:18.38,0:13:19.25,Dialogue1,Unknown,0000,0000,0000,,Yes, sir.
+Dialogue: 0,0:13:26.05,0:13:29.05,Dialogue1,Unknown,0000,0000,0000,,Did you have enough\Ntime to get it all set up, May? {meaning to mine their car}
+Dialogue: 0,0:13:29.26,0:13:31.35,Dialogue1,Unknown,0000,0000,0000,,Of course! Piece of cake!
+Dialogue: 0,0:13:31.56,0:13:33.02,Dialogue1,Unknown,0000,0000,0000,,Naturally...
 Dialogue: 0,0:13:33.23,0:13:34.39,Dialogue1,Unknown,0000,0000,0000,,I'm ready here.
-Dialogue: 0,0:13:34.60,0:13:36.52,Dialogue1,Unknown,0000,0000,0000,,{\c&HFDDC91&}Roger.
-Dialogue: 0,0:13:40.52,0:13:43.82,Dialogue1,Unknown,0000,0000,0000,,{\c&HB5DBFC&}I should have known...
-Dialogue: 0,0:13:55.04,0:13:57.96,Dialogue1,Unknown,0000,0000,0000,,{\c&H9292FD&}Damn!
-Dialogue: 0,0:14:05.26,0:14:09.51,Dialogue1,Unknown,0000,0000,0000,,{\c&HFDDC91&}The way to crack this is to figure\Nout what these things really are.
-Dialogue: 0,0:14:09.93,0:14:12.39,Dialogue1,Unknown,0000,0000,0000,,{\c&HFDDC91&}Could it be a phone number...? No...
-Dialogue: 0,0:14:12.60,0:14:16.73,Dialogue1,Unknown,0000,0000,0000,,{\c&HFDDC91&}It's not a bank account number,\Nbut it could be some sort of code...
-Dialogue: 0,0:14:17.10,0:14:19.19,Dialogue1,Unknown,0000,0000,0000,,{\c&HFDDC91&}Hrmmmmm...
-Dialogue: 0,0:14:19.40,0:14:23.73,Dialogue1,Unknown,0000,0000,0000,,{\c&HFDDC91&}Hey, did you notice anything strange\Nthe day you caught Washington?
-Dialogue: 0,0:14:23.73,0:14:25.03,Dialogue1,Unknown,0000,0000,0000,,{\c&HFDDC91&}Huh?
+Dialogue: 0,0:13:34.60,0:13:35.78,Dialogue1,Unknown,0000,0000,0000,,Roger.
+Dialogue: 0,0:13:40.52,0:13:42.47,Dialogue1,Unknown,0000,0000,0000,,I should have known...
+Dialogue: 0,0:13:55.04,0:13:55.90,Dialogue1,Unknown,0000,0000,0000,,Tsk.
+Dialogue: 0,0:14:05.26,0:14:09.51,Dialogue1,Unknown,0000,0000,0000,,The real question is what these two things really mean.
+Dialogue: 0,0:14:09.93,0:14:12.39,Dialogue1,Unknown,0000,0000,0000,,A phone number? No, not that...
+Dialogue: 0,0:14:12.60,0:14:16.73,Dialogue1,Unknown,0000,0000,0000,,It's not a bank account number,\Nmaybe some sort of code?
+Dialogue: 0,0:14:17.10,0:14:19.19,Dialogue1,Unknown,0000,0000,0000,,
+Dialogue: 0,0:14:19.40,0:14:23.73,Dialogue1,Unknown,0000,0000,0000,,Hey, did you notice anything strange\Nthe day you caught Washington?
+Dialogue: 0,0:14:23.73,0:14:24.64,Dialogue1,Unknown,0000,0000,0000,,Huh?
 Dialogue: 0,0:14:26.74,0:14:27.49,Dialogue1,Unknown,0000,0000,0000,,We did it.
-Dialogue: 0,0:14:27.49,0:14:29.82,Dialogue1,Unknown,0000,0000,0000,,{\c&HB8FE91&}We did it.\NYeah, our rhythm was perfect.
-Dialogue: 0,0:14:30.03,0:14:31.95,Dialogue1,Unknown,0000,0000,0000,,{\c&HFDDC91&}Are you even listening to me?
-Dialogue: 0,0:14:32.33,0:14:34.66,Dialogue1,Unknown,0000,0000,0000,,Ah! Sorry!
-Dialogue: 0,0:14:34.66,0:14:39.42,Dialogue1,Unknown,0000,0000,0000,,But you might be right.\NMaybe there was a clue...
-Dialogue: 0,0:14:42.21,0:14:44.96,Dialogue1,Unknown,0000,0000,0000,,Oh...! He had internet access!
-Dialogue: 0,0:14:45.17,0:14:47.34,Dialogue1,Unknown,0000,0000,0000,,{\c&HFDDC91&}He did? That's it!
-Dialogue: 0,0:14:47.55,0:14:51.14,Dialogue1,Unknown,0000,0000,0000,,{\c&HFDDC91&}I'll bet this is an internet\Naddress and access code!
-Dialogue: 0,0:14:51.34,0:14:53.64,Dialogue1,Unknown,0000,0000,0000,,{\c&HB8FE91&}Hey... there's something carved here!
-Dialogue: 0,0:14:53.64,0:14:55.81,Dialogue1,Unknown,0000,0000,0000,,{\c&HFDDC91&}What?
-Dialogue: 0,0:14:54.56,0:14:55.81,Dialogue1,Unknown,0000,0000,0000,,{\c&HFDDC91&}Look...
-Dialogue: 0,0:14:56.02,0:14:58.10,Dialogue1,Unknown,0000,0000,0000,,What's this number?
-Dialogue: 0,0:14:58.31,0:14:59.56,Dialogue1,Unknown,0000,0000,0000,,{\c&HFDDC91&}Of course!
-Dialogue: 0,0:14:59.14,0:14:59.56,Dialogue1,Unknown,0000,0000,0000,,{\c&HFDDC91&}Huh? Huh?
-Dialogue: 0,0:14:59.56,0:14:59.81,Dialogue1,Unknown,0000,0000,0000,,Huh? Huh?
-Dialogue: 0,0:14:59.81,0:15:02.48,Dialogue1,Unknown,0000,0000,0000,,{\c&HFDDC91&}This is a secret code for a site\Non the network. Huh? Huh?
-Dialogue: 0,0:15:03.32,0:15:04.94,Dialogue1,Unknown,0000,0000,0000,,{\c&HFDDC91&}Watch carefully.
-Dialogue: 0,0:15:05.15,0:15:08.90,Dialogue1,Unknown,0000,0000,0000,,{\c&HFDDC91&}First, we enter the first letter of each\Nword in the address, plus the phone number.
+Dialogue: 0,0:14:27.49,0:14:29.82,Dialogue1,Unknown,0000,0000,0000,,Yeah, our rhythm was perfect.
+Dialogue: 0,0:14:30.03,0:14:31.95,Dialogue1,Unknown,0000,0000,0000,,Are you even listening to me?
+Dialogue: 0,0:14:32.33,0:14:34.66,Dialogue1,Unknown,0000,0000,0000,,Ah! Sorry.
+Dialogue: 0,0:14:34.66,0:14:38.19,Dialogue1,Unknown,0000,0000,0000,,But you might be right.\NMaybe there was a clue...
+Dialogue: 0,0:14:42.87,0:14:44.96,Dialogue1,Unknown,0000,0000,0000,,He was browsing the internet!
+Dialogue: 0,0:14:45.17,0:14:47.34,Dialogue1,Unknown,0000,0000,0000,,He did? That's it!
+Dialogue: 0,0:14:47.55,0:14:51.14,Dialogue1,Unknown,0000,0000,0000,,I'll bet this is an internet\Naddress and access code!
+Dialogue: 0,0:14:51.34,0:14:53.64,Dialogue1,Unknown,0000,0000,0000,,Hey... there's something carved here!
+Dialogue: 0,0:14:53.64,0:14:54.24,Dialogue1,Unknown,0000,0000,0000,,Huh?
+Dialogue: 0,0:14:54.54,0:14:55.81,Dialogue1,Unknown,0000,0000,0000,,Look...
+Dialogue: 0,0:14:56.02,0:14:57.55,Dialogue1,Unknown,0000,0000,0000,,What's this number?
+Dialogue: 0,0:14:58.31,0:14:59.23,Dialogue1,Unknown,0000,0000,0000,,Of course!
+Dialogue: 0,0:14:59.23,0:14:59.81,Dialogue1,Unknown,0000,0000,0000,,Huh?
+Dialogue: 0,0:14:59.81,0:15:02.48,Dialogue1,Unknown,0000,0000,0000,,This is a secret code \Nfor a site on the web!
+Dialogue: 0,0:15:03.32,0:15:04.26,Dialogue1,Unknown,0000,0000,0000,,Watch this.
+Dialogue: 0,0:15:05.15,0:15:08.90,Dialogue1,Unknown,0000,0000,0000,,First, we enter the first letter of each word in the address, plus the phone number.
 Dialogue: 0,0:15:11.41,0:15:13.83,Dialogue1,Unknown,0000,0000,0000,,That's it! That's the picture\NWashington had on his monitor!
-Dialogue: 0,0:15:14.03,0:15:17.79,Dialogue1,Unknown,0000,0000,0000,,{\c&HFDDC91&}Bingo! Now, we enter the number\Non the back of the watch.
-Dialogue: 0,0:15:20.79,0:15:22.29,Dialogue1,Unknown,0000,0000,0000,,{\c&HFDDC91&}Nailed it!
-Dialogue: 0,0:15:22.29,0:15:24.88,Dialogue1,Unknown,0000,0000,0000,,{\c&HB8FE91&}Nailed it!\NThat's incredible, Becky!
-Dialogue: 0,0:15:25.67,0:15:29.09,Dialogue1,Unknown,0000,0000,0000,,{\c&HFDDC91&}What an idea...\Nhiding data in a porn site.
-Dialogue: 0,0:15:29.55,0:15:31.47,Dialogue1,Unknown,0000,0000,0000,,{\c&HB8FE91&}But what kind of data is this?
-Dialogue: 0,0:15:31.68,0:15:35.14,Dialogue1,Unknown,0000,0000,0000,,Wait a second.\NLet me look at these dates...
-Dialogue: 0,0:15:35.35,0:15:36.77,Dialogue1,Unknown,0000,0000,0000,,Let's see...
-Dialogue: 0,0:15:36.97,0:15:40.56,Dialogue1,Unknown,0000,0000,0000,,Ah... The weapons they're selling\Nwere all previously seized by the ATF.
-Dialogue: 0,0:15:41.14,0:15:44.36,Dialogue1,Unknown,0000,0000,0000,,{\c&HFDDC91&}Rally, you can sell this data\Nfor a very high price, but...
-Dialogue: 0,0:15:44.56,0:15:46.40,Dialogue1,Unknown,0000,0000,0000,,But first, we'll need proof.
-Dialogue: 0,0:15:46.61,0:15:47.78,Dialogue1,Unknown,0000,0000,0000,,{\c&HFDDC91&}Exactly.
-Dialogue: 0,0:15:47.78,0:15:50.07,Dialogue1,Unknown,0000,0000,0000,,Exactly.\NMay... ready to roll?
-Dialogue: 0,0:15:50.61,0:15:52.57,Dialogue1,Unknown,0000,0000,0000,,{\c&HB8FE91&}Absolutely!
-Dialogue: 0,0:15:52.78,0:15:53.66,Dialogue1,Unknown,0000,0000,0000,,I knew you would be!
-Dialogue: 0,0:15:53.66,0:15:57.37,Dialogue1,Unknown,0000,0000,0000,,{\c&HFDDC91&}I knew you would be!\NWait! Let me make some printouts!
-Dialogue: 0,0:15:58.45,0:16:04.50,Dialogue1,Unknown,0000,0000,0000,,{\c&HB5DBFC&}Heh... You print out there, and\NI'll print out here, Miss Becky.
-Dialogue: 0,0:16:04.96,0:16:06.63,Dialogue1,Unknown,0000,0000,0000,,{\c&HB6B891&}Bill!
-Dialogue: 0,0:16:06.63,0:16:10.34,Dialogue1,Unknown,0000,0000,0000,,{\c&HB6B891&}How come you're still here? I\Ndon't want to hear that you're still...
-Dialogue: 0,0:16:10.59,0:16:17.60,Dialogue1,Unknown,0000,0000,0000,,{\c&HB5DBFC&}No way! I'm writing up my reports.\NI've been putting them off for too long.
-Dialogue: 0,0:16:18.10,0:16:23.94,Dialogue1,Unknown,0000,0000,0000,,{\c&HB6B891&}Well, all right... But remember, you're\Nsupposed to be assisting Frank! Understood?
-Dialogue: 0,0:16:25.19,0:16:27.44,Dialogue1,Unknown,0000,0000,0000,,{\c&HB5DBFC&}Aye aye, sir!
+Dialogue: 0,0:15:14.03,0:15:17.79,Dialogue1,Unknown,0000,0000,0000,,Bingo! Now, we enter the number\Non the back of the watch.
+Dialogue: 0,0:15:20.79,0:15:22.29,Dialogue1,Unknown,0000,0000,0000,,Nailed it!
+Dialogue: 0,0:15:22.29,0:15:24.88,Dialogue1,Unknown,0000,0000,0000,,That's incredible, Becky!
+Dialogue: 0,0:15:25.67,0:15:29.09,Dialogue1,Unknown,0000,0000,0000,,Hiding the data in a porn site... clever!
+Dialogue: 0,0:15:29.55,0:15:31.47,Dialogue1,Unknown,0000,0000,0000,,But what kind of data is this?
+Dialogue: 0,0:15:31.68,0:15:35.14,Dialogue1,Unknown,0000,0000,0000,,Wait a second.\NLet me look at these exchange dates...
+Dialogue: 0,0:15:35.35,0:15:36.44,Dialogue1,Unknown,0000,0000,0000,,And now...
+Dialogue: 0,0:15:36.97,0:15:37.69,Dialogue1,Unknown,0000,0000,0000,,Ah...
+Dialogue: 0,0:15:37.69,0:15:40.56,Dialogue1,Unknown,0000,0000,0000,,All the weapons they're selling\Nwere all previously seized by the ATF!
+Dialogue: 0,0:15:41.14,0:15:44.36,Dialogue1,Unknown,0000,0000,0000,,This data could fetch you a fortune, Larry. However...
+Dialogue: 0,0:15:44.56,0:15:46.40,Dialogue1,Unknown,0000,0000,0000,,We'll need evidence to support it, right?
+Dialogue: 0,0:15:46.61,0:15:47.78,Dialogue1,Unknown,0000,0000,0000,,Exactly.
+Dialogue: 0,0:15:47.78,0:15:50.07,Dialogue1,Unknown,0000,0000,0000,,May... ready to roll?
+Dialogue: 0,0:15:50.61,0:15:52.54,Dialogue1,Unknown,0000,0000,0000,,You bet!
+Dialogue: 0,0:15:52.54,0:15:53.66,Dialogue1,Unknown,0000,0000,0000,,I knew I could count on you!
+Dialogue: 0,0:15:53.66,0:15:57.37,Dialogue1,Unknown,0000,0000,0000,,H-Hey, wait! \NLet me make some printouts first!
+Dialogue: 0,0:15:59.69,0:16:03.86,Dialogue1,Unknown,0000,0000,0000,,You print out there, \Nand I print out here, Miss Becky.
+Dialogue: 0,0:16:04.96,0:16:06.13,Dialogue1,Unknown,0000,0000,0000,,Bill!
+Dialogue: 0,0:16:06.63,0:16:10.34,Dialogue1,Unknown,0000,0000,0000,,How come you're still here at this hour? \NDon't tell me you're still...
+Dialogue: 0,0:16:10.87,0:16:12.68,Dialogue1,Unknown,0000,0000,0000,,No way!
+Dialogue: 0,0:16:12.68,0:16:16.98,Dialogue1,Unknown,0000,0000,0000,,I'm sorting out my reports.\NI've been putting them off for too long.
+Dialogue: 0,0:16:18.10,0:16:19.56,Dialogue1,Unknown,0000,0000,0000,,All right, then...
+Dialogue: 0,0:16:19.56,0:16:23.23,Dialogue1,Unknown,0000,0000,0000,,But remember to assist Frank in any way you can! Understood?
+Dialogue: 0,0:16:25.19,0:16:26.58,Dialogue1,Unknown,0000,0000,0000,,Aye aye, sir!
 Dialogue: 0,0:16:43.83,0:16:45.04,Dialogue1,Unknown,0000,0000,0000,,Is this the right place?
-Dialogue: 0,0:16:45.25,0:16:48.42,Dialogue1,Unknown,0000,0000,0000,,{\c&HFDDC91&}The shipment should\Nhave arrived here last night.
-Dialogue: 0,0:16:48.96,0:16:50.80,Dialogue1,Unknown,0000,0000,0000,,{\c&HB8FE91&}Hey, let's do this later.
-Dialogue: 0,0:16:50.80,0:16:53.09,Dialogue1,Unknown,0000,0000,0000,,Hey, let's do this later.\NYou can't back out now!
+Dialogue: 0,0:16:45.25,0:16:48.03,Dialogue1,Unknown,0000,0000,0000,,The shipment should have arrived here last night.
+Dialogue: 0,0:16:48.96,0:16:50.80,Dialogue1,Unknown,0000,0000,0000,,Hey, let's do this tomorrow.
+Dialogue: 0,0:16:50.80,0:16:53.09,Dialogue1,Unknown,0000,0000,0000,,No way! We're already here! {/of course not!}
 Dialogue: 0,0:16:53.09,0:16:55.14,Dialogue1,Unknown,0000,0000,0000,,Sorry, Becky, you'll have to stay here.
-Dialogue: 0,0:16:55.14,0:16:58.20,Dialogue1,Unknown,0000,0000,0000,,{\c&HFDDC91&}Sorry, Becky, you'll have to stay here. Of\Ncourse. I wouldn't come even if you asked.
-Dialogue: 0,0:16:58.22,0:17:00.68,Dialogue1,Unknown,0000,0000,0000,,{\c&HB8FE91&}Oh, I see.
-Dialogue: 0,0:17:06.02,0:17:09.69,Dialogue1,Unknown,0000,0000,0000,,Pretty serious security for\Na yacht club during the off-season.
-Dialogue: 0,0:17:09.90,0:17:12.28,Dialogue1,Unknown,0000,0000,0000,,{\c&HB8FE91&}It's a good thing we left\NBecky back in the car.
-Dialogue: 0,0:17:13.32,0:17:15.61,Dialogue1,Unknown,0000,0000,0000,,May...
-Dialogue: 0,0:17:15.82,0:17:17.78,Dialogue1,Unknown,0000,0000,0000,,Let's go.
-Dialogue: 0,0:17:34.63,0:17:36.64,Dialogue1,Unknown,0000,0000,0000,,{\c&HB8FE91&}Wow, the mother lode!
-Dialogue: 0,0:17:36.64,0:17:38.39,Dialogue1,Unknown,0000,0000,0000,,{\c&HB8FE91&}Uh huh.
-Dialogue: 0,0:17:39.01,0:17:42.02,Dialogue1,Unknown,0000,0000,0000,,{\c&HDCFEFD&}Hold it right there, you two...
-Dialogue: 0,0:17:42.22,0:17:44.31,Dialogue1,Unknown,0000,0000,0000,,{\c&HDCFEFD&}The boss told us you'd be dropping by.
-Dialogue: 0,0:17:44.31,0:17:46.90,Dialogue1,Unknown,0000,0000,0000,,{\c&HDCFEFD&}You two look pretty hot.
-Dialogue: 0,0:17:47.23,0:17:49.36,Dialogue1,Unknown,0000,0000,0000,,{\c&HDCFEFD&}Come on over so we\Ncan get a good look at you.
-Dialogue: 0,0:17:50.32,0:17:53.78,Dialogue1,Unknown,0000,0000,0000,,{\c&HDCFEFD&}How about we take good\Ncare of you before we kill you?
-Dialogue: 0,0:17:53.99,0:17:55.90,Dialogue1,Unknown,0000,0000,0000,,{\c&HFDB7D9&}Hey, hurry it up!
-Dialogue: 0,0:18:27.94,0:18:29.10,Dialogue1,Unknown,0000,0000,0000,,It's her...!
-Dialogue: 0,0:18:29.31,0:18:31.27,Dialogue1,Unknown,0000,0000,0000,,{\c&H9292FD&}Shit...
-Dialogue: 0,0:18:32.86,0:18:34.11,Dialogue1,Unknown,0000,0000,0000,,Huh...?
-Dialogue: 0,0:18:34.32,0:18:36.36,Dialogue1,Unknown,0000,0000,0000,,{\c&HB5DBFC&}Hey, that was cutting it a bit close...
-Dialogue: 0,0:18:37.11,0:18:40.91,Dialogue1,Unknown,0000,0000,0000,,Bill! Not you again! This sucks!
+Dialogue: 0,0:16:55.14,0:16:58.20,Dialogue1,Unknown,0000,0000,0000,,Of course. \NI wouldn't come even if you asked me to.
+Dialogue: 0,0:16:58.22,0:16:59.25,Dialogue1,Unknown,0000,0000,0000,,Figures.
+Dialogue: 0,0:17:06.02,0:17:09.69,Dialogue1,Unknown,0000,0000,0000,,Pretty serious security for a yacht club \Nduring the off-season.
+Dialogue: 0,0:17:09.90,0:17:12.28,Dialogue1,Unknown,0000,0000,0000,,It's a good thing we left Becky back in the car.
+Dialogue: 0,0:17:13.02,0:17:14.23,Dialogue1,Unknown,0000,0000,0000,,May...
+Dialogue: 0,0:17:15.82,0:17:16.64,Dialogue1,Unknown,0000,0000,0000,,Let's go.
+Dialogue: 0,0:17:34.63,0:17:36.64,Dialogue1,Unknown,0000,0000,0000,,Wow! We struck gold, Larry!
+Dialogue: 0,0:17:36.64,0:17:37.32,Dialogue1,Unknown,0000,0000,0000,,
+Dialogue: 0,0:17:39.01,0:17:41.13,Dialogue1,Unknown,0000,0000,0000,,Hold it right there, you two...
+Dialogue: 0,0:17:42.22,0:17:44.31,Dialogue1,Unknown,0000,0000,0000,,The boss told us you'd be dropping by.
+Dialogue: 0,0:17:44.31,0:17:46.90,Dialogue1,Unknown,0000,0000,0000,,You two look pretty hot.
+Dialogue: 0,0:17:47.23,0:17:49.36,Dialogue1,Unknown,0000,0000,0000,,Turn around so we can get \Na good look at you.
+Dialogue: 0,0:17:50.32,0:17:53.68,Dialogue1,Unknown,0000,0000,0000,,We'll make sure to play around with you before we kill you.
+Dialogue: 0,0:17:53.76,0:17:55.73,Dialogue1,Unknown,0000,0000,0000,,Hey, hurry it up!
+Dialogue: 0,0:18:27.94,0:18:29.10,Dialogue1,Unknown,0000,0000,0000,,It's her!
+Dialogue: 0,0:18:29.31,0:18:30.26,Dialogue1,Unknown,0000,0000,0000,,
+Dialogue: 0,0:18:32.86,0:18:33.64,Dialogue1,Unknown,0000,0000,0000,,
+Dialogue: 0,0:18:34.32,0:18:36.36,Dialogue1,Unknown,0000,0000,0000,,Hey, that was cutting it a bit close...
+Dialogue: 0,0:18:37.11,0:18:41.44,Dialogue1,Unknown,0000,0000,0000,,Bill! Not you again! This sucks!
 Dialogue: 0,0:18:58.17,0:19:00.26,Dialogue1,Unknown,0000,0000,0000,,What the hell are you doing here?
-Dialogue: 0,0:19:00.72,0:19:02.35,Dialogue1,Unknown,0000,0000,0000,,{\c&HB5DBFC&}Well, was I even a bit helpful?
-Dialogue: 0,0:19:02.55,0:19:04.43,Dialogue1,Unknown,0000,0000,0000,,This might be another set-up!
-Dialogue: 0,0:19:04.64,0:19:06.89,Dialogue1,Unknown,0000,0000,0000,,{\c&HB5DBFC&}Huh? That's a good one.
-Dialogue: 0,0:19:06.89,0:19:10.56,Dialogue1,Unknown,0000,0000,0000,,{\c&HB5DBFC&}I happen to share your opinion\Nabout the trustworthiness of the ATF.
-Dialogue: 0,0:19:11.86,0:19:15.90,Dialogue1,Unknown,0000,0000,0000,,You tapped into our computer,\Ndidn't you? You snake!
-Dialogue: 0,0:19:17.11,0:19:18.86,Dialogue1,Unknown,0000,0000,0000,,May?!
-Dialogue: 0,0:19:21.82,0:19:23.20,Dialogue1,Unknown,0000,0000,0000,,May!
-Dialogue: 0,0:19:25.58,0:19:26.66,Dialogue1,Unknown,0000,0000,0000,,{\c&HFDDC91&}Rally, get in!
+Dialogue: 0,0:19:00.72,0:19:02.35,Dialogue1,Unknown,0000,0000,0000,,But wasn't I helpful?
+Dialogue: 0,0:19:02.55,0:19:04.43,Dialogue1,Unknown,0000,0000,0000,,How should I know it it's not another set-up{ that you organized}?
+Dialogue: 0,0:19:04.64,0:19:06.89,Dialogue1,Unknown,0000,0000,0000,,Huh? Hey, now.
+Dialogue: 0,0:19:06.89,0:19:10.56,Dialogue1,Unknown,0000,0000,0000,,I happen to share your opinion\Nabout the trustworthiness of the ATF.
+Dialogue: 0,0:19:11.86,0:19:16.43,Dialogue1,Unknown,0000,0000,0000,,You tapped into our computer,\Ndidn't you? You snake!
+Dialogue: 0,0:19:17.11,0:19:17.81,Dialogue1,Unknown,0000,0000,0000,,May?!
+Dialogue: 0,0:19:21.82,0:19:22.77,Dialogue1,Unknown,0000,0000,0000,,May!
+Dialogue: 0,0:19:25.58,0:19:26.66,Dialogue1,Unknown,0000,0000,0000,,Larry, get in!
 Dialogue: 0,0:19:26.87,0:19:27.54,Dialogue1,Unknown,0000,0000,0000,,I'll drive!
-Dialogue: 0,0:19:27.54,0:19:30.25,Dialogue1,Unknown,0000,0000,0000,,{\c&HB5DBFC&}I'll drive!\NRally! Hey, take me with you! Rally!
-Dialogue: 0,0:19:30.54,0:19:30.79,Dialogue1,Unknown,0000,0000,0000,,{\c&HFDDC91&}Hey!
-Dialogue: 0,0:19:30.79,0:19:32.33,Dialogue1,Unknown,0000,0000,0000,,Hey!\NLet's {\i1}move{\i0}!
-Dialogue: 0,0:19:54.02,0:19:55.19,Dialogue1,Unknown,0000,0000,0000,,May, get the message!
-Dialogue: 0,0:20:05.91,0:20:09.70,Dialogue1,Unknown,0000,0000,0000,,{\c&HB8FE91&}{\i1}Rally! OK, time to bust a move!{\i0}
+Dialogue: 0,0:19:27.54,0:19:30.25,Dialogue1,Unknown,0000,0000,0000,,Larry! Hey, take me with you! Larry!
+Dialogue: 0,0:19:30.34,0:19:30.79,Dialogue1,Unknown,0000,0000,0000,,Hey!
+Dialogue: 0,0:19:30.79,0:19:31.86,Dialogue1,Unknown,0000,0000,0000,,Let's move! {??? no clue}
+Dialogue: 0,0:19:54.02,0:19:55.59,Dialogue1,Unknown,0000,0000,0000,,May, get the message! {/please notice us [senpai]}
+Dialogue: 0,0:20:05.91,0:20:09.70,Dialogue1,Unknown,0000,0000,0000,,Larry! Okay, time to bust a move! {/dance flashily}
 Dialogue: 0,0:20:13.33,0:20:16.25,Dialogue1,Unknown,0000,0000,0000,,That's her! Music... start!
-Dialogue: 0,0:20:16.96,0:20:18.80,Dialogue1,Unknown,0000,0000,0000,,{\c&HDCFEFD&}One... Two... Three...
-Dialogue: 0,0:20:31.27,0:20:33.10,Dialogue1,Unknown,0000,0000,0000,,{\c&H9292FD&}Get off of me!
-Dialogue: 0,0:20:33.31,0:20:35.27,Dialogue1,Unknown,0000,0000,0000,,{\c&H9292FD&}You little bitch!
-Dialogue: 0,0:21:18.48,0:21:20.73,Dialogue1,Unknown,0000,0000,0000,,{\c&HFDDC91&}Rally, don't go crazy!
+Dialogue: 0,0:20:16.96,0:20:18.80,Dialogue1,Unknown,0000,0000,0000,,One... Two... Three...
+Dialogue: 0,0:20:31.27,0:20:33.10,Dialogue1,Unknown,0000,0000,0000,,Get off of me!
+Dialogue: 0,0:20:33.31,0:20:34.76,Dialogue1,Unknown,0000,0000,0000,,You little bitch!
+Dialogue: 0,0:21:18.01,0:21:20.73,Dialogue1,Unknown,0000,0000,0000,,L-Larry, don't go crazy!
 Dialogue: 0,0:21:20.94,0:21:22.24,Dialogue1,Unknown,0000,0000,0000,,Tell that to her!
-Dialogue: 0,0:21:32.33,0:21:34.00,Dialogue1,Unknown,0000,0000,0000,,Oh no you don't...!
+Dialogue: 0,0:21:32.33,0:21:34.00,Dialogue1,Unknown,0000,0000,0000,,Oh no you don't! {/you won't get away}
 Dialogue: 0,0:21:42.76,0:21:44.42,Dialogue1,Unknown,0000,0000,0000,,Becky, can you see May?
-Dialogue: 0,0:21:44.63,0:21:45.76,Dialogue1,Unknown,0000,0000,0000,,{\c&HFDDC91&}Hold on... Huh...?!
+Dialogue: 0,0:21:44.63,0:21:45.76,Dialogue1,Unknown,0000,0000,0000,,Hold on... Huh...?!
 Dialogue: 0,0:21:47.97,0:21:49.18,Dialogue1,Unknown,0000,0000,0000,,Yikes!
-Dialogue: 0,0:22:02.65,0:22:05.45,Dialogue1,Unknown,0000,0000,0000,,Fuuuuccck!
-Dialogue: 0,0:22:09.53,0:22:13.24,Dialogue1,Unknown,0000,0000,0000,,That punk bitch!
+Dialogue: 0,0:22:02.65,0:22:05.31,Dialogue1,Unknown,0000,0000,0000,,{???}
+Dialogue: 0,0:22:09.53,0:22:11.01,Dialogue1,Unknown,0000,0000,0000,,That punk bitch!
+Dialogue: 0,0:22:11.01,0:22:12.58,Dialogue1,Unknown,0000,0000,0000,,You'll pay for it!
 Dialogue: 0,0:22:18.58,0:22:19.71,Dialogue1,Unknown,0000,0000,0000,,Becky, open the window!
-Dialogue: 0,0:22:26.47,0:22:27.84,Dialogue1,Unknown,0000,0000,0000,,{\c&HB8FE91&}Rally!
-Dialogue: 0,0:22:29.68,0:22:31.97,Dialogue1,Unknown,0000,0000,0000,,This ain't over yet!
-Dialogue: 0,0:22:40.52,0:22:43.02,Dialogue1,Unknown,0000,0000,0000,,{\c&H9292FD&}Damn you!
-Dialogue: 0,0:22:46.40,0:22:49.24,Dialogue1,Unknown,0000,0000,0000,,One more verse. Then you're mine!
-Dialogue: 0,0:22:55.58,0:22:57.54,Dialogue1,Unknown,0000,0000,0000,,Well,\Nat least this makes it easier to shoot!
-Dialogue: 0,0:23:15.22,0:23:17.27,Dialogue1,Unknown,0000,0000,0000,,{\c&H9292FD&}You're dead!
-Dialogue: 0,0:23:18.43,0:23:20.02,Dialogue1,Unknown,0000,0000,0000,,{\c&H9292FD&}Bitch!
-Dialogue: 0,0:23:20.90,0:23:21.73,Dialogue1,Unknown,0000,0000,0000,,{\c&HB8FE91&}{\i1}Five...{\i0}
-Dialogue: 0,0:23:21.73,0:23:22.31,Dialogue1,Unknown,0000,0000,0000,,{\c&HB8FE91&}{\i1}Four...{\i0}
-Dialogue: 0,0:23:22.52,0:23:23.44,Dialogue1,Unknown,0000,0000,0000,,{\c&HB8FE91&}{\i1}Three...{\i0}
-Dialogue: 0,0:23:23.44,0:23:24.32,Dialogue1,Unknown,0000,0000,0000,,{\c&HB8FE91&}{\i1}Two...{\i0}
-Dialogue: 0,0:23:24.32,0:23:25.44,Dialogue1,Unknown,0000,0000,0000,,{\c&HB8FE91&}{\i1}One...{\i0}
-Dialogue: 0,0:23:25.44,0:23:27.36,Dialogue1,Unknown,0000,0000,0000,,{\c&HB8FE91&}{\i1}Zero!{\i0}
-Dialogue: 0,0:23:33.45,0:23:35.83,Dialogue1,Unknown,0000,0000,0000,,{\c&HFDDC91&}Oh... Shit!
-Dialogue: 0,0:23:38.45,0:23:40.67,Dialogue1,Unknown,0000,0000,0000,,{\c&HB8FE91&}Hah... Nice catch...
-Dialogue: 0,0:23:40.87,0:23:43.50,Dialogue1,Unknown,0000,0000,0000,,{\c&HFDDC91&}Oooh! Are you totally insane?!
-Dialogue: 0,0:23:43.71,0:23:45.71,Dialogue1,Unknown,0000,0000,0000,,{\c&HFDDC91&}Rally! Look!
-Dialogue: 0,0:24:02.44,0:24:05.11,Dialogue1,Unknown,0000,0000,0000,,May, just what did you do?
-Dialogue: 0,0:24:06.65,0:24:08.07,Dialogue1,Unknown,0000,0000,0000,,Boy, that was quick!
-Dialogue: 0,0:24:08.28,0:24:10.70,Dialogue1,Unknown,0000,0000,0000,,{\c&HB8FE91&}Rally...
-Dialogue: 0,0:24:10.90,0:24:13.74,Dialogue1,Unknown,0000,0000,0000,,We did it again, May!
-Dialogue: 0,0:24:13.95,0:24:16.62,Dialogue1,Unknown,0000,0000,0000,,But it's not over yet...
-Dialogue: 0,0:24:16.62,0:24:17.99,Dialogue1,Unknown,0000,0000,0000,,{\c&HFDDC91&}Huh? Huh?
-Dialogue: 0,0:24:17.99,0:24:20.20,Dialogue1,Unknown,0000,0000,0000,,Huh? Huh?\NThere's more work to do...
-Dialogue: 0,0:24:20.41,0:24:22.96,Dialogue1,Unknown,0000,0000,0000,,...before this business is over.
+Dialogue: 0,0:22:26.47,0:22:27.54,Dialogue1,Unknown,0000,0000,0000,,Larry!
+Dialogue: 0,0:22:29.25,0:22:30.54,Dialogue1,Unknown,0000,0000,0000,,This ain't over yet!
+Dialogue: 0,0:22:40.52,0:22:41.76,Dialogue1,Unknown,0000,0000,0000,,Damn you!
+Dialogue: 0,0:22:46.40,0:22:49.44,Dialogue1,Unknown,0000,0000,0000,,One more verse. Then you're mine! {can't hear shit in first sentence, trusting original; second part is "think I'll let you escape?"}
+Dialogue: 0,0:22:55.58,0:22:57.54,Dialogue1,Unknown,0000,0000,0000,,Well, at least this makes it easier to shoot!
+Dialogue: 0,0:23:15.22,0:23:17.27,Dialogue1,Unknown,0000,0000,0000,,You're dead!
+Dialogue: 0,0:23:18.43,0:23:20.02,Dialogue1,Unknown,0000,0000,0000,,Bitch!
+Dialogue: 0,0:23:20.90,0:23:21.73,Dialogue1,Unknown,0000,0000,0000,,Five...
+Dialogue: 0,0:23:21.73,0:23:22.31,Dialogue1,Unknown,0000,0000,0000,,Four...
+Dialogue: 0,0:23:22.52,0:23:23.44,Dialogue1,Unknown,0000,0000,0000,,Three...
+Dialogue: 0,0:23:23.44,0:23:24.32,Dialogue1,Unknown,0000,0000,0000,,Two...
+Dialogue: 0,0:23:24.32,0:23:25.44,Dialogue1,Unknown,0000,0000,0000,,One...
+Dialogue: 0,0:23:25.44,0:23:26.35,Dialogue1,Unknown,0000,0000,0000,,Zero!
+Dialogue: 0,0:23:33.45,0:23:35.11,Dialogue1,Unknown,0000,0000,0000,,Oh... Shit!
+Dialogue: 0,0:23:39.07,0:23:40.67,Dialogue1,Unknown,0000,0000,0000,,Nice catch...
+Dialogue: 0,0:23:40.87,0:23:43.50,Dialogue1,Unknown,0000,0000,0000,,Really, guys! You're totally insane!
+Dialogue: 0,0:23:43.71,0:23:45.71,Dialogue1,Unknown,0000,0000,0000,,Larry! Look ahead!
+Dialogue: 0,0:24:02.44,0:24:04.89,Dialogue1,Unknown,0000,0000,0000,,May, just what did you do?
+Dialogue: 0,0:24:06.65,0:24:08.07,Dialogue1,Unknown,0000,0000,0000,,Boy, that was quick.
+Dialogue: 0,0:24:08.28,0:24:09.52,Dialogue1,Unknown,0000,0000,0000,,Larry...
+Dialogue: 0,0:24:10.90,0:24:12.52,Dialogue1,Unknown,0000,0000,0000,,We did it again, May!
+Dialogue: 0,0:24:13.95,0:24:15.60,Dialogue1,Unknown,0000,0000,0000,,That said...
+Dialogue: 0,0:24:16.62,0:24:17.52,Dialogue1,Unknown,0000,0000,0000,,Huh?
+Dialogue: 0,0:24:17.99,0:24:21.61,Dialogue1,Unknown,0000,0000,0000,,There's still more work to do before this case is closed.
 Dialogue: 0,0:27:06.66,0:27:08.74,Dialogue1,Unknown,0000,0000,0000,,Finally, it's time to get\Nback to business as usual.
-Dialogue: 0,0:27:08.87,0:27:10.96,Dialogue1,Unknown,0000,0000,0000,,{\c&HB8FE91&}Well, I guess I'll be\Ngoing on a date with Ken...
-Dialogue: 0,0:27:11.17,0:27:15.13,Dialogue1,Unknown,0000,0000,0000,,{\c&HFDDC91&}Hey, you two! You'd better not\Nrelax yet. Radinov's still alive!
-Dialogue: 0,0:27:15.34,0:27:15.92,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(437,898)}{\c&HB8FE91&}What?!
-Dialogue: 0,0:27:15.92,0:27:19.01,Dialogue1,Unknown,0000,0000,0000,,What?! Oooh! I guess that ominous\Nsense of foreboding was for real.
-Dialogue: 0,0:27:19.22,0:27:22.80,Dialogue1,Unknown,0000,0000,0000,,{\c&HFDDC91&}We're in trouble, Rally! This whole\Nincident's turning into a bottomless pit!
-Dialogue: 0,0:27:23.01,0:27:27.77,Dialogue1,Unknown,0000,0000,0000,,{\c&HB8FE91&}The next episode of Gunsmith Cats!\NChapter 3! "High Speed Edge."
-Dialogue: 0,0:27:27.98,0:27:31.18,Dialogue1,Unknown,0000,0000,0000,,If Radinov wants a one-on-one duel to\Nthe death, that's what she's going to get!
+Dialogue: 0,0:27:08.87,0:27:10.96,Dialogue1,Unknown,0000,0000,0000,,Well, I guess I'll be\Ngoing on a date with Ken...
+Dialogue: 0,0:27:11.17,0:27:15.13,Dialogue1,Unknown,0000,0000,0000,,Hey, you two! You'd better not\Nrelax yet. Radinov's still alive!
+Dialogue: 0,0:27:15.34,0:27:15.92,Dialogue2,Unknown,0000,0000,0000,,Eh?!
+Dialogue: 0,0:27:15.92,0:27:19.01,Dialogue1,Unknown,0000,0000,0000,,Ugh! I guess that sense of foreboding was for real.
+Dialogue: 0,0:27:19.22,0:27:22.31,Dialogue1,Unknown,0000,0000,0000,,We're in trouble, Larry! \NThere's more to this incident than meets the eye. {lit: the roots are pretty deep}
+Dialogue: 0,0:27:23.01,0:27:27.77,Dialogue1,Unknown,0000,0000,0000,,The next episode of Gunsmith Cats!\NChapter 3: "High Speed Edge."
+Dialogue: 0,0:27:27.98,0:27:31.18,Dialogue1,Unknown,0000,0000,0000,,If Radinov wants a one-on-one duel, \Nthat's what she's going to get!
