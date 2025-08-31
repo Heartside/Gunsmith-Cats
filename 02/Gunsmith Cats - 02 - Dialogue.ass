@@ -1,4 +1,4 @@
-[Script Info]
+﻿[Script Info]
 Title: Default file
 ScriptType: v4.00+
 WrapStyle: 0
@@ -70,12 +70,12 @@ Dialogue: 0,0:05:13.98,0:05:16.93,GJM_Main_1080p,,0,0,0,,All I'm asking is for y
 Dialogue: 0,0:05:16.93,0:05:18.42,GJM_Main_1080p,,0,0,0,,I have her address here.
 Dialogue: 0,0:05:18.42,0:05:20.88,GJM_Main_1080p,,0,0,0,,Now hold on a second! Why should we...
 Dialogue: 0,0:05:21.34,0:05:24.94,GJM_Main_1080p,,0,0,0,,That's the only thing I can do for her as a father.
-Dialogue: 0,0:05:24.94,0:05:26.34,GJM_Main_1080p,,0,0,0,,Please, Larry!
+Dialogue: 0,0:05:24.94,0:05:26.34,GJM_Main_1080p,,0,0,0,,Please, Rally!
 Dialogue: 0,0:05:27.16,0:05:29.32,GJM_Main_1080p,,0,0,0,,Wait a second!\NWe're not finished talking yet.
 Dialogue: 0,0:05:29.32,0:05:30.71,GJM_Main_1080p,,0,0,0,,No, I've heard enough.
 Dialogue: 0,0:05:30.71,0:05:32.31,GJM_Main_1080p,,0,0,0,,But...
 Dialogue: 0,0:05:32.31,0:05:33.31,GJM_Main_1080p,,0,0,0,,Excuse me.
-Dialogue: 0,0:05:33.82,0:05:34.82,GJM_Main_1080p,,0,0,0,,Ms. Larry...
+Dialogue: 0,0:05:33.82,0:05:34.82,GJM_Main_1080p,,0,0,0,,Ms. Rally...
 Dialogue: 0,0:05:38.71,0:05:40.90,GJM_Main_1080p,,0,0,0,,I'm telling the truth.
 Dialogue: 0,0:05:42.34,0:05:43.79,GJM_Main_1080p,,0,0,0,,You'll understand soon.
 Dialogue: 0,0:05:43.79,0:05:47.33,GJM_Main_1080p,,0,0,0,,\NAnd when you do, I won't be around anymore.
@@ -94,7 +94,7 @@ Dialogue: 0,0:06:24.55,0:06:25.05,GJM_Main_1080p,,0,0,0,,Sure.
 Dialogue: 0,0:06:25.05,0:06:26.07,GJM_Main_1080p,,0,0,0,,Ready?
 Dialogue: 0,0:06:26.07,0:06:26.57,GJM_Main_1080p,,0,0,0,,Ah!
 Dialogue: 0,0:06:38.15,0:06:41.13,GJM_Main_1080p,,0,0,0,,That punk bitch!\NI won't forget that face!
-Dialogue: 0,0:06:41.61,0:06:42.92,GJM_Main_1080p,,0,0,0,,Larry...
+Dialogue: 0,0:06:41.61,0:06:42.92,GJM_Main_1080p,,0,0,0,,Rally...
 Dialogue: 0,0:06:45.07,0:06:48.11,GJM_Main_1080p,,0,0,0,,Damn it!\NThey dumped all this extra work on me.
 Dialogue: 0,0:06:48.11,0:06:50.10,GJM_Main_1080p,,0,0,0,,At least it's good to kill time.
 Dialogue: 0,0:06:50.55,0:06:52.04,GJM_Main_1080p,,0,0,0,,And now, the news.
@@ -158,12 +158,12 @@ Dialogue: 0,0:12:00.53,0:12:02.34,GJM_Main_1080p,,0,0,0,,\NI wonder what he was 
 Dialogue: 0,0:12:02.34,0:12:04.44,GJM_Main_1080p,,0,0,0,,It's got to mean something.
 Dialogue: 0,0:12:04.44,0:12:06.89,GJM_Main_1080p,,0,0,0,,That's not good enough, May.
 Dialogue: 0,0:12:06.89,0:12:08.71,GJM_Main_1080p,,0,0,0,,You got us into this, so figure it out.
-Dialogue: 0,0:12:08.71,0:12:11.29,GJM_Main_1080p,,0,0,0,,Now hold on, Larry! \NYou took us there in the first place... {??? idk what she's trying to blame larry for}
+Dialogue: 0,0:12:08.71,0:12:11.29,GJM_Main_1080p,,0,0,0,,Now hold on, Rally! \NYou took us there in the first place... {??? idk what she's trying to blame Rally for}
 Dialogue: 0,0:12:11.29,0:12:11.79,GJM_Main_1080p,,0,0,0,,{kachink | yoink would be goated -aigis}
 Dialogue: 0,0:12:12.32,0:12:14.00,GJM_Main_1080p,,0,0,0,,I was joking!
 Dialogue: 0,0:12:14.00,0:12:15.13,GJM_Main_1080p,,0,0,0,,You're too quick to fly off the handle.
-Dialogue: 0,0:12:15.13,0:12:17.88,GJM_Main_1080p,,0,0,0,,Hey, Larry, that's my pop.\NGive it back!
-Dialogue: 0,0:12:18.50,0:12:19.76,GJM_Main_1080p,,0,0,0,,Hey, Larry!
+Dialogue: 0,0:12:15.13,0:12:17.88,GJM_Main_1080p,,0,0,0,,Hey, Rally, that's my pop.\NGive it back!
+Dialogue: 0,0:12:18.50,0:12:19.76,GJM_Main_1080p,,0,0,0,,Hey, Rally!
 Dialogue: 0,0:12:26.35,0:12:28.27,GJM_Main_1080p,,0,0,0,,May... are you all right?
 Dialogue: 0,0:12:28.58,0:12:30.98,GJM_Main_1080p,,0,0,0,,I won't listen to you anymore.
 Dialogue: 0,0:12:34.17,0:12:39.41,GJM_Main_1080p,,0,0,0,,W-Well, in any case, it's pointless to keep thinking about this.
@@ -174,7 +174,7 @@ Dialogue: 0,0:12:49.67,0:12:51.98,GJM_Main_1080p,,0,0,0,,Uh... Well... I don't t
 Dialogue: 0,0:12:51.98,0:12:54.38,GJM_Main_1080p,,0,0,0,,Spare us your flimsy excuses, Bill.
 Dialogue: 0,0:12:55.01,0:12:56.84,GJM_Main_1080p,,0,0,0,,Our business with you is over, you hear?
 Dialogue: 0,0:12:57.51,0:13:01.55,GJM_Main_1080p,,0,0,0,,If you've got time to bug our house, you’d better get that license you promised us sorted!
-Dialogue: 0,0:13:01.55,0:13:04.56,GJM_Main_1080p,,0,0,0,,This investigation isn't over yet, Larry.
+Dialogue: 0,0:13:01.55,0:13:04.56,GJM_Main_1080p,,0,0,0,,This investigation isn't over yet, Rally.
 Dialogue: 0,0:13:04.56,0:13:07.02,GJM_Main_1080p,,0,0,0,,\NPlease, I can't do it without your help!
 Dialogue: 0,0:13:07.02,0:13:08.98,GJM_Main_1080p,,0,0,0,,It's no use puffing out your chest now. {/trying to sound serious}
 Dialogue: 0,0:13:08.98,0:13:12.63,GJM_Main_1080p,,0,0,0,,You're a fool if you think we would ever trust you again!
@@ -224,7 +224,7 @@ Dialogue: 0,0:15:31.55,0:15:35.22,GJM_Main_1080p,,0,0,0,,Wait a second.\NLet me 
 Dialogue: 0,0:15:35.22,0:15:36.83,GJM_Main_1080p,,0,0,0,,And now...
 Dialogue: 0,0:15:36.83,0:15:37.70,GJM_Main_1080p,,0,0,0,,Ah...
 Dialogue: 0,0:15:37.70,0:15:40.71,GJM_Main_1080p,,0,0,0,,All the weapons they're selling\Nwere all previously seized by the ATF!
-Dialogue: 0,0:15:41.04,0:15:43.55,GJM_Main_1080p,,0,0,0,,This data could fetch you a fortune, Larry.
+Dialogue: 0,0:15:41.04,0:15:43.55,GJM_Main_1080p,,0,0,0,,This data could fetch you a fortune, Rally.
 Dialogue: 0,0:15:43.55,0:15:46.43,GJM_Main_1080p,,0,0,0,,However... We'll need evidence to support it, right?
 Dialogue: 0,0:15:46.43,0:15:47.43,GJM_Main_1080p,,0,0,0,,Exactly.
 Dialogue: 0,0:15:47.68,0:15:50.22,GJM_Main_1080p,,0,0,0,,May... ready to roll?
@@ -253,7 +253,7 @@ Dialogue: 0,0:17:05.87,0:17:09.77,GJM_Main_1080p,,0,0,0,,Pretty serious security
 Dialogue: 0,0:17:09.77,0:17:12.48,GJM_Main_1080p,,0,0,0,,It's a good thing we left Becky back in the car.
 Dialogue: 0,0:17:13.21,0:17:13.99,GJM_Main_1080p,,0,0,0,,May...
 Dialogue: 0,0:17:15.71,0:17:16.44,GJM_Main_1080p,,0,0,0,,Let's go.
-Dialogue: 0,0:17:34.59,0:17:36.77,GJM_Main_1080p,,0,0,0,,Wow! We struck gold, Larry!
+Dialogue: 0,0:17:34.59,0:17:36.77,GJM_Main_1080p,,0,0,0,,Wow! We struck gold, Rally!
 Dialogue: 0,0:17:38.83,0:17:40.91,GJM_Main_1080p,,0,0,0,,Hold it right there, you two...
 Dialogue: 0,0:17:42.07,0:17:44.15,GJM_Main_1080p,,0,0,0,,The boss told us you'd be dropping by.
 Dialogue: 0,0:17:44.15,0:17:47.04,GJM_Main_1080p,,0,0,0,,You two look pretty hot.
@@ -273,18 +273,18 @@ Dialogue: 0,0:19:11.75,0:19:15.19,GJM_Main_1080p,,0,0,0,,You tapped into our com
 Dialogue: 0,0:19:15.19,0:19:16.37,GJM_Main_1080p,,0,0,0,,You snake!
 Dialogue: 0,0:19:16.97,0:19:17.59,GJM_Main_1080p,,0,0,0,,May?!
 Dialogue: 0,0:19:21.68,0:19:22.66,GJM_Main_1080p,,0,0,0,,May!
-Dialogue: 0,0:19:25.48,0:19:26.85,GJM_Main_1080p,,0,0,0,,Larry, get in!
+Dialogue: 0,0:19:25.48,0:19:26.85,GJM_Main_1080p,,0,0,0,,Rally, get in!
 Dialogue: 0,0:19:26.85,0:19:27.84,GJM_Main_1080p,,0,0,0,,I'll drive!
-Dialogue: 0,0:19:26.85,0:19:29.82,GJM_Main_1080p,,0,0,0,,{\an8}Hey, Larry! Take me with you! Larry!
+Dialogue: 0,0:19:26.85,0:19:29.82,GJM_Main_1080p,,0,0,0,,{\an8}Hey, Rally! Take me with you! Rally!
 Dialogue: 0,0:19:30.39,0:19:31.27,GJM_Main_1080p,,0,0,0,,Let's move! {??? no clue}
 Dialogue: 0,0:19:53.87,0:19:55.34,GJM_Main_1080p,,0,0,0,,May, get the message! {/please notice us [senpai]}
-Dialogue: 0,0:20:05.85,0:20:06.77,GJM_Main_1080p,,0,0,0,,Larry!
+Dialogue: 0,0:20:05.85,0:20:06.77,GJM_Main_1080p,,0,0,0,,Rally!
 Dialogue: 0,0:20:06.77,0:20:09.27,GJM_Main_1080p,,0,0,0,,Okay, time to bust a move! {/dance flashily}
 Dialogue: 0,0:20:13.19,0:20:16.40,GJM_Main_1080p,,0,0,0,,That's her! Music... start!
 Dialogue: 0,0:20:16.78,0:20:18.95,GJM_Main_1080p,,0,0,0,,One... Two... Three...
 Dialogue: 0,0:20:31.13,0:20:32.29,GJM_Main_1080p,,0,0,0,,Get off of me!
 Dialogue: 0,0:20:33.19,0:20:34.56,GJM_Main_1080p,,0,0,0,,You little bitch!
-Dialogue: 0,0:21:17.95,0:21:20.82,GJM_Main_1080p,,0,0,0,,L-Larry, don't go crazy!
+Dialogue: 0,0:21:17.95,0:21:20.82,GJM_Main_1080p,,0,0,0,,L-Rally, don't go crazy!
 Dialogue: 0,0:21:20.82,0:21:22.26,GJM_Main_1080p,,0,0,0,,Tell that to her!
 Dialogue: 0,0:21:32.20,0:21:33.56,GJM_Main_1080p,,0,0,0,,Oh no you don't! {/you won't get away}
 Dialogue: 0,0:21:42.49,0:21:44.50,GJM_Main_1080p,,0,0,0,,Becky, can you see May?
@@ -294,7 +294,7 @@ Dialogue: 0,0:00:00.00,0:00:00.00,GJM_Main_1080p,,0,0,0,,{???}
 Dialogue: 0,0:22:09.39,0:22:10.98,GJM_Main_1080p,,0,0,0,,That punk bitch!
 Dialogue: 0,0:22:10.98,0:22:12.28,GJM_Main_1080p,,0,0,0,,You'll pay for it!
 Dialogue: 0,0:22:18.53,0:22:20.08,GJM_Main_1080p,,0,0,0,,Becky, open the window!
-Dialogue: 0,0:22:26.37,0:22:27.46,GJM_Main_1080p,,0,0,0,,Larry!
+Dialogue: 0,0:22:26.37,0:22:27.46,GJM_Main_1080p,,0,0,0,,Rally!
 Dialogue: 0,0:22:29.20,0:22:30.66,GJM_Main_1080p,,0,0,0,,This ain't over yet!
 Dialogue: 0,0:22:40.46,0:22:41.59,GJM_Main_1080p,,0,0,0,,Damn you!
 Dialogue: 0,0:22:46.22,0:22:48.02,GJM_Main_1080p,,0,0,0,,One more verse.
@@ -311,10 +311,10 @@ Dialogue: 0,0:23:25.43,0:23:26.43,GJM_Main_1080p,,0,0,0,,Zero!
 Dialogue: 0,0:23:33.31,0:23:35.16,GJM_Main_1080p,,0,0,0,,Oh... Shit!
 Dialogue: 0,0:23:39.09,0:23:40.77,GJM_Main_1080p,,0,0,0,,Nice catch...
 Dialogue: 0,0:23:40.77,0:23:43.53,GJM_Main_1080p,,0,0,0,,Really, guys! You're totally insane!
-Dialogue: 0,0:23:43.53,0:23:44.74,GJM_Main_1080p,,0,0,0,,Larry! Look ahead!
+Dialogue: 0,0:23:43.53,0:23:44.74,GJM_Main_1080p,,0,0,0,,Rally! Look ahead!
 Dialogue: 0,0:24:02.30,0:24:04.51,GJM_Main_1080p,,0,0,0,,May, just what did you do?
 Dialogue: 0,0:24:06.48,0:24:08.16,GJM_Main_1080p,,0,0,0,,Boy, that was quick.
-Dialogue: 0,0:24:08.16,0:24:09.23,GJM_Main_1080p,,0,0,0,,Larry...
+Dialogue: 0,0:24:08.16,0:24:09.23,GJM_Main_1080p,,0,0,0,,Rally...
 Dialogue: 0,0:24:10.78,0:24:12.42,GJM_Main_1080p,,0,0,0,,We did it again, May!
 Dialogue: 0,0:24:13.85,0:24:15.31,GJM_Main_1080p,,0,0,0,,That said...
 Dialogue: 0,0:24:16.48,0:24:17.14,GJM_Main_1080p,,0,0,0,,Huh?
@@ -325,6 +325,6 @@ Dialogue: 0,0:27:11.03,0:27:13.70,GJM_Main_1080p,,0,0,0,,Hey, you two! You'd bet
 Dialogue: 0,0:27:13.70,0:27:15.16,GJM_Main_1080p,,0,0,0,,Radinov's still alive!
 Dialogue: 0,0:27:15.16,0:27:15.66,GJM_Main_1080p,,0,0,0,,Eh?!
 Dialogue: 0,0:27:15.66,0:27:19.08,GJM_Main_1080p,,0,0,0,,Ugh! I guess that sense of foreboding was for real.
-Dialogue: 0,0:27:19.08,0:27:22.04,GJM_Main_1080p,,0,0,0,,We're in trouble, Larry! \NThere's more to this incident than meets the eye. {lit: the roots are pretty deep}
+Dialogue: 0,0:27:19.08,0:27:22.04,GJM_Main_1080p,,0,0,0,,We're in trouble, Rally! \NThere's more to this incident than meets the eye. {lit: the roots are pretty deep}
 Dialogue: 0,0:27:22.92,0:27:27.79,GJM_Main_1080p,,0,0,0,,The next episode of Gunsmith Cats!\NChapter 3: "High Speed Edge."
 Dialogue: 0,0:27:27.79,0:27:31.05,GJM_Main_1080p,,0,0,0,,If Radinov wants a one-on-one duel, \Nthat's what she's going to get!

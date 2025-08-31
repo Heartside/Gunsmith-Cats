@@ -1,4 +1,4 @@
-[Script Info]
+﻿[Script Info]
 Title: Default file
 ScriptType: v4.00+
 WrapStyle: 0
@@ -29,7 +29,7 @@ Dialogue: 0,0:00:51.41,0:00:56.45,GJM_Main_1080p,,0,0,0,,The "vigilantes vs. cri
 Dialogue: 0,0:00:56.77,0:00:59.95,GJM_Main_1080p,,0,0,0,,We're still investigating who were the civilians involved.
 Dialogue: 0,0:00:59.95,0:01:04.14,GJM_Main_1080p,,0,0,0,,Indeed, I bet you didn't see it coming that the police would lecture you for this.
 Dialogue: 0,0:01:05.90,0:01:09.08,GJM_Main_1080p,,0,0,0,,The moment I get back from my\Nfirst vacation in forever, this happens.
-Dialogue: 0,0:01:09.08,0:01:11.70,GJM_Main_1080p,,0,0,0,,You're not making it easy for me, Larry.
+Dialogue: 0,0:01:09.08,0:01:11.70,GJM_Main_1080p,,0,0,0,,You're not making it easy for me, Rally.
 Dialogue: 0,0:01:11.70,0:01:14.47,GJM_Main_1080p,,0,0,0,,Don't you think you've\Ngone a bit too far this time?
 Dialogue: 0,0:01:14.85,0:01:16.91,GJM_Main_1080p,,0,0,0,,Come on, not you too, Kate.
 Dialogue: 0,0:01:16.91,0:01:18.81,GJM_Main_1080p,,0,0,0,,\NYou're blowing this way out of proportion.
@@ -53,14 +53,14 @@ Dialogue: 0,0:02:04.34,0:02:06.22,GJM_Main_1080p,,0,0,0,,Code name "Bloody Pierc
 Dialogue: 0,0:02:06.22,0:02:09.64,GJM_Main_1080p,,0,0,0,,It seems she was doing freelance hits \Never since when she was in the special forces.
 Dialogue: 0,0:02:09.64,0:02:12.57,GJM_Main_1080p,,0,0,0,,She's a killing machine, trained in every lethal skill.
 Dialogue: 0,0:02:13.18,0:02:15.21,GJM_Main_1080p,,0,0,0,,She's basically the Terminator.
-Dialogue: 0,0:02:15.91,0:02:19.54,GJM_Main_1080p,,0,0,0,,You're up against one hell of an enemy, Larry.
+Dialogue: 0,0:02:15.91,0:02:19.54,GJM_Main_1080p,,0,0,0,,You're up against one hell of an enemy, Rally.
 Dialogue: 0,0:02:19.80,0:02:21.50,GJM_Main_1080p,,0,0,0,,So you think she's still alive?!
 Dialogue: 0,0:02:21.50,0:02:24.24,GJM_Main_1080p,,0,0,0,,That's a worry for us.
 Dialogue: 0,0:02:24.24,0:02:27.46,GJM_Main_1080p,,0,0,0,,Your job is to take this bag \Nand go home quietly.
 Dialogue: 0,0:02:29.01,0:02:29.92,GJM_Main_1080p,,0,0,0,,What's that?
 Dialogue: 0,0:02:30.18,0:02:32.42,GJM_Main_1080p,,0,0,0,,It's from me and my wife...
 Dialogue: 0,0:02:32.42,0:02:34.88,GJM_Main_1080p,,0,0,0,,I'll walk you out the back door, our "heroes."
-Dialogue: 0,0:02:36.98,0:02:39.33,GJM_Main_1080p,,0,0,0,,Larry, please don't go overboard again.
+Dialogue: 0,0:02:36.98,0:02:39.33,GJM_Main_1080p,,0,0,0,,Rally, please don't go overboard again.
 Dialogue: 0,0:02:39.33,0:02:40.67,GJM_Main_1080p,,0,0,0,,Yeah, I know.
 Dialogue: 0,0:02:40.67,0:02:41.43,GJM_Main_1080p,,0,0,0,,See you.
 Dialogue: 0,0:02:43.22,0:02:45.77,GJM_Main_1080p,,0,0,0,,So much for our chance\Nto make some money.
@@ -91,18 +91,18 @@ Dialogue: 0,0:05:33.05,0:05:35.94,GJM_Main_1080p,,0,0,0,,Sorry, but I'm going to
 Dialogue: 0,0:05:35.94,0:05:38.61,GJM_Main_1080p,,0,0,0,,It's bad for business if everyone knows what I look like.
 Dialogue: 0,0:05:38.61,0:05:40.62,GJM_Main_1080p,,0,0,0,,What? But that's such a waste...
 Dialogue: 0,0:05:40.62,0:05:42.74,GJM_Main_1080p,,0,0,0,,You can claim all my fame for yourself.
-Dialogue: 0,0:05:43.31,0:05:46.25,GJM_Main_1080p,,0,0,0,,But Larry, don't let your guard down.
+Dialogue: 0,0:05:43.31,0:05:46.25,GJM_Main_1080p,,0,0,0,,But Rally, don't let your guard down.
 Dialogue: 0,0:05:46.25,0:05:48.70,GJM_Main_1080p,,0,0,0,,\NShe could attack at any time.
 Dialogue: 0,0:05:49.66,0:05:53.36,GJM_Main_1080p,,0,0,0,,When she does, I'll make her pay for all the repairs on my Cobra.
 Dialogue: 0,0:06:31.37,0:06:34.91,GJM_Main_1080p,,0,0,0,,Hm... Not quite it either...
-Dialogue: 0,0:06:35.48,0:06:36.88,GJM_Main_1080p,,0,0,0,,Hey, Larry,
+Dialogue: 0,0:06:35.48,0:06:36.88,GJM_Main_1080p,,0,0,0,,Hey, Rally,
 Dialogue: 0,0:06:36.88,0:06:38.34,GJM_Main_1080p,,0,0,0,,which one do\Nyou think looks better on me?
 Dialogue: 0,0:06:38.34,0:06:41.67,GJM_Main_1080p,,0,0,0,,Ah... Isn't it all the same?
 Dialogue: 0,0:06:41.67,0:06:44.63,GJM_Main_1080p,,0,0,0,,Geez! Can't you at least look here?
 Dialogue: 0,0:06:44.97,0:06:47.50,GJM_Main_1080p,,0,0,0,,It really doesn't matter what you wear.
 Dialogue: 0,0:06:47.50,0:06:51.10,GJM_Main_1080p,,0,0,0,,Instead, you should worry more about your own safety.
 Dialogue: 0,0:06:51.10,0:06:53.30,GJM_Main_1080p,,0,0,0,,Don't you worry about me.
-Dialogue: 0,0:06:53.30,0:06:56.31,GJM_Main_1080p,,0,0,0,,By the way, Larry, try those heels.
+Dialogue: 0,0:06:53.30,0:06:56.31,GJM_Main_1080p,,0,0,0,,By the way, Rally, try those heels.
 Dialogue: 0,0:06:57.25,0:06:59.14,GJM_Main_1080p,,0,0,0,,I bought ones for you too!
 Dialogue: 0,0:06:59.14,0:07:01.03,GJM_Main_1080p,,0,0,0,,Those are for me?
 Dialogue: 0,0:07:04.13,0:07:05.56,GJM_Main_1080p,,0,0,0,,See? They look great on you.
@@ -113,18 +113,18 @@ Dialogue: 0,0:07:13.41,0:07:16.18,GJM_Main_1080p,,0,0,0,,Maybe not, but they'll 
 Dialogue: 0,0:07:16.18,0:07:17.66,GJM_Main_1080p,,0,0,0,,Gimme a break, May!
 Dialogue: 0,0:07:18.99,0:07:20.13,GJM_Main_1080p,,0,0,0,,See? They're here!
 Dialogue: 0,0:07:20.13,0:07:21.85,GJM_Main_1080p,,0,0,0,,Don't be silly!
-Dialogue: 0,0:07:23.40,0:07:26.35,GJM_Main_1080p,,0,0,0,,Larry, you can take them off now.
+Dialogue: 0,0:07:23.40,0:07:26.35,GJM_Main_1080p,,0,0,0,,Rally, you can take them off now.
 Dialogue: 0,0:07:27.16,0:07:28.34,GJM_Main_1080p,,0,0,0,,Oh, yeah...
 Dialogue: 0,0:07:28.75,0:07:29.85,GJM_Main_1080p,,0,0,0,,Who's there?
 Dialogue: 0,0:07:31.82,0:07:32.59,GJM_Main_1080p,,0,0,0,,Who're you?!
-Dialogue: 0,0:07:33.39,0:07:34.95,GJM_Main_1080p,,0,0,0,,Larry, it's me!
+Dialogue: 0,0:07:33.39,0:07:34.95,GJM_Main_1080p,,0,0,0,,Rally, it's me!
 Dialogue: 0,0:07:34.95,0:07:36.60,GJM_Main_1080p,,0,0,0,,It's Bill!\NI've gotta talk to you.
 Dialogue: 0,0:07:37.01,0:07:38.85,GJM_Main_1080p,,0,0,0,,Not you again...
 Dialogue: 0,0:07:38.85,0:07:41.16,GJM_Main_1080p,,0,0,0,,See, they attracted a man!
 Dialogue: 0,0:07:41.16,0:07:42.05,GJM_Main_1080p,,0,0,0,,May!
 Dialogue: 0,0:07:42.67,0:07:43.90,GJM_Main_1080p,,0,0,0,,Just kidding!
 Dialogue: 0,0:07:43.90,0:07:45.04,GJM_Main_1080p,,0,0,0,,Sheesh!
-Dialogue: 0,0:07:45.04,0:07:47.03,GJM_Main_1080p,,0,0,0,,Larry! Come on, open up!
+Dialogue: 0,0:07:45.04,0:07:47.03,GJM_Main_1080p,,0,0,0,,Rally! Come on, open up!
 Dialogue: 0,0:07:47.03,0:07:50.07,GJM_Main_1080p,,0,0,0,,Humph! We have nothing to talk about with you!
 Dialogue: 0,0:07:50.39,0:07:52.96,GJM_Main_1080p,,0,0,0,,As things stand, the investigation will be shut down.
 Dialogue: 0,0:07:52.96,0:07:55.79,GJM_Main_1080p,,0,0,0,,\NPlease! I need your help.
@@ -133,7 +133,7 @@ Dialogue: 0,0:07:59.59,0:08:02.63,GJM_Main_1080p,,0,0,0,,we're going to cut a de
 Dialogue: 0,0:08:02.95,0:08:04.84,GJM_Main_1080p,,0,0,0,,VIP? Who do you mean?
 Dialogue: 0,0:08:05.45,0:08:07.22,GJM_Main_1080p,,0,0,0,,None of your business!
 Dialogue: 0,0:08:07.22,0:08:09.76,GJM_Main_1080p,,0,0,0,,Either way, I've got to get up early tomorrow, so shoo.
-Dialogue: 0,0:08:09.76,0:08:11.23,GJM_Main_1080p,,0,0,0,,But Larry...
+Dialogue: 0,0:08:09.76,0:08:11.23,GJM_Main_1080p,,0,0,0,,But Rally...
 Dialogue: 0,0:08:12.38,0:08:15.56,GJM_Main_1080p,,0,0,0,,Excuse me, sir, could you explain why you are here? {/what do you need from this house}
 Dialogue: 0,0:08:16.89,0:08:19.60,GJM_Main_1080p,,0,0,0,,Look, I'm Bill Collins of the ATF.
 Dialogue: 0,0:08:19.60,0:08:22.61,GJM_Main_1080p,,0,0,0,,I need their help with an investigation.
@@ -215,11 +215,11 @@ Dialogue: 0,0:12:37.65,0:12:39.34,GJM_Main_1080p,,0,0,0,,Who's Eddie Heinz...?
 Dialogue: 0,0:12:39.34,0:12:41.74,GJM_Main_1080p,,0,0,0,,A state senator and a friend of the chief's.
 Dialogue: 0,0:12:42.16,0:12:44.66,GJM_Main_1080p,,0,0,0,,A-And if he's connected to it too...
 Dialogue: 0,0:12:45.12,0:12:48.51,GJM_Main_1080p,,0,0,0,,...then Radinov, Boss, and Heinz were working together.
-Dialogue: 0,0:12:51.78,0:12:54.88,GJM_Main_1080p,,0,0,0,,The VIP Larry said she's meeting... Could it be...
+Dialogue: 0,0:12:51.78,0:12:54.88,GJM_Main_1080p,,0,0,0,,The VIP Rally said she's meeting... Could it be...
 Dialogue: 0,0:12:54.88,0:12:57.17,GJM_Main_1080p,,0,0,0,,Geordi, don't touch anything else!\NGot that?
 Dialogue: 0,0:12:57.98,0:12:59.72,GJM_Main_1080p,,0,0,0,,Hey, wait! Bill!
 Dialogue: 0,0:13:00.72,0:13:02.26,GJM_Main_1080p,,0,0,0,, What's the big hurry?
-Dialogue: 0,0:13:09.14,0:13:13.22,GJM_Main_1080p,,0,0,0,,Sh-She's... A pro... Larry...
+Dialogue: 0,0:13:09.14,0:13:13.22,GJM_Main_1080p,,0,0,0,,Sh-She's... A pro... Rally...
 Dialogue: 0,0:13:34.17,0:13:35.94,GJM_Main_1080p,,0,0,0,,OK. That's where we want it.
 Dialogue: 0,0:13:46.08,0:13:50.69,GJM_Main_1080p,,0,0,0,,Just as Black said, I had better not overstay my welcome in Chicago.
 Dialogue: 0,0:13:51.36,0:13:55.15,GJM_Main_1080p,,0,0,0,,However, I have one thing I need to attend to first.
@@ -238,7 +238,7 @@ Dialogue: 0,0:14:30.39,0:14:34.48,GJM_Main_1080p,,0,0,0,,{\an8}We're sorry to ke
 Dialogue: 0,0:14:32.31,0:14:34.48,GJM_Main_1080p,,0,0,0,,I don't get it.
 Dialogue: 0,0:14:34.94,0:14:38.31,GJM_Main_1080p,,0,0,0,,They told us to be here at the crack of dawn and sit under this tent until evening.
 Dialogue: 0,0:14:38.31,0:14:39.44,GJM_Main_1080p,,0,0,0,,I'm so cold...
-Dialogue: 0,0:14:39.44,0:14:42.86,GJM_Main_1080p,,0,0,0,,This is what you should\Nexpect from politicians, Larry.
+Dialogue: 0,0:14:39.44,0:14:42.86,GJM_Main_1080p,,0,0,0,,This is what you should\Nexpect from politicians, Rally.
 Dialogue: 0,0:14:42.86,0:14:44.91,GJM_Main_1080p,,0,0,0,,We could leave if you'd prefer.
 Dialogue: 0,0:14:44.91,0:14:47.11,GJM_Main_1080p,,0,0,0,,We can't do that.
 Dialogue: 0,0:14:47.11,0:14:50.77,GJM_Main_1080p,,0,0,0,,We need that business license to reopen the shop.
@@ -270,26 +270,26 @@ Dialogue: 0,0:15:55.83,0:15:57.69,GJM_Main_1080p,,0,0,0,,Hello, everyone...
 Dialogue: 0,0:16:00.97,0:16:02.76,GJM_Main_1080p,,0,0,0,,Yes, thank you.
 Dialogue: 0,0:16:02.76,0:16:06.78,GJM_Main_1080p,,0,0,0,,And now, without further ado, I'd like to introduce our today's special guests!
 Dialogue: 0,0:16:06.78,0:16:12.23,GJM_Main_1080p,,0,0,0,,Yes, our heroes who single-handedly \Nfoiled a band of ruthless gunrunners,
-Dialogue: 0,0:16:12.23,0:16:17.00,GJM_Main_1080p,,0,0,0,,Larry Vincent and May Hopkins!
+Dialogue: 0,0:16:12.23,0:16:17.00,GJM_Main_1080p,,0,0,0,,Rally Vincent and May Hopkins!
 Dialogue: 0,0:16:17.75,0:16:20.96,GJM_Main_1080p,,0,0,0,,What's the matter, ladies?\NFeeling a little nervous on the stage?
 Dialogue: 0,0:16:21.27,0:16:25.51,GJM_Main_1080p,,0,0,0,,I have a special award to present to these lovely heroes! {kyuutona}
 Dialogue: 0,0:16:26.01,0:16:31.09,GJM_Main_1080p,,0,0,0,,This plaque is a humble symbol of our appreciation for their bravery and courage.
-Dialogue: 0,0:16:31.47,0:16:34.10,GJM_Main_1080p,,0,0,0,,Now, Larry, May, please step forward.
+Dialogue: 0,0:16:31.47,0:16:34.10,GJM_Main_1080p,,0,0,0,,Now, Rally, May, please step forward.
 Dialogue: 0,0:16:34.10,0:16:36.56,GJM_Main_1080p,,0,0,0,,Don't worry, I won't bite.
 Dialogue: 0,0:16:37.60,0:16:39.38,GJM_Main_1080p,,0,0,0,,Here, Michael, hold the mic.
-Dialogue: 0,0:16:48.55,0:16:50.41,GJM_Main_1080p,,0,0,0,,Larry, run!
+Dialogue: 0,0:16:48.55,0:16:50.41,GJM_Main_1080p,,0,0,0,,Rally, run!
 Dialogue: 0,0:17:05.15,0:17:07.61,GJM_Main_1080p,,0,0,0,,That's her! May, let's go!
-Dialogue: 0,0:17:07.61,0:17:09.12,GJM_Main_1080p,,0,0,0,,L-Larry!
+Dialogue: 0,0:17:07.61,0:17:09.12,GJM_Main_1080p,,0,0,0,,L-Rally!
 Dialogue: 0,0:17:12.40,0:17:14.62,GJM_Main_1080p,,0,0,0,,What's going on?! Hey, what happened?
 Dialogue: 0,0:17:14.62,0:17:17.48,GJM_Main_1080p,,0,0,0,,Ah! He's the ATF agent who was in charge of the gunrunning case!
 Dialogue: 0,0:17:17.48,0:17:17.98,GJM_Main_1080p,,0,0,0,,What?
 Dialogue: 0,0:17:18.31,0:17:20.88,GJM_Main_1080p,,0,0,0,,I-It's a trap.
-Dialogue: 0,0:17:20.88,0:17:23.19,GJM_Main_1080p,,0,0,0,,We've got to stop Larry and May.
+Dialogue: 0,0:17:20.88,0:17:23.19,GJM_Main_1080p,,0,0,0,,We've got to stop Rally and May.
 Dialogue: 0,0:17:23.55,0:17:25.83,GJM_Main_1080p,,0,0,0,,Don't worry.\NI'm with the Chicago Police.
 Dialogue: 0,0:17:25.83,0:17:26.15,GJM_Main_1080p,,0,0,0,,Ah! {could prob do without this line}
 Dialogue: 0,0:17:26.15,0:17:26.65,GJM_Main_1080p,,0,0,0,,Roy!
 Dialogue: 0,0:17:27.06,0:17:28.28,GJM_Main_1080p,,0,0,0,,I took my guns back, no hard feelings!
-Dialogue: 0,0:17:28.75,0:17:30.74,GJM_Main_1080p,,0,0,0,,Wait! Larry!
+Dialogue: 0,0:17:28.75,0:17:30.74,GJM_Main_1080p,,0,0,0,,Wait! Rally!
 Dialogue: 0,0:17:31.00,0:17:32.49,GJM_Main_1080p,,0,0,0,,Bring it on! {/just fine!}
 Dialogue: 0,0:17:32.49,0:17:34.45,GJM_Main_1080p,,0,0,0,,I'll give you this one-on-one duel!
 Dialogue: 0,0:17:48.71,0:17:49.79,GJM_Main_1080p,,0,0,0,,Well?
@@ -306,21 +306,21 @@ Dialogue: 0,0:18:40.18,0:18:42.43,GJM_Main_1080p,,0,0,0,,One false move,\Nand yo
 Dialogue: 0,0:18:44.39,0:18:45.98,GJM_Main_1080p,,0,0,0,,Show me those hands!
 Dialogue: 0,0:18:49.63,0:18:51.37,GJM_Main_1080p,,0,0,0,,Now turn around.
 Dialogue: 0,0:18:51.37,0:18:52.65,GJM_Main_1080p,,0,0,0,,Slowly.
-Dialogue: 0,0:18:54.48,0:18:55.36,GJM_Main_1080p,,0,0,0,,Have some dignity. {lit: show some leeway - figuratively, in japanese it means "to show confidence" but I have no idea how that is applicable here... my best bet is that larry says "you lost already, so give up with pride"? the original subs just made something up here}
-Dialogue: 0,0:18:56.04,0:18:57.99,GJM_Main_1080p,,0,0,0,,You'll lose if you don't show me your face! {lit: you turned your back to me and lost - again, no idea what she means - either that radinov turned her back and tried to run but lost, or that she will lose [die] now if she doesn't turn around bc larry will shoot her in her back??}
-Dialogue: 0,0:18:59.45,0:19:01.79,GJM_Main_1080p,,0,0,0,,Yet if you don't want to shoot me in my back... {ye seems to be about larry's pride, i.e. "I don't want to shoot someone in the back"}
+Dialogue: 0,0:18:54.48,0:18:55.36,GJM_Main_1080p,,0,0,0,,Have some dignity. {lit: show some leeway - figuratively, in japanese it means "to show confidence" but I have no idea how that is applicable here... my best bet is that Rally says "you lost already, so give up with pride"? the original subs just made something up here}
+Dialogue: 0,0:18:56.04,0:18:57.99,GJM_Main_1080p,,0,0,0,,You'll lose if you don't show me your face! {lit: you turned your back to me and lost - again, no idea what she means - either that radinov turned her back and tried to run but lost, or that she will lose [die] now if she doesn't turn around bc Rally will shoot her in her back??}
+Dialogue: 0,0:18:59.45,0:19:01.79,GJM_Main_1080p,,0,0,0,,Yet if you don't want to shoot me in my back... {ye seems to be about Rally's pride, i.e. "I don't want to shoot someone in the back"}
 Dialogue: 0,0:19:02.41,0:19:03.83,GJM_Main_1080p,,0,0,0,,You'll lose!
-Dialogue: 0,0:19:12.26,0:19:13.76,GJM_Main_1080p,,0,0,0,,L-Larry!
+Dialogue: 0,0:19:12.26,0:19:13.76,GJM_Main_1080p,,0,0,0,,L-Rally!
 Dialogue: 0,0:19:18.13,0:19:18.68,GJM_Main_1080p,,0,0,0,,May!
 Dialogue: 0,0:19:20.83,0:19:21.26,GJM_Main_1080p,,0,0,0,,May!
 Dialogue: 0,0:19:25.21,0:19:26.44,GJM_Main_1080p,,0,0,0,,May!
-Dialogue: 0,0:19:36.87,0:19:39.87,GJM_Main_1080p,,0,0,0,,We meet at last, Larry Vincent.
+Dialogue: 0,0:19:36.87,0:19:39.87,GJM_Main_1080p,,0,0,0,,We meet at last, Rally Vincent.
 Dialogue: 0,0:19:47.68,0:19:50.84,GJM_Main_1080p,,0,0,0,,I'll make you pay dearly for this little nick.
 Dialogue: 0,0:19:51.66,0:19:53.05,GJM_Main_1080p,,0,0,0,,I want you to endure the same...
 Dialogue: 0,0:19:53.05,0:19:56.76,GJM_Main_1080p,,0,0,0,,\NNo, far more pain than this.
 Dialogue: 0,0:19:57.70,0:19:59.89,GJM_Main_1080p,,0,0,0,,I won't let you die easily.
 Dialogue: 0,0:19:59.89,0:20:03.22,GJM_Main_1080p,,0,0,0,,You'll know true agony before you go.
-Dialogue: 0,0:20:06.91,0:20:08.19,GJM_Main_1080p,,0,0,0,,Larry...
+Dialogue: 0,0:20:06.91,0:20:08.19,GJM_Main_1080p,,0,0,0,,Rally...
 Dialogue: 0,0:20:12.56,0:20:14.11,GJM_Main_1080p,,0,0,0,,Run...
 Dialogue: 0,0:20:19.24,0:20:19.70,GJM_Main_1080p,,0,0,0,,Wha...?
 Dialogue: 0,0:20:24.82,0:20:26.29,GJM_Main_1080p,,0,0,0,,Shit...
@@ -329,7 +329,7 @@ Dialogue: 0,0:20:46.98,0:20:48.46,GJM_Main_1080p,,0,0,0,,And... cue!
 Dialogue: 0,0:20:48.46,0:20:51.66,GJM_Main_1080p,,0,0,0,,Yes, I'm standing in front of Grand Park,
 Dialogue: 0,0:20:51.66,0:20:57.76,GJM_Main_1080p,,0,0,0,,where just a few moments ago a gunman opened fire on mayoral candidate Edward Heinz during his campaign rally.
 Dialogue: 0,0:20:57.76,0:21:01.12,GJM_Main_1080p,,0,0,0,,At present, the suspect holed up inside the museum, currently closed for renovations.
-Dialogue: 0,0:21:07.87,0:21:09.77,GJM_Main_1080p,,0,0,0,,Larry, hang in there!
+Dialogue: 0,0:21:07.87,0:21:09.77,GJM_Main_1080p,,0,0,0,,Rally, hang in there!
 Dialogue: 0,0:21:09.77,0:21:12.71,GJM_Main_1080p,,0,0,0,,Don't worry about me. \NDon't you need help yourself?
 Dialogue: 0,0:21:13.69,0:21:15.38,GJM_Main_1080p,,0,0,0,,I'm doing just fine.
 Dialogue: 0,0:21:15.38,0:21:16.76,GJM_Main_1080p,,0,0,0,,Minus you hanging on my hands. {lit: only my hands are occupied}
@@ -383,7 +383,7 @@ Dialogue: 0,0:25:28.72,0:25:29.22,GJM_Main_1080p,,0,0,0,,Get away! {???}
 Dialogue: 0,0:25:30.38,0:25:30.93,GJM_Main_1080p,,0,0,0,,What's going on... {???}
 Dialogue: 0,0:25:33.54,0:25:34.85,GJM_Main_1080p,,0,0,0,,I can't raise my arm!
 Dialogue: 0,0:25:58.45,0:26:00.28,GJM_Main_1080p,,0,0,0,,Even I can be useful sometimes.
-Dialogue: 0,0:26:00.89,0:26:03.32,GJM_Main_1080p,,0,0,0,,Not like Eliot Ness, but still... {can't wait for the sequel where larry is tried for excessive self-defense}
+Dialogue: 0,0:26:00.89,0:26:03.32,GJM_Main_1080p,,0,0,0,,Not like Eliot Ness, but still... {can't wait for the sequel where Rally is tried for excessive self-defense}
 Dialogue: 0,0:26:05.07,0:26:06.40,GJM_Main_1080p,,0,0,0,,If you say so...
 Dialogue: 0,0:26:08.42,0:26:09.22,GJM_Main_1080p,,0,0,0,,Are you all right?
 Dialogue: 0,0:26:09.22,0:26:10.55,GJM_Main_1080p,,0,0,0,,I-I'll live.
