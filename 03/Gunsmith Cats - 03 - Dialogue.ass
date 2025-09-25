@@ -15,17 +15,17 @@ Style: GJM_Main_1080p,Gandhi Sans,75,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:14.40,0:00:17.44,GJM_Main_1080p,,0,0,0,,An ordinary morning commute turned into a nightmare today\N TODO: GRAMMAR CHECK BEFORE SHIPPING
+Dialogue: 0,0:00:14.40,0:00:17.44,GJM_Main_1080p,,0,0,0,,An ordinary morning commute turned into a nightmare today
 Dialogue: 0,0:00:17.44,0:00:20.96,GJM_Main_1080p,,0,0,0,,when a shootout erupted during a two-car chase.
 Dialogue: 0,0:00:20.96,0:00:23.00,GJM_Main_1080p,,0,0,0,,Daniel Morgan is on the scene.
 Dialogue: 0,0:00:23.37,0:00:25.31,GJM_Main_1080p,,0,0,0,,As you can see,
 Dialogue: 0,0:00:25.31,0:00:29.59,GJM_Main_1080p,,0,0,0,,the suspect's car fell into the canal and exploded, sending up a column of black smoke. {Managed to cut this down from a god awful 3 liner to a slightly less awful 2 line. I am out of ideas for how to make this work that don't involve cutting "where it exploded". QC, if you have any ideas, please for the love of god save us -Chika}
 Dialogue: 0,0:00:29.90,0:00:34.60,GJM_Main_1080p,,0,0,0,,Although rescue crews were able to recover the car, no bodies have been found.
 Dialogue: 0,0:00:34.60,0:00:38.47,GJM_Main_1080p,,0,0,0,,The ATF is leading the investigation.\N Here's ATF Director George Black,
-Dialogue: 0,0:00:38.47,0:00:40.98,GJM_Main_1080p,,0,0,0,,who says the bodies may have been carried off by the current. {This says 19 CPS but I can read it just fine. Thoughts? -Chika}
+Dialogue: 0,0:00:38.47,0:00:40.98,GJM_Main_1080p,,0,0,0,,who suspects the bodies may have been carried off by the current. {This says 19 CPS but I can read it just fine. Thoughts? -Chika}
 Dialogue: 0,0:00:40.98,0:00:47.87,GJM_Main_1080p,,0,0,0,,Fortunately, with the cooperation of civilians, we were able to break up a gun-smuggling ring.
 Dialogue: 0,0:00:48.77,0:00:51.41,GJM_Main_1080p,,0,0,0,,But let me tell you this.
-Dialogue: 0,0:00:51.41,0:00:56.45,GJM_Main_1080p,,0,0,0,,This "vigilantes vs. criminals" plot where the former comes out on top only works in the movies. {lit: it's only in the movies where an amateur/layman pokes his nose into crime and becomes a hero}
+Dialogue: 0,0:00:51.41,0:00:56.45,GJM_Main_1080p,,0,0,0,,It's only in the movies where some amateur pokes their nose into crime and becomes a hero. {lit: it's only in the movies where an amateur/layman pokes his nose into crime and becomes a hero}
 Dialogue: 0,0:00:56.77,0:00:59.95,GJM_Main_1080p,,0,0,0,,We're still searching for the civilians involved.
 Dialogue: 0,0:00:59.95,0:01:04.14,GJM_Main_1080p,,0,0,0,,Indeed, I bet you didn't think that the police would lecture you for this.
 Dialogue: 0,0:01:05.90,0:01:09.08,GJM_Main_1080p,,0,0,0,,The moment I get back from \Nmy vacation, something happens.
@@ -49,7 +49,7 @@ Dialogue: 0,0:01:54.06,0:01:56.68,GJM_Main_1080p,,0,0,0,,That's her, all right! 
 Dialogue: 0,0:01:56.93,0:02:01.33,GJM_Main_1080p,,0,0,0,,Nastasya Radinov, ex-operative for the Soviet special service. {was "natasha" but here and in credits it's clearly "ナスターシャ・ラディノフ" - Nasutaasha and I think it's actually Nastasya - a rare form of the name Anastasiya}
 Dialogue: 0,0:02:01.33,0:02:03.64,GJM_Main_1080p,,0,0,0,,Currently a freelance gun for hire. {lit: private business}
 Dialogue: 0,0:02:04.34,0:02:06.22,GJM_Main_1080p,,0,0,0,,Code name: "Bloody Pierce."
-Dialogue: 0,0:02:06.22,0:02:09.64,GJM_Main_1080p,,0,0,0,,It seems she was doing freelance hits \Never since when she was in the special forces.
+Dialogue: 0,0:02:06.22,0:02:09.64,GJM_Main_1080p,,0,0,0,,It seems she was doing freelance hits \Never since she was in the special forces.
 Dialogue: 0,0:02:09.64,0:02:12.57,GJM_Main_1080p,,0,0,0,,She's a killing machine, trained in every lethal skill.
 Dialogue: 0,0:02:13.18,0:02:15.21,GJM_Main_1080p,,0,0,0,,She's basically the Terminator.
 Dialogue: 0,0:02:15.91,0:02:19.54,GJM_Main_1080p,,0,0,0,,You're up against one hell of an enemy, Larry.
@@ -305,8 +305,8 @@ Dialogue: 0,0:18:40.18,0:18:42.43,GJM_Main_1080p,,0,0,0,,One false move,\Nand yo
 Dialogue: 0,0:18:44.39,0:18:45.98,GJM_Main_1080p,,0,0,0,,Show me those hands!
 Dialogue: 0,0:18:49.63,0:18:51.37,GJM_Main_1080p,,0,0,0,,Now turn around.
 Dialogue: 0,0:18:51.37,0:18:52.65,GJM_Main_1080p,,0,0,0,,Slowly.
-Dialogue: 0,0:18:54.48,0:18:55.36,GJM_Main_1080p,,0,0,0,,Have some pride. {lit: show some leeway - figuratively, in japanese it means "to show confidence" but I have no idea how that is applicable here... my best bet is that Larry says "you lost already, so give up with pride"? the original subs just made something up here} {Dignity is better but the CPS}
-Dialogue: 0,0:18:56.04,0:18:57.99,GJM_Main_1080p,,0,0,0,,You'll lose if you don't show your face! {lit: you turned your back to me and lost - again, no idea what she means - either that radinov turned her back and tried to run but lost, or that she will lose [die] now if she doesn't turn around bc Larry will shoot her in her back??}
+Dialogue: 0,0:18:54.48,0:18:55.36,GJM_Main_1080p,,0,0,0,,Have some dignity. {lit: show some leeway - figuratively, in japanese it means "to show confidence" but I have no idea how that is applicable here... my best bet is that Larry says "you lost already, so give up with pride"? the original subs just made something up here} {Dignity is better but the CPS}
+Dialogue: 0,0:18:56.04,0:18:57.99,GJM_Main_1080p,,0,0,0,,You'll die if you don't show your face! {lit: you turned your back to me and lost - again, no idea what she means - either that radinov turned her back and tried to run but lost, or that she will lose [die] now if she doesn't turn around bc Larry will shoot her in her back??}
 Dialogue: 0,0:18:59.45,0:19:01.79,GJM_Main_1080p,,0,0,0,,Yet if you refuse to shoot me in my back... {ye seems to be about Larry's pride, i.e. "I don't want to shoot someone in the back"}
 Dialogue: 0,0:19:02.41,0:19:03.83,GJM_Main_1080p,,0,0,0,,You'll lose!
 Dialogue: 0,0:19:12.26,0:19:13.76,GJM_Main_1080p,,0,0,0,,L-Larry!
@@ -325,7 +325,7 @@ Dialogue: 0,0:20:24.82,0:20:26.29,GJM_Main_1080p,,0,0,0,,Shit...
 Dialogue: 0,0:20:36.51,0:20:37.48,GJM_Main_1080p,,0,0,0,,Downstairs?
 Dialogue: 0,0:20:46.98,0:20:48.46,GJM_Main_1080p,,0,0,0,,And... cue!
 Dialogue: 0,0:20:48.46,0:20:51.66,GJM_Main_1080p,,0,0,0,,Yes, I'm standing in front of Grand Park,
-Dialogue: 0,0:20:51.66,0:20:54.19,GJM_Main_1080p,,0,0,0,,where just a few moments ago \Na gunman opened fire 
+Dialogue: 0,0:20:51.66,0:20:54.19,GJM_Main_1080p,,0,0,0,,where just a few moments ago \Na gunman opened fire
 Dialogue: 0,0:20:54.19,0:20:57.76,GJM_Main_1080p,,0,0,0,,on mayoral candidate\N Edward Heinz during his campaign rally.
 Dialogue: 0,0:20:57.76,0:21:01.84,GJM_Main_1080p,,0,0,0,,At present, the suspect is holed up inside \Nthe museum, currently closed for renovations.
 Dialogue: 0,0:21:07.87,0:21:09.77,GJM_Main_1080p,,0,0,0,,Larry, hang in there!

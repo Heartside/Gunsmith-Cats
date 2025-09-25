@@ -66,12 +66,12 @@ Dialogue: 0,0:05:28.00,0:05:29.53,GJM_Main_1080p,,0,0,0,,Shut up!
 Dialogue: 0,0:05:30.39,0:05:31.35,GJM_Main_1080p,,0,0,0,,Welc—
 Dialogue: 0,0:05:38.28,0:05:40.40,GJM_Main_1080p,,0,0,0,,Easy there! I come in peace. {lit: I'm not a sus amogus}
 Dialogue: 0,0:05:40.78,0:05:47.66,GJM_Main_1080p,,0,0,0,,William Collins, special agent with the ATF—\NBureau of Alcohol, Tobacco, and Firearms.
-Dialogue: 0,0:05:48.16,0:05:50.92,GJM_Main_1080p,,0,0,0,,And what can we do for your Department of Everything? {lit: I wonder what the convenience store manager wants} {Woke alt - Department of No Fun} {Less woke alt - Department of Everything fun}
+Dialogue: 0,0:05:48.16,0:05:50.92,GJM_Main_1080p,,0,0,0,,And what can we do for your Department of Everything Fun? {lit: I wonder what the convenience store manager wants} {Woke alt - Department of No Fun} {Less woke alt - Department of Everything fun}
 Dialogue: 0,0:05:50.92,0:05:52.92,GJM_Main_1080p,,0,0,0,,Our books are up to date. {accurate?}
 Dialogue: 0,0:05:53.24,0:05:55.88,GJM_Main_1080p,,0,0,0,,Oh, no. That's not what I'm here for!
 Dialogue: 0,0:05:56.14,0:05:57.34,GJM_Main_1080p,,0,0,0,,So what, then?
-Dialogue: 0,0:05:58.58,0:06:03.18,GJM_Main_1080p,,0,0,0,,I'll go straight to the point. \NI'd like your help on a little sting operation.
-Dialogue: 0,0:06:03.64,0:06:04.64,GJM_Main_1080p,,0,0,0,,What was that? {Shorten to just `What?`}
+Dialogue: 0,0:05:58.58,0:06:03.18,GJM_Main_1080p,,0,0,0,,I'll get straight to the point. \NI'd like your help on a little sting operation.
+Dialogue: 0,0:06:03.64,0:06:04.64,GJM_Main_1080p,,0,0,0,,A little what?
 Dialogue: 0,0:06:05.08,0:06:07.74,GJM_Main_1080p,,0,0,0,,Can we talk this over in the back room?
 Dialogue: 0,0:06:09.76,0:06:15.48,GJM_Main_1080p,,0,0,0,,So, Jonathan Washington doesn't actually trade drugs, but he runs guns?
 Dialogue: 0,0:06:15.48,0:06:23.24,GJM_Main_1080p,,0,0,0,,Yep. And the reason he was running away \Nwas to sell enough of his stock to post his own bail.
@@ -82,7 +82,7 @@ Dialogue: 0,0:06:34.19,0:06:37.58,GJM_Main_1080p,,0,0,0,,You want to make a deal
 Dialogue: 0,0:06:37.58,0:06:38.79,GJM_Main_1080p,,0,0,0,,Correct.
 Dialogue: 0,0:06:39.59,0:06:43.09,GJM_Main_1080p,,0,0,0,,Alas, we're operating\Non a tight budget, but— huh?
 Dialogue: 0,0:06:43.47,0:06:46.87,GJM_Main_1080p,,0,0,0,,Sorry, but we don't have much to discuss, then.
-Dialogue: 0,0:06:46.87,0:06:48.80,GJM_Main_1080p,,0,0,0,,This way to the exit! {alt - The exit is over here / The exit is this way}
+Dialogue: 0,0:06:46.87,0:06:48.80,GJM_Main_1080p,,0,0,0,,The exit is this way! {alt - The exit is over here / The exit is this way}
 Dialogue: 0,0:06:48.80,0:06:50.54,GJM_Main_1080p,,0,0,0,,Ah, bummer.
 Dialogue: 0,0:06:51.34,0:06:54.73,GJM_Main_1080p,,0,0,0,,I really didn't want to resort to a house search.
 Dialogue: 0,0:06:54.73,0:06:56.56,GJM_Main_1080p,,0,0,0,,And just what are you implying?
@@ -106,7 +106,7 @@ Dialogue: 0,0:08:18.74,0:08:20.69,GJM_Main_1080p,,0,0,0,,Don't be so picky.
 Dialogue: 0,0:08:20.69,0:08:23.19,GJM_Main_1080p,,0,0,0,,I'm sick of Chinese takeout.
 Dialogue: 0,0:08:23.19,0:08:26.29,GJM_Main_1080p,,0,0,0,,And I'm sick of the pizza you always get!
 Dialogue: 0,0:08:26.29,0:08:28.40,GJM_Main_1080p,,0,0,0,,Don't slander it like that! {lit: don't say disreputable thing}
-Dialogue: 0,0:08:28.40,0:08:32.37,GJM_Main_1080p,,0,0,0,,Hey, seriously,\NWhat do we do about that ATF guy?
+Dialogue: 0,0:08:28.40,0:08:32.37,GJM_Main_1080p,,0,0,0,,Hey, seriously. \NWhat do we do about that ATF guy?
 Dialogue: 0,0:08:32.37,0:08:37.33,GJM_Main_1080p,,0,0,0,,What choice do we have? If we don't \Ndo what he wants, we'll both be in cuffs soon.
 Dialogue: 0,0:08:37.81,0:08:41.18,GJM_Main_1080p,,0,0,0,,That doesn't sound like you.\NIs there really nothing we can do?
 Dialogue: 0,0:08:41.18,0:08:45.05,GJM_Main_1080p,,0,0,0,,Well, why don't you use some \Nof that feminine charm of yours? {/try your specialty—seduction}
@@ -125,7 +125,7 @@ Dialogue: 0,0:09:46.71,0:09:47.78,GJM_Main_1080p,,0,0,0,,It's been a while...
 Dialogue: 0,0:09:50.88,0:09:52.64,GJM_Main_1080p,,0,0,0,,It's the mother lode!
 Dialogue: 0,0:09:52.64,0:09:54.45,GJM_Main_1080p,,0,0,0,,What did I tell you?
 Dialogue: 0,0:09:54.71,0:09:55.94,GJM_Main_1080p,,0,0,0,,Wow!
-Dialogue: 0,0:09:56.80,0:09:58.41,GJM_Main_1080p,,0,0,0,,They've got sorts of variety! {Woke but this is significantly better imo}
+Dialogue: 0,0:09:56.80,0:09:58.41,GJM_Main_1080p,,0,0,0,,They've got all sorts of variety! {Woke but this is significantly better imo}
 Dialogue: 0,0:09:59.15,0:10:01.87,GJM_Main_1080p,,0,0,0,,Who the hell are the people living here?
 Dialogue: 0,0:10:02.72,0:10:05.08,GJM_Main_1080p,,0,0,0,,Hey! Take a look at this bad boy!
 Dialogue: 0,0:10:06.49,0:10:09.30,GJM_Main_1080p,,0,0,0,,There's enough here to start a war!
@@ -219,7 +219,7 @@ Dialogue: 0,0:15:11.12,0:15:13.91,GJM_Main_1080p,,0,0,0,,Yes, with your help... 
 Dialogue: 0,0:15:13.91,0:15:15.93,GJM_Main_1080p,,0,0,0,,It sure is exhausting to be a big shot. {lit: when you become great, busy}
 Dialogue: 0,0:15:28.74,0:15:31.66,GJM_Main_1080p,,0,0,0,,Why are you guys always doing this to me?!
 Dialogue: 0,0:15:31.66,0:15:33.33,GJM_Main_1080p,,0,0,0,,You're nothing but trouble.
-Dialogue: 0,0:15:33.33,0:15:35.56,GJM_Main_1080p,,0,0,0,,You always decide{do?} things without asking me!
+Dialogue: 0,0:15:33.33,0:15:35.56,GJM_Main_1080p,,0,0,0,,You always do things without talking to me!
 Dialogue: 0,0:15:35.56,0:15:37.14,GJM_Main_1080p,,0,0,0,,What was that, Becky?
 Dialogue: 0,0:15:37.14,0:15:39.54,GJM_Main_1080p,,0,0,0,,I asked, why'd you take such a stupid job?
 Dialogue: 0,0:15:39.54,0:15:42.85,GJM_Main_1080p,,0,0,0,,I was worried,\Nso I arranged a great gig for you!
@@ -231,7 +231,7 @@ Dialogue: 0,0:15:53.68,0:15:54.85,GJM_Main_1080p,,0,0,0,,Yeah, good question! {s
 Dialogue: 0,0:15:54.85,0:15:58.70,GJM_Main_1080p,,0,0,0,,Because it seems my advice isn't worth squat here! {lit: I'm a human without use}
 Dialogue: 0,0:15:58.70,0:16:02.49,GJM_Main_1080p,,0,0,0,,Now, now, don't be so salty.\NI'll buy you dinner.
 Dialogue: 0,0:16:03.27,0:16:05.25,GJM_Main_1080p,,0,0,0,,No Chinese takeout or pizza.
-Dialogue: 0,0:16:12.24,0:16:13.08,GJM_Main_1080p,,0,0,0,,Hey, Larry,
+Dialogue: 0,0:16:12.24,0:16:13.08,GJM_Main_1080p,,0,0,0,,Hey, Larry!
 Dialogue: 0,0:16:13.34,0:16:15.82,GJM_Main_1080p,,0,0,0,,Where the heck are you taking me?
 Dialogue: 0,0:16:15.82,0:16:18.12,GJM_Main_1080p,,0,0,0,,All you have to do is stay in the car.
 Dialogue: 0,0:16:18.41,0:16:20.77,GJM_Main_1080p,,0,0,0,,After this, I'll buy dinner, trust me.
@@ -356,7 +356,7 @@ Dialogue: 0,0:24:26.03,0:24:26.78,GJM_Main_1080p,,0,0,0,,Die!
 Dialogue: 0,0:24:26.78,0:24:27.40,GJM_Main_1080p,,0,0,0,,Bill!
 Dialogue: 0,0:24:49.20,0:24:52.43,GJM_Main_1080p,,0,0,0,,See, I wasn't totally useless after all, was I?
 Dialogue: 0,0:24:52.43,0:24:55.89,GJM_Main_1080p,,0,0,0,,Yeah, right, he says \Nafter pulling that reckless stunt.
-Dialogue: 0,0:24:56.75,0:24:58.85,GJM_Main_1080p,,0,0,0,,Maybe a little reckless, heh.
+Dialogue: 0,0:24:56.75,0:24:58.85,GJM_Main_1080p,,0,0,0,,It wasn't my cleanest performance. {Ringtomb suggestion. Not the biggest fan but it works so I'm not arguing}
 Dialogue: 0,0:24:59.46,0:25:04.69,GJM_Main_1080p,,0,0,0,,Bastards... We're not done yet! {lit: the game is not over yet}
 Dialogue: 0,0:25:04.69,0:25:06.11,GJM_Main_1080p,,0,0,0,,But we are! {lit: that's the case for you - meaning "it's the opposite of what you say"}
 Dialogue: 0,0:25:06.11,0:25:06.82,GJM_Main_1080p,,0,0,0,,What?
@@ -372,7 +372,7 @@ Dialogue: 0,0:25:40.87,0:25:42.79,GJM_Main_1080p,,0,0,0,,Hey now, you two.
 Dialogue: 0,0:25:42.79,0:25:44.56,GJM_Main_1080p,,0,0,0,,Don't even get us started! {/it was all your fault}
 Dialogue: 0,0:25:44.56,0:25:49.03,GJM_Main_1080p,,0,0,0,,Eh? What did you say? \NIt seems my ears are still a bit clogged. {/shell-shocked}
 Dialogue: 0,0:25:49.68,0:25:50.88,GJM_Main_1080p,,0,0,0,,You're impossible. {/insufferable/I give up}
-Dialogue: 0,0:25:50.88,0:25:53.53,GJM_Main_1080p,,0,0,0,,How much of a jerk can you be? {zuuzuu-shii = impudent; shameless; brazen; forward; audacious; cheeky​} {Alt - How shameless can you get?}
+Dialogue: 0,0:25:50.88,0:25:53.53,GJM_Main_1080p,,0,0,0,,How insufferable can you be? {zuuzuu-shii = impudent; shameless; brazen; forward; audacious; cheeky​} {Alt - How shameless can you get?}
 Dialogue: 0,0:25:53.81,0:25:55.11,GJM_Main_1080p,,0,0,0,,Ah, that's right.
 Dialogue: 0,0:25:55.11,0:25:59.00,GJM_Main_1080p,,0,0,0,,Speaking of jerks{change to shamelessness if that is what is used}, I've got one more little favor to ask. How about it? {lit: speaking of zuuzuu-ness}
 Dialogue: 0,0:25:59.00,0:25:59.94,GJM_Main_1080p,,0,0,0,,Huh?!

@@ -99,9 +99,8 @@ Dialogue: 0,0:06:45.07,0:06:48.11,GJM_Main_1080p,,0,0,0,,Damn it!\NThey dumped a
 Dialogue: 0,0:06:48.11,0:06:50.10,GJM_Main_1080p,,0,0,0,,At least it's good to kill time.
 Dialogue: 0,0:06:50.55,0:06:52.04,GJM_Main_1080p,,0,0,0,,And now, the news.
 Dialogue: 0,0:06:52.04,0:06:52.56,GJM_Main_1080p,,0,0,0,,Huh?
-Dialogue: 0,0:06:52.93,0:06:55.04,GJM_Main_1080p,,0,0,0,,With the mayoral election coming up,
-Dialogue: 0,0:06:55.04,0:06:57.92,GJM_Main_1080p,,0,0,0,,state senator Edward Heinz
-Dialogue: 0,0:06:57.92,0:07:03.49,GJM_Main_1080p,,0,0,0,,today pledged to work with the ATF \Nto completely eradicate illegal gun and drug trafficking.
+Dialogue: 0,0:06:52.93,0:06:57.92,GJM_Main_1080p,,0,0,0,,With the mayoral election coming up, \Nstate senator Edward Heinz
+Dialogue: 0,0:06:57.92,0:07:03.49,GJM_Main_1080p,,0,0,0,,pledged today to work with the ATF to completely eradicate illegal gun and drug trafficking.
 Dialogue: 0,0:07:04.08,0:07:09.05,GJM_Main_1080p,,0,0,0,,{\an8}We all know law-abiding citizens don't need these things. {/everyone knows it is not necessary for peaceful civil life} {\an8'd in order to fix the subs overlapping with the signs. Lmk if I need to revert -Chika}
 Dialogue: 0,0:07:09.44,0:07:13.00,GJM_Main_1080p,,0,0,0,,{\an8}I'm just trying to promote some common-sense solutions.
 Dialogue: 0,0:07:13.00,0:07:14.02,GJM_Main_1080p,,0,0,0,,{\an8}Where's the camera?
@@ -165,7 +164,7 @@ Dialogue: 0,0:12:12.32,0:12:15.13,GJM_Main_1080p,,0,0,0,,I was joking! \NYou're 
 Dialogue: 0,0:12:15.13,0:12:17.88,GJM_Main_1080p,,0,0,0,,Hey, Larry, that's my pop.\NGive it back!
 Dialogue: 0,0:12:18.50,0:12:19.76,GJM_Main_1080p,,0,0,0,,Hey, Larry!
 Dialogue: 0,0:12:26.35,0:12:28.27,GJM_Main_1080p,,0,0,0,,May... are you alright?
-Dialogue: 0,0:12:28.58,0:12:30.98,GJM_Main_1080p,,0,0,0,,I won't listen to you anymore.
+Dialogue: 0,0:12:28.58,0:12:30.98,GJM_Main_1080p,,0,0,0,,I'm done listening to you.
 Dialogue: 0,0:12:34.17,0:12:39.41,GJM_Main_1080p,,0,0,0,,W-Well, in any case, it's pointless to keep thinking about this.
 Dialogue: 0,0:12:39.41,0:12:41.97,GJM_Main_1080p,,0,0,0,,I guess we'd better drop it for now... right?
 Dialogue: 0,0:12:47.20,0:12:48.70,GJM_Main_1080p,,0,0,0,,Working hard, gentlemen?
@@ -173,7 +172,7 @@ Dialogue: 0,0:12:48.70,0:12:49.67,GJM_Main_1080p,,0,0,0,,This is for you.
 Dialogue: 0,0:12:49.67,0:12:51.98,GJM_Main_1080p,,0,0,0,,Uh... Well... I don't think I...
 Dialogue: 0,0:12:51.98,0:12:54.38,GJM_Main_1080p,,0,0,0,,Spare us your flimsy excuses, Bill.
 Dialogue: 0,0:12:55.01,0:12:56.84,GJM_Main_1080p,,0,0,0,,Our business with you is over.
-Dialogue: 0,0:12:57.51,0:13:01.55,GJM_Main_1080p,,0,0,0,,If you've got time to bug our house, you'd better get that license you promised us sorted! {Fits good enough but might be worth getting QC to look at.}
+Dialogue: 0,0:12:57.51,0:13:01.55,GJM_Main_1080p,,0,0,0,,If you've got time to bug our house, then you've got time to get us that license you promised!
 Dialogue: 0,0:13:01.55,0:13:04.56,GJM_Main_1080p,,0,0,0,,This investigation isn't over yet, Larry.
 Dialogue: 0,0:13:04.56,0:13:07.02,GJM_Main_1080p,,0,0,0,,Please, I can't do it without your help!
 Dialogue: 0,0:13:07.02,0:13:08.98,GJM_Main_1080p,,0,0,0,,It's no use puffing out your chest now. {/trying to sound serious}
@@ -198,7 +197,7 @@ Dialogue: 0,0:14:19.29,0:14:23.62,GJM_Main_1080p,,0,0,0,,Hey, did you notice any
 Dialogue: 0,0:14:23.62,0:14:24.31,GJM_Main_1080p,,0,0,0,,Huh?
 Dialogue: 0,0:14:26.63,0:14:27.37,GJM_Main_1080p,,0,0,0,,We did it!
 Dialogue: 0,0:14:27.37,0:14:29.91,GJM_Main_1080p,,0,0,0,,Yeah, our rhythm was perfect!
-Dialogue: 0,0:14:29.91,0:14:32.10,GJM_Main_1080p,,0,0,0,,Are you{ two?} even listening to me?
+Dialogue: 0,0:14:29.91,0:14:32.10,GJM_Main_1080p,,0,0,0,,Are you two even listening to me?
 Dialogue: 0,0:14:32.10,0:14:34.55,GJM_Main_1080p,,0,0,0,,Ah! Sorry.
 Dialogue: 0,0:14:34.55,0:14:38.16,GJM_Main_1080p,,0,0,0,,But you might be right.\NMaybe there was a clue...
 Dialogue: 0,0:14:42.89,0:14:44.78,GJM_Main_1080p,,0,0,0,,He was browsing the internet!
