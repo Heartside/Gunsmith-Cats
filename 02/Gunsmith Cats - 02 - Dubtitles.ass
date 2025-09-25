@@ -4,6 +4,8 @@ ScriptType: v4.00+
 WrapStyle: 0
 ScaledBorderAndShadow: yes
 YCbCr Matrix: None
+PlayResX: 1920
+PlayResY: 1080
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -47,7 +49,7 @@ Dialogue: 0,0:04:35.48,0:04:38.36,GJM_Main_1080p,,0,0,0,,- Damn, he found the mi
 Dialogue: 0,0:04:38.57,0:04:41.12,GJM_Main_1080p,,0,0,0,,I'm not safe here! You gotta get me out!
 Dialogue: 0,0:04:41.32,0:04:46.04,GJM_Main_1080p,,0,0,0,,And just where would you find a safer\Nplace? You're in an ATF safe house!
 Dialogue: 0,0:04:46.25,0:04:49.46,GJM_Main_1080p,,0,0,0,,May's right. This is about as\Nsafe as you're gonna get.
-Dialogue: 0,0:04:49.67,0:04:53.46,GJM_Main_1080p,,0,0,0,,You don't understand... I know too\Nmuch. I'm a sitting duck in here.
+Dialogue: 0,0:04:49.67,0:04:53.46,GJM_Main_1080p,,0,0,0,,You don't understand... I know too much.\N I'm a sitting duck in here.
 Dialogue: 0,0:04:53.84,0:04:56.30,GJM_Main_1080p,,0,0,0,,That's why the ATF has five agents that—
 Dialogue: 0,0:04:56.51,0:04:59.88,GJM_Main_1080p,,0,0,0,,No! Listen to me!\NYou can't trust the ATF!
 Dialogue: 0,0:05:00.13,0:05:03.39,GJM_Main_1080p,,0,0,0,,Washington, your time's up.\NOpen the door!

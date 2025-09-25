@@ -4,6 +4,8 @@ ScriptType: v4.00+
 WrapStyle: 0
 ScaledBorderAndShadow: yes
 YCbCr Matrix: None
+PlayResX: 1920
+PlayResY: 1080
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -126,7 +128,7 @@ Dialogue: 0,0:08:11.33,0:08:12.33,GJM_Main_1080p,,0,0,0,,Huh...? What?
 Dialogue: 0,0:08:12.45,0:08:15.41,GJM_Main_1080p,,0,0,0,,'Scuse me sir, but do you have any\Nbusiness with these two ladies?
 Dialogue: 0,0:08:16.08,0:08:22.59,GJM_Main_1080p,,0,0,0,,Look, I'm Bill Collins, an ATF investigator.\NI need their cooperation for an investigation.
 Dialogue: 0,0:08:22.80,0:08:25.63,GJM_Main_1080p,,0,0,0,,You don't have to show me your ID card.
-Dialogue: 0,0:08:25.63,0:08:29.34,GJM_Main_1080p,,0,0,0,,My orders are to not to let anyone come\Nnear this house, not even the president.
+Dialogue: 0,0:08:25.63,0:08:29.34,GJM_Main_1080p,,0,0,0,,My orders are to not let anyone come\Nnear this house, not even the president.
 Dialogue: 0,0:08:30.18,0:08:32.97,GJM_Main_1080p,,0,0,0,,Okay, I give up!
 Dialogue: 0,0:08:32.97,0:08:35.56,GJM_Main_1080p,,0,0,0,,Hey, if you see the president,\Ngive him my regards.
 Dialogue: 0,0:08:35.77,0:08:38.06,GJM_Main_1080p,,0,0,0,,I'll tell him you said "hello."
@@ -315,6 +317,6 @@ Dialogue: 0,0:25:32.91,0:25:34.70,GJM_Main_1080p,,0,0,0,,{\i1}My arm can't move!
 Dialogue: 0,0:25:57.97,0:26:04.15,GJM_Main_1080p,,0,0,0,,Admit it, sometimes I'm useful.\NI'm a real Eliot Ness, pussycat.
 Dialogue: 0,0:26:04.44,0:26:07.98,GJM_Main_1080p,,0,0,0,,Not you again...
 Dialogue: 0,0:26:08.61,0:26:14.16,GJM_Main_1080p,,0,0,0,,- Oh, ma'am, are you all right?\N- I'm fine. I can get up by myself.
-Dialogue: 0,0:26:22.25,0:26:25.50,GJM_Main_1080p,,0,0,0,,I have to be able stand up for myself.
+Dialogue: 0,0:26:22.25,0:26:25.50,GJM_Main_1080p,,0,0,0,,I have to be able to stand up for myself.
 Dialogue: 0,0:26:35.22,0:26:38.31,GJM_Main_1080p,,0,0,0,,You've gotta be tough\Nto live in this town.
 Dialogue: 0,0:26:38.52,0:26:40.48,GJM_Main_1080p,,0,0,0,,You said it!

@@ -4,6 +4,8 @@ ScriptType: v4.00+
 WrapStyle: 0
 ScaledBorderAndShadow: yes
 YCbCr Matrix: None
+PlayResX: 1920
+PlayResY: 1080
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -98,7 +100,7 @@ Dialogue: 0,0:08:20.96,0:08:23.13,GJM_Main_1080p,,0,0,0,,I'm really sick of Chin
 Dialogue: 0,0:08:23.34,0:08:25.88,GJM_Main_1080p,,0,0,0,,And I'm sick of the\Npizza you always order!
 Dialogue: 0,0:08:26.09,0:08:28.26,GJM_Main_1080p,,0,0,0,,I'm not that bad, and you know it.
 Dialogue: 0,0:08:28.59,0:08:32.22,GJM_Main_1080p,,0,0,0,,But seriously, what do\Nwe do about that ATF guy?
-Dialogue: 0,0:08:32.64,0:08:37.18,GJM_Main_1080p,,0,0,0,,What choice do we have? It we don't do what\Nhe wants, we'll both be wearing gray lingerie.
+Dialogue: 0,0:08:32.64,0:08:37.18,GJM_Main_1080p,,0,0,0,,What choice do we have? If we don't do what\Nhe wants, we'll both be wearing gray lingerie.
 Dialogue: 0,0:08:37.64,0:08:41.61,GJM_Main_1080p,,0,0,0,,You don't sound like the Rally I know.\NCan't we do anything?
 Dialogue: 0,0:08:41.81,0:08:44.61,GJM_Main_1080p,,0,0,0,,Well, why don't you use some\Nof those feminine wiles of yours?
 Dialogue: 0,0:08:44.61,0:08:48.15,GJM_Main_1080p,,0,0,0,,You've got a thing for middle-aged men,\Nright?
@@ -125,7 +127,7 @@ Dialogue: 0,0:10:22.92,0:10:25.17,GJM_Main_1080p,,0,0,0,,But Rally, they're smok
 Dialogue: 0,0:10:25.38,0:10:28.67,GJM_Main_1080p,,0,0,0,,No explosions in the house, May.\NNow go back to your room.
 Dialogue: 0,0:10:33.43,0:10:36.64,GJM_Main_1080p,,0,0,0,,Hey! The next room over is\Nfilled with ammunition.
 Dialogue: 0,0:10:36.85,0:10:38.68,GJM_Main_1080p,,0,0,0,,Cool. And just my gauge.
-Dialogue: 0,0:10:38.89,0:10:41.14,GJM_Main_1080p,,0,0,0,,Man, you can't you wait\Nto load that thing, can you?
+Dialogue: 0,0:10:38.89,0:10:41.14,GJM_Main_1080p,,0,0,0,,Man, you can't wait\Nto load that thing, can you?
 Dialogue: 0,0:10:41.35,0:10:44.19,GJM_Main_1080p,,0,0,0,,Heh! I've been waiting\Nfor a gun like this all my life!
 Dialogue: 0,0:10:45.60,0:10:47.15,GJM_Main_1080p,,0,0,0,,- Huh?\N- What the hell?
 Dialogue: 0,0:10:47.86,0:10:49.78,GJM_Main_1080p,,0,0,0,,Crap!
