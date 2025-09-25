@@ -1,2 +1,0 @@
-# Gunsmith Cats
-
