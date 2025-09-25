@@ -4,9 +4,9 @@ for i in range(1, 4):
     setup = Setup(
         f"{i:02d}",
         None,
-        out_dir=R"Gunsmith Cats (1995) S01 [BD Remux 1080p H264 FLAC] [Dual Audio] [Heartside]",
+        out_dir=R"Gunsmith Cats (1995) - S01 (BD Remux 1080p AVC FLAC) [Dual-Audio] [Heartside]",
         mkv_title_naming="",
-        out_name=Rf"Gunsmith Cats - S01E$ep$ (BD Remux 1080p H264 FLAC) [Dual Audio] [$crc32$] [Heartside]",
+        out_name=Rf"[Heartside] - Gunsmith Cats (1995) - S01E$ep$ (BD Remux 1080p AVC FLAC)",
         clean_work_dirs=True,
         error_on_danger=True
     )
@@ -37,5 +37,5 @@ for i in range(1, 4):
         kenichi.to_track("Commentary by Kenichi Sonoda, Masahiro Arai, and Takanori Kaza'ana [USBD]", default=False, forced=False),
         matt.to_track("Commentary by Matt Greenfield and Tiffany Grant [USBD]", default=False, forced=False),
         *fonts,
-        tmdb=TmdbConfig(86791, season=1)
+        tmdb=TmdbConfig(22831, season=1)
     )

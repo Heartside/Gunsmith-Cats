@@ -1,12 +1,20 @@
-*.mkv
-*.opus
-*.flac
-*Temp/
-*.ffindex
-*.log
-*.mp4
-*.png
-*.jpg
-_workdir
-_binaries
-Gunsmith Cats (1995) S01 [BD Remux 1080p H264 FLAC] [Dual Audio] [Heartside]
+*
+!*/
+
+# Git
+!.gitattributes
+!.gitignore
+
+# Timing and subs
+!*.log
+!*.ass
+
+# Fonts
+!*.ttf
+!*.otf
+!*.ttc
+
+# Scripts
+!scripts/
+!scripts/**
+!mux.py
