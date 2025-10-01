@@ -6,7 +6,7 @@ for i in range(1, 4):
         None,
         out_dir=R"Gunsmith Cats (1995) - S01 (BD Remux 1080p AVC FLAC) [Dual-Audio] [Heartside]",
         mkv_title_naming="",
-        out_name=Rf"[Heartside] - Gunsmith Cats (1995) - S01E$ep$ (BD Remux 1080p AVC FLAC)",
+        out_name=Rf"[Heartside] Gunsmith Cats (1995) - S01E$ep$ (BD Remux 1080p AVC FLAC) [$crc32$]",
         clean_work_dirs=True,
         error_on_danger=True
     )
